@@ -1,0 +1,412 @@
+Row #,Taxon Order,Category,Common Name,Scientific Name,Count,Location,S/P,Date,LocID,SubID,Exotic,Countable
+1,13128,species,Nanday Parakeet,Aratinga nenday,20,The Celery Fields,US-FL,29 Mar 2026,L234146,S314486284,N,1
+2,5533,species,Gray-headed Swamphen,Porphyrio poliocephalus,1,The Celery Fields,US-FL,29 Mar 2026,L234146,S314486284,N,1
+3,6576,species,Lesser Black-backed Gull,Larus fuscus,1,Longboat Key--North Beach,US-FL,04 Jan 2026,L835878,S292357975,,1
+4,8909,species,Snowy Owl,Bubo scandiacus,1,"Montrose Point Bird Sanctuary, Lincoln Park",US-IL,10 Dec 2025,L161180,S288074454,,1
+6,5780,species,American Avocet,Recurvirostra americana,200,Bombay Hook National Wildlife Refuge,US-DE,23 Nov 2025,L126637,S285852118,,1
+7,384,species,Tundra Swan,Cygnus columbianus,36,Bombay Hook National Wildlife Refuge,US-DE,23 Nov 2025,L126637,S285852118,,1
+8,243,species,Black-bellied Whistling-Duck,Dendrocygna autumnalis,8,Wheatley's Pond,US-DE,23 Nov 2025,L13978187,S285754641,,1
+9,26856,species,Goldcrest,Regulus regulus,1,Hyde Park  and  Kensington Gardens,GB-ENG,04 Nov 2025,L12106788,S282819477,,1
+10,670,species,Common Pochard,Aythya ferina,3,Hyde Park  and  Kensington Gardens,GB-ENG,04 Nov 2025,L12106788,S282819477,,1
+11,21575,species,Carrion Crow,Corvus corone,14,Stanley Park,GB-ENG,02 Nov 2025,L5484718,S282578275,,1
+12,6545,species,European Herring Gull,Larus argentatus,3,Stanley Park,GB-ENG,02 Nov 2025,L5484718,S282578275,,1
+13,5487,species,Eurasian Coot,Fulica atra,4,Stanley Park,GB-ENG,02 Nov 2025,L5484718,S282578275,,1
+14,21339,species,Eurasian Jay,Garrulus glandarius,2,Windsor Promenade,GB-ENG,30 Oct 2025,L7684204,S282135847,,1
+15,8342,species,Red Kite,Milvus milvus,2,Windsor Promenade,GB-ENG,30 Oct 2025,L7684204,S282135847,,1
+16,417,species,Egyptian Goose,Alopochen aegyptiaca,2,Windsor Promenade,GB-ENG,30 Oct 2025,L7684204,S282135847,N,1
+17,377,species,Mute Swan,Cygnus olor,4,Windsor Promenade,GB-ENG,30 Oct 2025,L7684204,S282135847,,1
+18,287,species,Greater White-fronted Goose,Anser albifrons,1,"Montrose Point Bird Sanctuary, Lincoln Park",US-IL,16 Oct 2025,L161180,S279773311,,1
+20,4102,species,Pallid Swift,Apus pallidus,,Sevilla--Catedral,ES-AN,29 Jun 2025,L5704353,S255399294,,1
+21,7524,species,Eurasian Spoonbill,Platalea leucorodia,3,La Barca de Vejer,ES-AN,28 Jun 2025,L2748416,S255389238,,1
+22,27044,species,Short-toed Treecreeper,Certhia brachydactyla,1,Barcelona--Castillo de Montjuïc,ES-CT,25 Jun 2025,L11117290,S253996267,,1
+23,25267,species,Eurasian Blackcap,Sylvia atricapilla,2,Barcelona--Castillo de Montjuïc,ES-CT,25 Jun 2025,L11117290,S253996267,,1
+24,2031,species,Eurasian Collared-Dove,Streptopelia decaocto,3,Barcelona--Castillo de Montjuïc,ES-CT,25 Jun 2025,L11117290,S253996267,,1
+25,25351,species,Sardinian Warbler,Curruca melanocephala,1,Barcelona--Parc Güell,ES-CT,24 Jun 2025,L1930975,S253743714,,1
+26,21996,species,Crested Tit,Lophophanes cristatus,1,Barcelona--Parc Güell,ES-CT,24 Jun 2025,L1930975,S253743714,,1
+27,6500,species,Audouin's Gull,Ichthyaetus audouinii,1,Barcelona--Plaça de Catalunya,ES-CT,24 Jun 2025,L10402926,S253743636,,1
+28,29253,species,European Robin,Erithacus rubecula,1,Madrid--Parque El Retiro,ES-MD,23 Jun 2025,L1139116,S253513881,,1
+29,27826,species,Spotless Starling,Sturnus unicolor,3,Madrid--Parque El Retiro,ES-MD,23 Jun 2025,L1139116,S253513881,,1
+30,21950,species,Coal Tit,Periparus ater,2,Madrid--Parque El Retiro,ES-MD,23 Jun 2025,L1139116,S253513881,,1
+31,11680,species,Iberian Green Woodpecker,Picus sharpei,2,Madrid--Parque El Retiro,ES-MD,23 Jun 2025,L1139116,S253513881,,1
+32,1880,species,Stock Dove,Columba oenas,1,Madrid--Parque El Retiro,ES-MD,23 Jun 2025,L1139116,S253513881,,1
+33,32472,species,Eurasian Linnet,Linaria cannabina,1,Río Tajo--Toledo (área general),ES-CM,22 Jun 2025,L2371073,S253182285,,1
+34,32336,species,European Greenfinch,Chloris chloris,1,Río Tajo--Toledo (área general),ES-CM,22 Jun 2025,L2371073,S253182285,,1
+35,31534,species,House Sparrow,Passer domesticus,7,Río Tajo--Toledo (área general),ES-CM,22 Jun 2025,L2371073,S253182285,,1
+36,22175,species,Great Tit,Parus major,1,Río Tajo--Toledo (área general),ES-CM,22 Jun 2025,L2371073,S253182285,,1
+37,7291,species,White Stork,Ciconia ciconia,3,Río Tajo--Toledo (área general),ES-CM,22 Jun 2025,L2371073,S253182285,,1
+38,3614,species,Eastern Whip-poor-will,Antrostomus vociferus,1,"Montrose Point Bird Sanctuary, Lincoln Park",US-IL,14 May 2025,L161180,S237728494,,1
+39,5455,species,Sora,Porzana carolina,2,Galien River County Park,US-MI,02 May 2025,L2355891,S232179458,,1
+40,7565,species,Least Bittern,Botaurus exilis,1,"Montrose Point Bird Sanctuary, Lincoln Park",US-IL,28 Apr 2025,L161180,S230671477,,1
+42,34005,species,MacGillivray's Warbler,Geothlypis tolmiei,2,Yosemite NP--Mariposa Grove,US-CA,21 Jun 2024,L996128,S183195103,,1
+43,33851,species,Brewer's Blackbird,Euphagus cyanocephalus,1,Yosemite Valley--Headquarters area,US-CA,20 Jun 2024,L747255,S182791608,,1
+44,33736,species,Bullock's Oriole,Icterus bullockii,2,Yosemite Valley--Headquarters area,US-CA,20 Jun 2024,L747255,S182791608,,1
+45,34200,species,Black-throated Gray Warbler,Setophaga nigrescens,1,Yosemite NP--Nevada Fall,US-CA,20 Jun 2024,L27966580,S182791569,,1
+46,34559,species,Black-headed Grosbeak,Pheucticus melanocephalus,2,Yosemite NP--Glacier Pt.,US-CA,20 Jun 2024,L595393,S182791575,,1
+47,34439,species,Western Tanager,Piranga ludoviciana,1,Yosemite NP--Glacier Pt.,US-CA,20 Jun 2024,L595393,S182791575,,1
+48,33385,species,Green-tailed Towhee,Pipilo chlorurus,2,Yosemite NP--Glacier Pt.,US-CA,20 Jun 2024,L595393,S182791575,,1
+49,11451,species,White-headed Woodpecker,Leuconotopicus albolarvatus,3,Yosemite NP--Glacier Pt.,US-CA,20 Jun 2024,L595393,S182791575,,1
+50,34061,species,Cerulean Warbler,Setophaga cerulea,1,"Montrose Point Bird Sanctuary, Lincoln Park",US-IL,11 May 2024,L161180,S173461268,,1
+51,612,species,Green-winged Teal,Anas crecca,4,Exton Park,US-PA,21 Nov 2023,L1306255,S154904355,,1
+52,505,species,Gadwall,Mareca strepera,1,Exton Park,US-PA,21 Nov 2023,L1306255,S154904355,,1
+53,9276,species,Short-eared Owl,Asio flammeus,1,"Montrose Point Bird Sanctuary, Lincoln Park",US-IL,01 Apr 2023,L161180,S132373682,,1
+54,22077,species,Mountain Chickadee,Poecile gambeli,1,Devil's Bridge Trail,US-AZ,14 Mar 2023,L3350741,S130939460,,1
+55,21309,species,Woodhouse's Scrub-Jay,Aphelocoma woodhouseii,3,Soldier Pass Trailhead,US-AZ,14 Mar 2023,L16651204,S131106140,,1
+56,27150,species,Rock Wren,Salpinctes obsoletus,2,Camelback Mountain Recreation Area,US-AZ,13 Mar 2023,L299206,S130854193,,1
+57,27133,species,Black-tailed Gnatcatcher,Polioptila melanura,2,Camelback Mountain Recreation Area,US-AZ,13 Mar 2023,L299206,S130854193,,1
+58,22269,species,Verdin,Auriparus flaviceps,3,Camelback Mountain Recreation Area,US-AZ,13 Mar 2023,L299206,S130854193,,1
+59,33330,species,Canyon Towhee,Melozone fusca,2,McDowell Sonoran Preserve--Tom's Thumb Area,US-AZ,11 Mar 2023,L3705390,S130702783,,1
+60,33018,species,Black-throated Sparrow,Amphispiza bilineata,5,McDowell Sonoran Preserve--Tom's Thumb Area,US-AZ,11 Mar 2023,L3705390,S130702783,,1
+61,28024,species,Curve-billed Thrasher,Toxostoma curvirostre,2,McDowell Sonoran Preserve--Tom's Thumb Area,US-AZ,11 Mar 2023,L3705390,S130702783,,1
+62,4818,species,Costa's Hummingbird,Calypte costae,1,McDowell Sonoran Preserve--Tom's Thumb Area,US-AZ,11 Mar 2023,L3705390,S130702783,,1
+63,3038,species,Greater Roadrunner,Geococcyx californianus,1,McDowell Sonoran Preserve--Tom's Thumb Area,US-AZ,11 Mar 2023,L3705390,S130702783,,1
+64,1105,species,Gambel's Quail,Callipepla gambelii,1,McDowell Sonoran Preserve--Tom's Thumb Area,US-AZ,11 Mar 2023,L3705390,S130702783,,1
+66,6622,species,Black Skimmer,Rynchops niger,3,Naples Pier,US-FL,09 Feb 2023,L760418,S127927115,,1
+67,17479,species,Loggerhead Kingbird,Tyrannus caudifasciatus,1,Hyatt Zilara Rose Hall,JM-08,18 Dec 2022,L21825909,S124204916,,1
+68,4188,species,Antillean Palm Swift,Tachornis phoenicobia,1,Hyatt Zilara Rose Hall,JM-08,18 Dec 2022,L21825909,S124204916,,1
+69,4810,species,Vervain Hummingbird,Mellisuga minima,1,Hyatt Zilara Rose Hall,JM-08,17 Dec 2022,L21825909,S124136902,,1
+70,22710,species,Horned Lark,Eremophila alpestris,2,"Montrose Point Bird Sanctuary, Lincoln Park",US-IL,08 Oct 2022,L161180,S120189424,,1
+71,7560,species,American Bittern,Botaurus lentiginosus,1,"Montrose Point Bird Sanctuary, Lincoln Park",US-IL,08 Oct 2022,L161180,S120189424,,1
+72,6207,species,Purple Sandpiper,Calidris maritima,1,"Montrose Point Bird Sanctuary, Lincoln Park",US-IL,17 Sep 2022,L161180,S118890774,,1
+73,6474,species,Black-headed Gull,Chroicocephalus ridibundus,8,Venezia (area generale),IT-34,27 Jun 2022,L1272698,S113895958,,1
+74,32552,species,European Goldfinch,Carduelis carduelis,1,Giardino di Boboli,IT-52,26 Jun 2022,L1597413,S113799903,,1
+75,31720,species,White Wagtail,Motacilla alba,1,Giardino di Boboli,IT-52,26 Jun 2022,L1597413,S113799903,,1
+76,22114,species,Eurasian Blue Tit,Cyanistes caeruleus,1,Giardino di Boboli,IT-52,26 Jun 2022,L1597413,S113799903,,1
+77,21514,species,Eurasian Jackdaw,Coloeus monedula,10,San Gimignano,IT-52,25 Jun 2022,L2418081,S113746316,,1
+78,32731,species,Cirl Bunting,Emberiza cirlus,1,Siena,IT-52,25 Jun 2022,L4508379,S113746366,,1
+79,21467,species,Eurasian Magpie,Pica pica,1,Siena,IT-52,25 Jun 2022,L4508379,S113746366,,1
+80,7714,species,Squacco Heron,Ardeola ralloides,1,Firenze (area generale),IT-52,24 Jun 2022,L2313664,S113655769,,1
+81,7397,species,Great Cormorant,Phalacrocorax carbo,1,Firenze (area generale),IT-52,24 Jun 2022,L2313664,S113655769,,1
+82,7745,species,Gray Heron,Ardea cinerea,1,Lungarno (Arno river),IT-52,23 Jun 2022,L1597407,S113611127,,1
+83,7650,species,Little Egret,Egretta garzetta,2,Lungarno (Arno river),IT-52,23 Jun 2022,L1597407,S113611127,,1
+84,1885,species,Common Wood-Pigeon,Columba palumbus,3,Lungarno (Arno river),IT-52,23 Jun 2022,L1597407,S113611127,,1
+85,32572,species,European Serin,Serinus serinus,2,Colosseo (Colosseum or Coliseum),IT-62,21 Jun 2022,L1107525,S113505422,,1
+86,29652,species,Blue Rock-Thrush,Monticola solitarius,1,Colosseo (Colosseum or Coliseum),IT-62,21 Jun 2022,L1107525,S113505422,,1
+87,28500,species,Eurasian Blackbird,Turdus merula,1,Colosseo (Colosseum or Coliseum),IT-62,21 Jun 2022,L1107525,S113505422,,1
+88,11993,species,Eurasian Kestrel,Falco tinnunculus,1,Colosseo (Colosseum or Coliseum),IT-62,21 Jun 2022,L1107525,S113505422,,1
+89,12350,species,Rose-ringed Parakeet,Psittacula krameri,7,Orto Botanico di Roma,IT-62,20 Jun 2022,L1157651,S113335282,N,1
+90,5462,species,Eurasian Moorhen,Gallinula chloropus,1,Orto Botanico di Roma,IT-62,20 Jun 2022,L1157651,S113335282,,1
+91,31549,species,Italian Sparrow,Passer italiae,2,Ponte Sant'Angelo,IT-62,19 Jun 2022,L6482577,S113304043,,1
+92,24214,species,Western House-Martin,Delichon urbicum,6,Ponte Sant'Angelo,IT-62,19 Jun 2022,L6482577,S113304043,,1
+93,21578,species,Hooded Crow,Corvus cornix,1,Ponte Sant'Angelo,IT-62,19 Jun 2022,L6482577,S113304043,,1
+94,6552,species,Yellow-legged Gull,Larus michahellis,5,Ponte Sant'Angelo,IT-62,19 Jun 2022,L6482577,S113304043,,1
+95,4094,species,Common Swift,Apus apus,5,Ponte Sant'Angelo,IT-62,19 Jun 2022,L6482577,S113304043,,1
+96,6699,species,Least Tern,Sternula antillarum,2,Castle Island and Pleasure Bay,US-MA,29 May 2022,L452353,S111631515,,1
+97,19244,species,Philadelphia Vireo,Vireo philadelphicus,1,"Montrose Point Bird Sanctuary, Lincoln Park",US-IL,14 May 2022,L161180,S109990861,,1
+98,33957,species,Blue-winged Warbler,Vermivora cyanoptera,1,"Montrose Point Bird Sanctuary, Lincoln Park",US-IL,13 May 2022,L161180,S109856432,,1
+99,31883,species,American Pipit,Anthus rubescens,2,"Montrose Point Bird Sanctuary, Lincoln Park",US-IL,13 May 2022,L161180,S109856432,,1
+100,33564,species,Bobolink,Dolichonyx oryzivorus,4,"Montrose Point Bird Sanctuary, Lincoln Park",US-IL,08 May 2022,L161180,S109304495,,1
+101,33029,species,Lark Sparrow,Chondestes grammacus,1,"Montrose Point Bird Sanctuary, Lincoln Park",US-IL,07 May 2022,L161180,S109201176,,1
+102,5941,species,Snowy Plover,Anarhynchus nivosus,1,"Montrose Point Bird Sanctuary, Lincoln Park",US-IL,23 Apr 2022,L161180,S107783431,,1
+103,34621,species,Painted Bunting,Passerina ciris,2,Corkscrew Regional Ecosystem Watershed--Bird Rookery Swamp Trails,US-FL,05 Mar 2022,L1061691,S104216339,,1
+104,445,species,Muscovy Duck,Cairina moschata,6,Sugden Regional Park,US-FL,04 Mar 2022,L656190,S104134730,N,1
+105,9133,species,Burrowing Owl,Athene cunicularia,1,Arboretum Circle,US-FL,02 Mar 2022,L17975932,S104023753,,1
+106,6731,species,Forster's Tern,Sterna forsteri,14,"Montrose Point Bird Sanctuary, Lincoln Park",US-IL,11 Aug 2021,L161180,S93100978,,1
+107,5836,species,Piping Plover,Charadrius melodus,4,"Montrose Point Bird Sanctuary, Lincoln Park",US-IL,19 Jul 2021,L161180,S91978592,,1
+108,24051,species,Bank Swallow,Riparia riparia,40,"Montrose Point Bird Sanctuary, Lincoln Park",US-IL,10 Jul 2021,L161180,S91525896,,1
+109,34011,species,Kentucky Warbler,Geothlypis formosa,1,"Unnamed Road, Chillicothe, Ohio, US (39.446, -83.072)",US-OH,13 Jun 2021,L9671891,S90125412,,1
+110,16950,species,Acadian Flycatcher,Empidonax virescens,1,"Unnamed Road, Chillicothe, Ohio, US (39.446, -83.072)",US-OH,13 Jun 2021,L9671891,S90125412,,1
+111,6591,species,California Gull,Larus californicus,3,Mother's Beach,US-CA,30 May 2021,L1336659,S89319677,,1
+112,32324,species,Purple Finch,Haemorhous purpureus,3,Gaviota State Park,US-CA,30 May 2021,L613644,S89289613,,1
+113,29909,species,Phainopepla,Phainopepla nitens,5,Gaviota State Park,US-CA,30 May 2021,L613644,S89289613,,1
+114,28054,species,California Thrasher,Toxostoma redivivum,1,Gaviota State Park,US-CA,30 May 2021,L613644,S89289613,,1
+115,4158,species,White-throated Swift,Aeronautes saxatalis,1,Gaviota State Park,US-CA,30 May 2021,L613644,S89289613,,1
+116,21477,species,Yellow-billed Magpie,Pica nuttalli,1,"Figueroa Mountain Road, Santa Ynez, California, US (34.701, -120.113)",US-CA,29 May 2021,L15150128,S89203711,,1
+117,33350,species,California Towhee,Melozone crissalis,5,Birabent Canyon,US-CA,29 May 2021,L2771988,S89203778,,1
+118,22150,species,Oak Titmouse,Baeolophus inornatus,4,Birabent Canyon,US-CA,29 May 2021,L2771988,S89203778,,1
+119,11410,species,Nuttall's Woodpecker,Dryobates nuttallii,1,Birabent Canyon,US-CA,29 May 2021,L2771988,S89203778,,1
+121,1966,species,Band-tailed Pigeon,Patagioenas fasciata,8,Big Sur--Nepenthe,US-CA,27 May 2021,L1655498,S89096656,,1
+122,17323,species,Ash-throated Flycatcher,Myiarchus cinerascens,1,Pfeiffer Big Sur SP,US-CA,27 May 2021,L317501,S89091552,,1
+123,16890,species,Olive-sided Flycatcher,Contopus cooperi,1,Pfeiffer Big Sur SP,US-CA,27 May 2021,L317501,S89091552,,1
+124,7808,species,California Condor,Gymnogyps californianus,1,Pfeiffer Big Sur SP,US-CA,27 May 2021,L317501,S89091552,,1
+125,26924,species,Pygmy Nuthatch,Sitta pygmaea,2,Pt. Lobos State Reserve,US-CA,26 May 2021,L199245,S89040448,,1
+126,25431,species,Wrentit,Chamaea fasciata,1,Pt. Lobos State Reserve,US-CA,26 May 2021,L199245,S89032717,,1
+127,25253,species,Bushtit,Psaltriparus minimus,1,Pt. Lobos State Reserve,US-CA,26 May 2021,L199245,S89032717,,1
+128,16998,species,Black Phoebe,Sayornis nigricans,2,Pt. Lobos State Reserve,US-CA,26 May 2021,L199245,S89032717,,1
+129,11146,species,Acorn Woodpecker,Melanerpes formicivorus,5,Pt. Lobos State Reserve,US-CA,26 May 2021,L199245,S89032717,,1
+130,7389,species,Brandt's Cormorant,Urile penicillatus,600,Pt. Lobos State Reserve,US-CA,26 May 2021,L199245,S89032717,,1
+131,5806,species,Black Oystercatcher,Haematopus bachmani,1,Pt. Lobos State Reserve,US-CA,26 May 2021,L199245,S89032717,,1
+132,13203,species,Red-masked Parakeet,Psittacara erythrogenys,15,RUSS BRIGHT PARK (formerly Ferry / Sue Bierman Park),US-CA,25 May 2021,L1284799,S89001767,N,1
+133,27288,species,Pacific Wren,Troglodytes pacificus,2,Muir Woods NM--Main Trail,US-CA,25 May 2021,L2913605,S89000739,,1
+134,21303,species,California Scrub-Jay,Aphelocoma californica,1,Palomarin Trail,US-CA,25 May 2021,L884109,S88981774,,1
+135,21274,species,Steller's Jay,Cyanocitta stelleri,1,Palomarin Trail,US-CA,25 May 2021,L884109,S88981774,,1
+136,4831,species,Allen's Hummingbird,Selasphorus sasin,1,Palomarin Trail,US-CA,25 May 2021,L884109,S88981774,,1
+137,1094,species,California Quail,Callipepla californica,1,Palomarin Trail,US-CA,25 May 2021,L884109,S88981774,,1
+138,33682,species,Hooded Oriole,Icterus cucullatus,1,"7750 Giusti Road, Forestville, California, US (38.486, -122.903)",US-CA,22 May 2021,L15037017,S88729261,,1
+139,314,species,Brant,Branta bernicla,5,Bodega Bay--harbor and immediate vicinity,US-CA,21 May 2021,L109489,S88677153,,1
+140,6051,species,Marbled Godwit,Limosa fedoa,3,Bodega Bay--harbor and immediate vicinity,US-CA,21 May 2021,L109489,S88669406,,1
+141,28136,species,Western Bluebird,Sialia mexicana,2,"7750 Giusti Road, Forestville, California, US (38.486, -122.903)",US-CA,21 May 2021,L15037017,S88657026,,1
+142,27362,species,Bewick's Wren,Thryomanes bewickii,1,Kirby Cove,US-CA,20 May 2021,L1103976,S88623163,,1
+143,24074,species,Violet-green Swallow,Tachycineta thalassina,2,Kirby Cove,US-CA,20 May 2021,L1103976,S88623163,,1
+144,22094,species,Chestnut-backed Chickadee,Poecile rufescens,2,Kirby Cove,US-CA,20 May 2021,L1103976,S88623163,,1
+146,33848,species,Rusty Blackbird,Euphagus carolinus,2,Theodore Roosevelt Island,US-DC,17 Apr 2021,L718768,S85708070,,1
+147,1477,species,Ring-necked Pheasant,Phasianus colchicus,7,"42813-43133 Elm Island Road, Gibbon, Nebraska, US (40.664, -98.891)",US-NE,09 Apr 2021,L14388386,S85191876,N,1
+148,33563,species,Yellow-headed Blackbird,Xanthocephalus xanthocephalus,1,Platte River--Lowell Rd crossing,US-NE,09 Apr 2021,L508636,S85144133,,1
+149,33565,species,Western Meadowlark,Sturnella neglecta,1,Fort Kearny SRA--south Platte River bridge,US-NE,08 Apr 2021,L1111719,S85130468,,1
+150,8256,species,Sharp-shinned Hawk,Accipiter striatus,1,Indiana Dunes SP--Observation Tower,US-IN,05 Apr 2021,L2091564,S84846824,,1
+151,34153,species,Pine Warbler,Setophaga pinus,2,Audubon Corkscrew Swamp Sanctuary,US-FL,15 Mar 2021,L127407,S83449609,,1
+152,19165,species,White-eyed Vireo,Vireo griseus,1,Audubon Corkscrew Swamp Sanctuary,US-FL,15 Mar 2021,L127407,S83449609,,1
+153,5515,species,Purple Gallinule,Porphyrio martinica,2,Audubon Corkscrew Swamp Sanctuary,US-FL,15 Mar 2021,L127407,S83449609,,1
+154,7921,species,Swallow-tailed Kite,Elanoides forficatus,4,Sanibel Island (please consider using a more precise location),US-FL,11 Mar 2021,L481080,S83190323,,1
+155,21091,species,Loggerhead Shrike,Lanius ludovicianus,1,Rookery Bay NERR--Briggs Boardwalk,US-FL,13 Jan 2021,L295606,S79175108,,1
+156,7634,species,Reddish Egret,Egretta rufescens,2,J. N. Ding Darling NWR--Wildlife Drive,US-FL,10 Jan 2021,L823147,S79008984,,1
+157,19226,species,Blue-headed Vireo,Vireo solitarius,2,J. N. Ding Darling NWR--Indigo Trail,US-FL,10 Jan 2021,L889504,S79003994,,1
+158,8501,species,Short-tailed Hawk,Buteo brachyurus,1,J. N. Ding Darling NWR--Wildlife Drive,US-FL,10 Jan 2021,L823147,S78995127,,1
+159,7791,species,American White Pelican,Pelecanus erythrorhynchos,500,J. N. Ding Darling NWR--Wildlife Drive,US-FL,10 Jan 2021,L823147,S78995127,,1
+160,7533,species,Roseate Spoonbill,Platalea ajaja,4,J. N. Ding Darling NWR--Wildlife Drive,US-FL,10 Jan 2021,L823147,S78995127,,1
+161,575,species,Mottled Duck,Anas fulvigula,4,J. N. Ding Darling NWR--Wildlife Drive,US-FL,10 Jan 2021,L823147,S78995127,,1
+163,7306,species,Wood Stork,Mycteria americana,1,Audubon Corkscrew Swamp Sanctuary,US-FL,09 Jan 2021,L127407,S78929437,,1
+164,5671,species,Limpkin,Aramus guarauna,1,Audubon Corkscrew Swamp Sanctuary,US-FL,09 Jan 2021,L127407,S78929437,,1
+165,34185,species,Prairie Warbler,Setophaga discolor,1,Delnor-Wiggins Pass SP,US-FL,08 Jan 2021,L833946,S78867132,,1
+166,7367,species,Anhinga,Anhinga anhinga,1,Naples Zoo at Caribbean Gardens,US-FL,07 Jan 2021,L1434519,S78836282,,1
+167,6161,species,Ruddy Turnstone,Arenaria interpres,3,Barefoot Beach County Preserve,US-FL,06 Jan 2021,L810737,S78797361,,1
+168,6147,species,Willet,Tringa semipalmata,1,Barefoot Beach County Preserve,US-FL,06 Jan 2021,L810737,S78797361,,1
+169,9219,species,Barred Owl,Strix varia,1,Catalpa Creek,US-OH,18 Dec 2020,L9037370,S77643321,,1
+170,594,species,Northern Pintail,Anas acuta,1,Lincoln Park Zoo,US-IL,07 Dec 2020,L1573785,S77222165,,1
+171,267,species,Snow Goose,Anser caerulescens,1,Lincoln Park--North Pond,US-IL,08 Nov 2020,L152691,S76000546,,1
+172,27295,species,Winter Wren,Troglodytes hiemalis,1,Northwestern University (Main Campus and Lakefill),US-IL,17 Oct 2020,L152692,S74949024,,1
+173,34218,species,Black-throated Green Warbler,Setophaga virens,2,Northwestern University (Main Campus and Lakefill),US-IL,20 Sep 2020,L152692,S73820857,,1
+174,26937,species,Red-breasted Nuthatch,Sitta canadensis,6,"Montrose Point Bird Sanctuary, Lincoln Park",US-IL,16 Sep 2020,L161180,S73663300,,1
+176,6562,species,Great Black-backed Gull,Larus marinus,1,Sandbridge Beach,US-VA,31 Jul 2020,L1405901,S71973831,,1
+177,6789,species,Royal Tern,Thalasseus maximus,2,Sandbridge Beach,US-VA,30 Jul 2020,L1405901,S71953977,,1
+178,6748,species,Common Tern,Sterna hirundo,3,Sandbridge Beach,US-VA,30 Jul 2020,L1405901,S71953977,,1
+179,33858,species,Boat-tailed Grackle,Quiscalus major,5,**Back Bay NWR,US-VA,28 Jul 2020,L718307,S71892075,,1
+180,7467,species,Glossy Ibis,Plegadis falcinellus,3,**Back Bay NWR,US-VA,28 Jul 2020,L718307,S71892075,,1
+181,7462,species,White Ibis,Eudocimus albus,12,**Back Bay NWR,US-VA,28 Jul 2020,L718307,S71892075,,1
+182,6775,species,Sandwich Tern,Thalasseus sandvicensis,1,Sandbridge Beach,US-VA,27 Jul 2020,L1405901,S71881711,,1
+183,7832,species,Osprey,Pandion haliaetus,1,**Back Bay NWR,US-VA,26 Jul 2020,L718307,S71830971,,1
+186,21570,species,Fish Crow,Corvus ossifragus,2,Mount Trashmore Park,US-VA,25 Jul 2020,L4132095,S71811407,,1
+187,6490,species,Laughing Gull,Leucophaeus atricilla,5,Mount Trashmore Park,US-VA,25 Jul 2020,L4132095,S71811407,,1
+188,382,species,Trumpeter Swan,Cygnus buccinator,5,Rollins Savanna Forest Preserve,US-IL,13 Jun 2020,L1568862,S70385737,,1
+189,34344,species,Canada Warbler,Cardellina canadensis,1,Northwestern University (Main Campus and Lakefill),US-IL,22 May 2020,L152692,S69452256,,1
+190,34083,species,Bay-breasted Warbler,Setophaga castanea,3,Northwestern University (Main Campus and Lakefill),US-IL,22 May 2020,L152692,S69452256,,1
+191,33972,species,Tennessee Warbler,Leiothlypis peregrina,1,Clark Street Beach Bird Sanctuary,US-IL,21 May 2020,L3615041,S69409168,,1
+192,32996,species,Clay-colored Sparrow,Spizella pallida,1,Clark Street Beach Bird Sanctuary,US-IL,21 May 2020,L3615041,S69409168,,1
+194,34006,species,Mourning Warbler,Geothlypis philadelphia,1,Northwestern University (Main Campus and Lakefill),US-IL,20 May 2020,L152692,S69360610,,1
+195,34138,species,Blackpoll Warbler,Setophaga striata,1,Northwestern University (Main Campus and Lakefill),US-IL,19 May 2020,L152692,S69305327,,1
+196,33310,species,Lincoln's Sparrow,Melospiza lincolnii,3,Northwestern University (Main Campus and Lakefill),US-IL,18 May 2020,L152692,S69259844,,1
+197,28313,species,Veery,Catharus fuscescens,1,Northwestern University (Main Campus and Lakefill),US-IL,18 May 2020,L152692,S69259844,,1
+198,778,species,Ruddy Duck,Oxyura jamaicensis,1,Northwestern University (Main Campus and Lakefill),US-IL,18 May 2020,L152692,S69259844,,1
+199,34557,species,Rose-breasted Grosbeak,Pheucticus ludovicianus,3,Cincinnati Nature Center--Rowe Woods,US-OH,13 May 2020,L322642,S68973894,,1
+200,34436,species,Scarlet Tanager,Piranga olivacea,1,Cincinnati Nature Center--Rowe Woods,US-OH,13 May 2020,L322642,S68973894,,1
+201,34133,species,Chestnut-sided Warbler,Setophaga pensylvanica,1,Cincinnati Nature Center--Rowe Woods,US-OH,13 May 2020,L322642,S68973894,,1
+202,34057,species,Hooded Warbler,Setophaga citrina,1,Catalpa Creek,US-OH,12 May 2020,L9037370,S68925796,,1
+203,34084,species,Blackburnian Warbler,Setophaga fusca,1,"Sharon Woods Park, Sharonville",US-OH,30 Apr 2020,L592770,S68096875,,1
+204,19220,species,Yellow-throated Vireo,Vireo flavifrons,1,"Sharon Woods Park, Sharonville",US-OH,30 Apr 2020,L592770,S68096875,,1
+205,34087,species,Northern Yellow Warbler,Setophaga aestiva,1,Miami Whitewater Forest--Shaker Trace Wetlands,US-OH,25 Apr 2020,L210242,S67773655,,1
+206,33963,species,Prothonotary Warbler,Protonotaria citrea,1,"Sharon Woods Park, Sharonville",US-OH,20 Apr 2020,L592770,S67541094,,1
+207,8910,species,Great Horned Owl,Bubo virginianus,2,Otto Armleder Memorial Park,US-OH,09 Apr 2020,L298164,S66862996,,1
+208,6933,species,Common Loon,Gavia immer,1,"Sharon Woods Park, Sharonville",US-OH,05 Apr 2020,L592770,S66669176,,1
+209,33315,species,Swamp Sparrow,Melospiza georgiana,1,Miami Whitewater Forest--Shaker Trace Wetlands,US-OH,25 Mar 2020,L210242,S66199519,,1
+210,571,species,American Black Duck,Anas rubripes,1,Miami Whitewater Forest--Shaker Trace Wetlands,US-OH,25 Mar 2020,L210242,S66199519,,1
+211,7811,species,Black Vulture,Coragyps atratus,1,Alms Park,US-OH,24 Mar 2020,L466097,S66162609,,1
+213,673,species,Ring-necked Duck,Aythya collaris,6,Glenwood Gardens,US-OH,19 Mar 2020,L324868,S65970123,,1
+214,9253,species,Long-eared Owl,Asio otus,1,Northwestern University (Main Campus and Lakefill),US-IL,08 Mar 2020,L152692,S65580107,,1
+216,741,species,Long-tailed Duck,Clangula hyemalis,1,"Montrose Point Bird Sanctuary, Lincoln Park",US-IL,07 Mar 2020,L161180,S65522097,,1
+217,700,species,Lesser Scaup,Aythya affinis,1,"Montrose Point Bird Sanctuary, Lincoln Park",US-IL,07 Mar 2020,L161180,S65522097,,1
+218,501,species,Northern Shoveler,Spatula clypeata,4,Northwestern University (Main Campus and Lakefill),US-IL,23 Feb 2020,L152692,S64897367,,1
+219,694,species,Greater Scaup,Aythya marila,20,Millennium Park,US-IL,22 Feb 2020,L1521963,S64861365,,1
+220,7391,species,Pelagic Cormorant,Urile pelagicus,1,San Francisco Ferry Building,US-CA,12 Feb 2020,L854587,S64449546,,1
+221,6888,species,Western Grebe,Aechmophorus occidentalis,1,San Francisco Ferry Building,US-CA,12 Feb 2020,L854587,S64449546,,1
+222,6528,species,Western Gull,Larus occidentalis,2,San Francisco Ferry Building,US-CA,12 Feb 2020,L854587,S64449546,,1
+223,31288,species,Orange-cheeked Waxbill,Estrilda melpoda,1,Wyndham Rio Mar,PR-RG,03 Jan 2020,L10386057,S62947880,N,1
+224,31050,species,Bronze Mannikin,Spermestes cucullata,10,Wyndham Rio Mar,PR-RG,03 Jan 2020,L10386057,S62947880,N,1
+225,4395,species,Puerto Rican Mango,Anthracothorax aurulentus,1,Wyndham Rio Mar,PR-RG,03 Jan 2020,L10386057,S62947880,,1
+226,34063,species,Northern Parula,Setophaga americana,1,Sevens Seas Beach Trail - Northeast Ecological Cooridor,PR-FJ,02 Jan 2020,L3976962,S62927365,,1
+227,3241,species,Mangrove Cuckoo,Coccyzus minor,1,Sevens Seas Beach Trail - Northeast Ecological Cooridor,PR-FJ,02 Jan 2020,L3976962,S62927365,,1
+228,7724,species,Western Cattle-Egret,Ardea ibis,,Wyndham Rio Mar,PR-RG,02 Jan 2020,L10386057,S62902126,,1
+229,7645,species,Snowy Egret,Egretta thula,3,Wyndham Rio Mar,PR-RG,02 Jan 2020,L10386057,S62902126,,1
+230,7630,species,Tricolored Heron,Egretta tricolor,1,Wyndham Rio Mar,PR-RG,02 Jan 2020,L10386057,S62902126,,1
+231,7629,species,Little Blue Heron,Egretta caerulea,2,Wyndham Rio Mar,PR-RG,02 Jan 2020,L10386057,S62902126,,1
+232,5770,species,Black-necked Stilt,Himantopus mexicanus,8,Wyndham Rio Mar,PR-RG,02 Jan 2020,L10386057,S62902126,,1
+233,2243,species,Common Ground Dove,Columbina passerina,1,Wyndham Rio Mar,PR-RG,02 Jan 2020,L10386057,S62902126,,1
+234,1948,species,Scaly-naped Pigeon,Patagioenas squamosa,5,Wyndham Rio Mar,PR-RG,02 Jan 2020,L10386057,S62902126,,1
+235,33548,species,Puerto Rican Spindalis,Spindalis portoricensis,3,Bosque Nacional El Yunque--Mt. Britton,PR-RG,01 Jan 2020,L323803,S62845145,,1
+236,33539,species,Puerto Rican Tanager,Nesospingus speculiferus,9,Bosque Nacional El Yunque--Mt. Britton,PR-RG,01 Jan 2020,L323803,S62845145,,1
+237,4865,species,Puerto Rican Emerald,Riccordia maugaeus,1,Bosque Nacional El Yunque--Mt. Britton,PR-RG,01 Jan 2020,L323803,S62845145,,1
+238,28009,species,Pearly-eyed Thrasher,Margarops fuscatus,2,Wyndham Rio Mar,PR-RG,31 Dec 2019,L10386057,S62816643,,1
+239,11144,species,Puerto Rican Woodpecker,Melanerpes portoricensis,1,Wyndham Rio Mar,PR-RG,31 Dec 2019,L10386057,S62816643,,1
+240,35644,species,Bananaquit,Coereba flaveola,1,Viejo San Juan,PR-SJ,30 Dec 2019,L294049,S62778345,,1
+241,28627,species,Eastern Red-legged Thrush,Turdus ardosiaceus,2,Viejo San Juan,PR-SJ,30 Dec 2019,L294049,S62778345,,1
+242,17474,species,Gray Kingbird,Tyrannus dominicensis,2,Viejo San Juan,PR-SJ,30 Dec 2019,L294049,S62778345,,1
+243,12819,species,Monk Parakeet,Myiopsitta monachus,2,Viejo San Juan,PR-SJ,30 Dec 2019,L294049,S62778345,N,1
+244,7342,species,Brown Booby,Sula leucogaster,1,Viejo San Juan,PR-SJ,30 Dec 2019,L294049,S62778345,,1
+245,33881,species,Greater Antillean Grackle,Quiscalus niger,14,Viejo San Juan,PR-SJ,30 Dec 2019,L294049,S62768141,,1
+246,7792,species,Brown Pelican,Pelecanus occidentalis,3,Viejo San Juan,PR-SJ,30 Dec 2019,L294049,S62768141,,1
+247,7315,species,Magnificent Frigatebird,Fregata magnificens,1,Viejo San Juan,PR-SJ,30 Dec 2019,L294049,S62768141,,1
+248,2393,species,Zenaida Dove,Zenaida aurita,5,Viejo San Juan,PR-SJ,30 Dec 2019,L294049,S62768141,,1
+249,770,species,Red-breasted Merganser,Mergus serrator,2,Northwestern University (Main Campus and Lakefill),US-IL,23 Nov 2019,L152692,S61667940,,1
+250,331,species,Cackling Goose,Branta hutchinsii,1,Northwestern University (Main Campus and Lakefill),US-IL,23 Nov 2019,L152692,S61667940,,1
+251,6866,species,Horned Grebe,Podiceps auritus,1,Northwestern University (Main Campus and Lakefill),US-IL,17 Nov 2019,L152692,S61518150,,1
+252,754,species,Hooded Merganser,Lophodytes cucullatus,31,Northwestern University (Main Campus and Lakefill),US-IL,17 Nov 2019,L152692,S61518150,,1
+253,743,species,Common Goldeneye,Bucephala clangula,1,Northwestern University (Main Campus and Lakefill),US-IL,17 Nov 2019,L152692,S61518150,,1
+254,666,species,Canvasback,Aythya valisineria,2,Northwestern University (Main Campus and Lakefill),US-IL,17 Nov 2019,L152692,S61518150,,1
+255,33099,species,Fox Sparrow,Passerella iliaca,1,"Montrose Point Bird Sanctuary, Lincoln Park",US-IL,03 Nov 2019,L161180,S61143430,,1
+256,33095,species,American Tree Sparrow,Spizelloides arborea,1,"Montrose Point Bird Sanctuary, Lincoln Park",US-IL,03 Nov 2019,L161180,S61143430,,1
+257,32674,species,Snow Bunting,Plectrophenax nivalis,6,"Montrose Point Bird Sanctuary, Lincoln Park",US-IL,03 Nov 2019,L161180,S61143430,,1
+258,8324,species,Northern Harrier,Circus hudsonius,1,"Montrose Point Bird Sanctuary, Lincoln Park",US-IL,03 Nov 2019,L161180,S61143430,,1
+259,6192,species,Dunlin,Calidris alpina,3,"Montrose Point Bird Sanctuary, Lincoln Park",US-IL,03 Nov 2019,L161180,S61143430,,1
+260,6154,species,Greater Yellowlegs,Tringa melanoleuca,2,"Montrose Point Bird Sanctuary, Lincoln Park",US-IL,03 Nov 2019,L161180,S61143430,,1
+261,762,species,Common Merganser,Mergus merganser,1,"Montrose Point Bird Sanctuary, Lincoln Park",US-IL,03 Nov 2019,L161180,S61143430,,1
+262,742,species,Bufflehead,Bucephala albeola,1,"Montrose Point Bird Sanctuary, Lincoln Park",US-IL,03 Nov 2019,L161180,S61143430,,1
+263,28333,species,Hermit Thrush,Catharus guttatus,1,Northwestern University (Main Campus and Lakefill),US-IL,23 Oct 2019,L152692,S60862835,,1
+265,27026,species,Brown Creeper,Certhia americana,1,Northwestern University (Main Campus and Lakefill),US-IL,17 Oct 2019,L152692,S60685785,,1
+266,26848,species,Golden-crowned Kinglet,Regulus satrapa,16,Northwestern University (Main Campus and Lakefill),US-IL,17 Oct 2019,L152692,S60685785,,1
+267,33201,species,White-throated Sparrow,Zonotrichia albicollis,1,Northwestern University (Main Campus and Lakefill),US-IL,30 Sep 2019,L152692,S60233243,,1
+268,33187,species,White-crowned Sparrow,Zonotrichia leucophrys,2,Northwestern University (Main Campus and Lakefill),US-IL,30 Sep 2019,L152692,S60233243,,1
+270,34159,species,Yellow-rumped Warbler,Setophaga coronata,1,"Montrose Point Bird Sanctuary, Lincoln Park",US-IL,26 Sep 2019,L161180,S60124858,,1
+271,34060,species,Cape May Warbler,Setophaga tigrina,2,"Montrose Point Bird Sanctuary, Lincoln Park",US-IL,26 Sep 2019,L161180,S60124858,,1
+272,33981,species,Nashville Warbler,Leiothlypis ruficapilla,1,"Montrose Point Bird Sanctuary, Lincoln Park",US-IL,26 Sep 2019,L161180,S60124858,,1
+273,33956,species,Golden-winged Warbler,Vermivora chrysoptera,1,"Montrose Point Bird Sanctuary, Lincoln Park",US-IL,26 Sep 2019,L161180,S60124858,,1
+274,33953,species,Northern Waterthrush,Parkesia noveboracensis,1,"Montrose Point Bird Sanctuary, Lincoln Park",US-IL,26 Sep 2019,L161180,S60124858,,1
+275,33946,species,Ovenbird,Seiurus aurocapilla,1,"Montrose Point Bird Sanctuary, Lincoln Park",US-IL,26 Sep 2019,L161180,S60124858,,1
+276,27329,species,Marsh Wren,Cistothorus palustris,1,"Montrose Point Bird Sanctuary, Lincoln Park",US-IL,26 Sep 2019,L161180,S60124858,,1
+277,26844,species,Ruby-crowned Kinglet,Corthylio calendula,1,"Montrose Point Bird Sanctuary, Lincoln Park",US-IL,26 Sep 2019,L161180,S60124858,,1
+278,12062,species,Merlin,Falco columbarius,1,"Montrose Point Bird Sanctuary, Lincoln Park",US-IL,26 Sep 2019,L161180,S60124858,,1
+279,6494,species,Franklin's Gull,Leucophaeus pipixcan,1,"Montrose Point Bird Sanctuary, Lincoln Park",US-IL,26 Sep 2019,L161180,S60124858,,1
+280,5811,species,Black-bellied Plover,Pluvialis squatarola,1,"Montrose Point Bird Sanctuary, Lincoln Park",US-IL,26 Sep 2019,L161180,S60124858,,1
+282,11126,species,Yellow-bellied Sapsucker,Sphyrapicus varius,1,Northwestern University (Main Campus and Lakefill),US-IL,24 Sep 2019,L152692,S60076532,,1
+283,34141,species,Black-throated Blue Warbler,Setophaga caerulescens,1,"Montrose Point Bird Sanctuary, Lincoln Park",US-IL,14 Sep 2019,L161180,S59789400,,1
+284,28324,species,Swainson's Thrush,Catharus ustulatus,2,"Montrose Point Bird Sanctuary, Lincoln Park",US-IL,14 Sep 2019,L161180,S59789400,,1
+285,28318,species,Gray-cheeked Thrush,Catharus minimus,1,"Montrose Point Bird Sanctuary, Lincoln Park",US-IL,14 Sep 2019,L161180,S59789400,,1
+286,16949,species,Yellow-bellied Flycatcher,Empidonax flaviventris,1,"Montrose Point Bird Sanctuary, Lincoln Park",US-IL,14 Sep 2019,L161180,S59789400,,1
+287,12114,species,Peregrine Falcon,Falco peregrinus,1,"Montrose Point Bird Sanctuary, Lincoln Park",US-IL,14 Sep 2019,L161180,S59789400,,1
+288,12028,species,American Kestrel,Falco sparverius,1,"Montrose Point Bird Sanctuary, Lincoln Park",US-IL,14 Sep 2019,L161180,S59789400,,1
+289,6462,species,Bonaparte's Gull,Chroicocephalus philadelphia,2,"Montrose Point Bird Sanctuary, Lincoln Park",US-IL,14 Sep 2019,L161180,S59789400,,1
+290,6189,species,Sanderling,Calidris alba,9,"Montrose Point Bird Sanctuary, Lincoln Park",US-IL,14 Sep 2019,L161180,S59789400,,1
+291,5834,species,Semipalmated Plover,Charadrius semipalmatus,7,"Montrose Point Bird Sanctuary, Lincoln Park",US-IL,14 Sep 2019,L161180,S59789400,,1
+292,34148,species,Palm Warbler,Setophaga palmarum,2,Northwestern University (Main Campus and Lakefill),US-IL,08 Sep 2019,L152692,S59602377,,1
+293,6539,species,American Herring Gull,Larus smithsonianus,1,Northwestern University (Main Campus and Lakefill),US-IL,08 Sep 2019,L152692,S59602377,,1
+294,34346,species,Wilson's Warbler,Cardellina pusilla,2,"Montrose Point Bird Sanctuary, Lincoln Park",US-IL,07 Sep 2019,L161180,S59573823,,1
+295,34079,species,Magnolia Warbler,Setophaga magnolia,1,"Montrose Point Bird Sanctuary, Lincoln Park",US-IL,07 Sep 2019,L161180,S59573823,,1
+296,33962,species,Black-and-white Warbler,Mniotilta varia,1,"Montrose Point Bird Sanctuary, Lincoln Park",US-IL,07 Sep 2019,L161180,S59573823,,1
+297,22065,species,Black-capped Chickadee,Poecile atricapillus,5,"Montrose Point Bird Sanctuary, Lincoln Park",US-IL,07 Sep 2019,L161180,S59573823,,1
+298,19267,species,Red-eyed Vireo,Vireo olivaceus,3,"Montrose Point Bird Sanctuary, Lincoln Park",US-IL,07 Sep 2019,L161180,S59573823,,1
+299,16963,species,Least Flycatcher,Empidonax minimus,1,"Montrose Point Bird Sanctuary, Lincoln Park",US-IL,07 Sep 2019,L161180,S59573823,,1
+300,7600,species,Black-crowned Night Heron,Nycticorax nycticorax,1,Battelle Darby Creek Metro Park--Darby Plains Wet Prairie Restoration,US-OH,28 Aug 2019,L1129017,S59326807,,1
+301,6232,species,Semipalmated Sandpiper,Calidris pusilla,4,Battelle Darby Creek Metro Park--Darby Plains Wet Prairie Restoration,US-OH,28 Aug 2019,L1129017,S59326807,,1
+302,6227,species,Pectoral Sandpiper,Calidris melanotos,2,Battelle Darby Creek Metro Park--Darby Plains Wet Prairie Restoration,US-OH,28 Aug 2019,L1129017,S59326807,,1
+303,6145,species,Lesser Yellowlegs,Tringa flavipes,2,Battelle Darby Creek Metro Park--Darby Plains Wet Prairie Restoration,US-OH,28 Aug 2019,L1129017,S59326807,,1
+304,5468,species,Common Gallinule,Gallinula galeata,2,Battelle Darby Creek Metro Park--Darby Plains Wet Prairie Restoration,US-OH,28 Aug 2019,L1129017,S59326807,,1
+305,17334,species,Great Crested Flycatcher,Myiarchus crinitus,1,Conrey Rd. Bird and Butterfly Sanctuary,US-OH,16 Aug 2019,L6603494,S59025867,,1
+306,6226,species,Least Sandpiper,Calidris minutilla,6,Battelle Darby Creek Metro Park--Darby Plains Wet Prairie Restoration,US-OH,11 Aug 2019,L1129017,S58905143,,1
+308,6855,species,Pied-billed Grebe,Podilymbus podiceps,7,Battelle Darby Creek Metro Park--Darby Plains Wet Prairie Restoration,US-OH,09 Aug 2019,L1129017,S58850929,,1
+310,6129,species,Solitary Sandpiper,Tringa solitaria,1,Battelle Darby Creek Metro Park--Darby Plains Wet Prairie Restoration,US-OH,09 Aug 2019,L1129017,S58850929,,1
+311,5697,species,Sandhill Crane,Antigone canadensis,2,Battelle Darby Creek Metro Park--Darby Plains Wet Prairie Restoration,US-OH,09 Aug 2019,L1129017,S58850929,,1
+312,5500,species,American Coot,Fulica americana,2,Battelle Darby Creek Metro Park--Darby Plains Wet Prairie Restoration,US-OH,09 Aug 2019,L1129017,S58850929,,1
+313,485,species,Blue-winged Teal,Spatula discors,21,Battelle Darby Creek Metro Park--Darby Plains Wet Prairie Restoration,US-OH,09 Aug 2019,L1129017,S58850929,,1
+314,6126,species,Spotted Sandpiper,Actitis macularius,2,Summit Park (formerly Blue Ash Airport),US-OH,06 Aug 2019,L1064897,S58787746,,1
+315,34171,species,Yellow-throated Warbler,Setophaga dominica,2,"Unnamed Road, Chillicothe, Ohio, US (39.446, -83.072)",US-OH,20 Jul 2019,L9671891,S58329499,,1
+316,34432,species,Summer Tanager,Piranga rubra,1,Cincinnati Nature Center--Rowe Woods,US-OH,20 Jul 2019,L322642,S58315482,,1
+317,28347,species,Wood Thrush,Hylocichla mustelina,1,Cincinnati Nature Center--Rowe Woods,US-OH,18 Jul 2019,L322642,S58273454,,1
+318,8487,species,Red-shouldered Hawk,Buteo lineatus,2,Glenwood Gardens,US-OH,17 Jul 2019,L324868,S58244519,,1
+319,6718,species,Caspian Tern,Hydroprogne caspia,1,Northwestern University (Main Campus and Lakefill),US-IL,08 Jul 2019,L152692,S58023073,,1
+320,6521,species,Ring-billed Gull,Larus delawarensis,2,Northwestern University (Main Campus and Lakefill),US-IL,08 Jul 2019,L152692,S58023073,,1
+321,667,species,Redhead,Aythya americana,1,Northwestern University (Main Campus and Lakefill),US-IL,08 Jul 2019,L152692,S58023073,,1
+322,17467,species,Western Kingbird,Tyrannus verticalis,2,Lady Bird Lake--Peninsula Trail,US-TX,05 Jul 2019,L2211187,S57943183,,1
+323,7591,species,Yellow-crowned Night Heron,Nyctanassa violacea,1,Lady Bird Lake--Peninsula Trail,US-TX,05 Jul 2019,L2211187,S57943183,,1
+324,3238,species,Yellow-billed Cuckoo,Coccyzus americanus,2,Lady Bird Lake--Peninsula Trail,US-TX,05 Jul 2019,L2211187,S57943183,,1
+325,32310,species,House Finch,Haemorhous mexicanus,3,Zilker Park (HOTE 043),US-TX,04 Jul 2019,L129127,S57912668,,1
+326,24081,species,Purple Martin,Progne subis,1,Zilker Park (HOTE 043),US-TX,04 Jul 2019,L129127,S57912668,,1
+327,2389,species,White-winged Dove,Zenaida asiatica,3,Zilker Park (HOTE 043),US-TX,03 Jul 2019,L129127,S57893250,,1
+328,19245,species,Eastern Warbling Vireo,Vireo gilvus,2,Prairie Oaks Metro Park--Darby Bend Lakes (Franklin Co.),US-OH,25 Jun 2019,L629294,S57676262,,1
+329,16952,species,Willow Flycatcher,Empidonax traillii,3,Prairie Oaks Metro Park--Darby Bend Lakes (Franklin Co.),US-OH,25 Jun 2019,L629294,S57676262,,1
+330,33568,species,Eastern Meadowlark,Sturnella magna,1,Battelle Darby Creek Metro Park--Darby Plains Wet Prairie Restoration,US-OH,24 Jun 2019,L1129017,S57649469,,1
+331,33002,species,Field Sparrow,Spizella pusilla,1,Battelle Darby Creek Metro Park--Darby Plains Wet Prairie Restoration,US-OH,24 Jun 2019,L1129017,S57649469,,1
+332,16924,species,Eastern Wood-Pewee,Contopus virens,1,Battelle Darby Creek Metro Park--Darby Plains Wet Prairie Restoration,US-OH,24 Jun 2019,L1129017,S57649469,,1
+333,7729,species,Great Egret,Ardea alba,1,Battelle Darby Creek Metro Park--Darby Plains Wet Prairie Restoration,US-OH,24 Jun 2019,L1129017,S57649469,,1
+334,27191,species,Northern House Wren,Troglodytes aedon,1,Kiwanis Riverway Park,US-OH,21 Jun 2019,L323166,S57555488,,1
+335,1274,species,Wild Turkey,Meleagris gallopavo,5,Glenwood Gardens,US-OH,18 Jun 2019,L324868,S57485317,,1
+336,11900,species,Northern Flicker,Colaptes auratus,1,Withrow Nature Preserve,US-OH,14 Jun 2019,L812604,S57374782,,1
+338,17472,species,Eastern Kingbird,Tyrannus tyrannus,1,Summit Park (formerly Blue Ash Airport),US-OH,14 Jun 2019,L1064897,S57365796,,1
+339,34627,species,Dickcissel,Spiza americana,1,Otto Armleder Memorial Park,US-OH,12 Jun 2019,L298164,S57312460,,1
+340,34028,species,Common Yellowthroat,Geothlypis trichas,2,Otto Armleder Memorial Park,US-OH,12 Jun 2019,L298164,S57312460,,1
+341,33559,species,Yellow-breasted Chat,Icteria virens,1,Otto Armleder Memorial Park,US-OH,12 Jun 2019,L298164,S57312460,,1
+342,33244,species,Savannah Sparrow,Passerculus sandwichensis,1,Otto Armleder Memorial Park,US-OH,12 Jun 2019,L298164,S57312460,,1
+343,28037,species,Brown Thrasher,Toxostoma rufum,1,Summit Park (formerly Blue Ash Airport),US-OH,11 Jun 2019,L1064897,S57282393,,1
+344,24281,species,Cliff Swallow,Petrochelidon pyrrhonota,8,Theodore Roosevelt Island,US-DC,08 Jun 2019,L718768,S57186861,,1
+345,34058,species,American Redstart,Setophaga ruticilla,2,Shenandoah NP--Compton Gap,US-VA,04 Jun 2019,L5772190,S57086226,,1
+346,8479,species,Broad-winged Hawk,Buteo platypterus,1,Shenandoah NP--Compton Gap,US-VA,04 Jun 2019,L5772190,S57086226,,1
+347,11400,species,Downy Woodpecker,Dryobates pubescens,2,Cincinnati Nature Center--Rowe Woods,US-OH,02 Jun 2019,L322642,S56999374,,1
+348,11145,species,Red-headed Woodpecker,Melanerpes erythrocephalus,2,Cincinnati Nature Center--Rowe Woods,US-OH,02 Jun 2019,L322642,S56999374,,1
+349,28000,species,Gray Catbird,Dumetella carolinensis,2,Summit Park (formerly Blue Ash Airport),US-OH,01 Jun 2019,L1064897,S56957331,,1
+350,34598,species,Blue Grosbeak,Passerina caerulea,1,Glenwood Gardens,US-OH,28 May 2019,L324868,S56831491,,1
+351,33679,species,Orchard Oriole,Icterus spurius,1,Glenwood Gardens,US-OH,28 May 2019,L324868,S56831491,,1
+352,33415,species,Eastern Towhee,Pipilo erythrophthalmus,1,Glenwood Gardens,US-OH,28 May 2019,L324868,S56831491,,1
+353,29888,species,Cedar Waxwing,Bombycilla cedrorum,8,Glenwood Gardens,US-OH,28 May 2019,L324868,S56831491,,1
+355,1853,species,Rock Pigeon,Columba livia,2,Myrtle Edwards Park / Centennial Park,US-WA,26 May 2019,L7497115,S56776352,N,1
+356,33386,species,Spotted Towhee,Pipilo maculatus,1,Washington Park--Green Point,US-WA,23 May 2019,L1252571,S56670928,,1
+357,6377,species,Rhinoceros Auklet,Cerorhinca monocerata,7,"Pear Point, San Juan Island",US-WA,22 May 2019,L6362567,S56635104,,1
+358,6404,species,Pigeon Guillemot,Cepphus columba,2,Deception Pass SP -- North Beach,US-WA,22 May 2019,L962710,S56633782,,1
+359,33124,species,Dark-eyed Junco,Junco hyemalis,2,"133 Brooks Lane, Friday Harbor, Washington, US (48.624, -123.15)",US-WA,22 May 2019,L9320151,S56614088,,1
+360,16975,species,Western Flycatcher,Empidonax difficilis,1,"133 Brooks Lane, Friday Harbor, Washington, US (48.624, -123.15)",US-WA,22 May 2019,L9320151,S56614088,,1
+361,24187,species,Barn Swallow,Hirundo rustica,6,Cattle Point,US-WA,21 May 2019,L294563,S56602908,,1
+362,6931,species,Pacific Loon,Gavia pacifica,1,Cattle Point,US-WA,21 May 2019,L294563,S56602908,,1
+363,24106,species,Northern Rough-winged Swallow,Stelgidopteryx serripennis,9,Jakle's Lagoon Trail,US-WA,21 May 2019,L501928,S56601422,,1
+364,10306,species,Belted Kingfisher,Megaceryle alcyon,1,Jakle's Lagoon Trail,US-WA,21 May 2019,L501928,S56601422,,1
+365,5827,species,Killdeer,Charadrius vociferus,1,Jakle's Lagoon Trail,US-WA,21 May 2019,L501928,S56601422,,1
+366,7424,species,Double-crested Cormorant,Nannopterum auritum,1,Tulista Park,CA-BC,21 May 2019,L4770991,S56587232,,1
+367,6596,species,Glaucous-winged Gull,Larus glaucescens,3,Tulista Park,CA-BC,21 May 2019,L4770991,S56587232,,1
+368,4814,species,Anna's Hummingbird,Calypte anna,1,Tulista Park,CA-BC,21 May 2019,L4770991,S56584737,,1
+369,21557,species,American Crow,Corvus brachyrhynchos,2,Olympic NP--Rialto Beach,US-WA,19 May 2019,L864689,S56518345,,1
+370,8367,species,Bald Eagle,Haliaeetus leucocephalus,3,Olympic NP--Rialto Beach,US-WA,19 May 2019,L864689,S56518345,,1
+372,21624,species,Common Raven,Corvus corax,1,"Olympic NP--Meadow Loop Trail, Hurricane Ridge",US-WA,18 May 2019,L1777266,S56983134,,1
+373,1320,species,Sooty Grouse,Dendragapus fuliginosus,1,"Olympic NP--Meadow Loop Trail, Hurricane Ridge",US-WA,18 May 2019,L1777266,S56983134,,1
+374,34206,species,Townsend's Warbler,Setophaga townsendi,1,Storm King Ranger station,US-WA,18 May 2019,L4140987,S56457113,,1
+375,21181,species,Canada Jay,Perisoreus canadensis,5,Storm King Ranger station,US-WA,18 May 2019,L4140987,S56457113,,1
+376,28126,species,Eastern Bluebird,Sialia sialis,1,Cincinnati Nature Center--Rowe Woods,US-OH,16 May 2019,L322642,S56346201,,1
+377,33277,species,Song Sparrow,Melospiza melodia,2,Catalpa Creek,US-OH,10 May 2019,L9037370,S56102265,,1
+378,33853,species,Common Grackle,Quiscalus quiscula,1,Catalpa Creek,US-OH,08 May 2019,L9037370,S56020972,,1
+379,11427,species,Hairy Woodpecker,Leuconotopicus villosus,1,Catalpa Creek,US-OH,08 May 2019,L9037370,S56020972,,1
+380,3896,species,Chimney Swift,Chaetura pelagica,4,Catalpa Creek,US-OH,08 May 2019,L9037370,S56020972,,1
+381,33770,species,Baltimore Oriole,Icterus galbula,1,"Sharon Woods Park, Sharonville",US-OH,06 May 2019,L592770,S55901728,,1
+382,27348,species,Carolina Wren,Thryothorus ludovicianus,1,"Sharon Woods Park, Sharonville",US-OH,06 May 2019,L592770,S55901728,,1
+383,27123,species,Blue-gray Gnatcatcher,Polioptila caerulea,2,"Sharon Woods Park, Sharonville",US-OH,06 May 2019,L592770,S55901728,,1
+384,24064,species,Tree Swallow,Tachycineta bicolor,6,"Sharon Woods Park, Sharonville",US-OH,06 May 2019,L592770,S55901728,,1
+385,11762,species,Pileated Woodpecker,Dryocopus pileatus,1,"Sharon Woods Park, Sharonville",US-OH,06 May 2019,L592770,S55901728,,1
+386,7753,species,Great Blue Heron,Ardea herodias,2,"Sharon Woods Park, Sharonville",US-OH,06 May 2019,L592770,S55901728,,1
+387,7704,species,Green Heron,Butorides virescens,1,"Sharon Woods Park, Sharonville",US-OH,06 May 2019,L592770,S55901728,,1
+388,4802,species,Ruby-throated Hummingbird,Archilochus colubris,1,"Sharon Woods Park, Sharonville",US-OH,06 May 2019,L592770,S55901728,,1
+389,455,species,Wood Duck,Aix sponsa,1,"Sharon Woods Park, Sharonville",US-OH,06 May 2019,L592770,S55901728,,1
+390,34607,species,Indigo Bunting,Passerina cyanea,2,Glenwood Gardens,US-OH,04 May 2019,L324868,S55750762,,1
+391,33833,species,Brown-headed Cowbird,Molothrus ater,4,Glenwood Gardens,US-OH,04 May 2019,L324868,S55750762,,1
+392,33779,species,Red-winged Blackbird,Agelaius phoeniceus,9,Glenwood Gardens,US-OH,04 May 2019,L324868,S55750762,,1
+393,32990,species,Chipping Sparrow,Spizella passerina,1,Glenwood Gardens,US-OH,04 May 2019,L324868,S55750762,,1
+394,8506,species,Red-tailed Hawk,Buteo jamaicensis,2,Glenwood Gardens,US-OH,04 May 2019,L324868,S55750762,,1
+395,32617,species,American Goldfinch,Spinus tristis,1,Cincinnati Nature Center--Rowe Woods,US-OH,16 Apr 2019,L322642,S55018291,,1
+396,26889,species,White-breasted Nuthatch,Sitta carolinensis,1,Cincinnati Nature Center--Rowe Woods,US-OH,16 Apr 2019,L322642,S55018291,,1
+397,17007,species,Eastern Phoebe,Sayornis phoebe,2,Cincinnati Nature Center--Rowe Woods,US-OH,16 Apr 2019,L322642,S55018291,,1
+398,11199,species,Red-bellied Woodpecker,Melanerpes carolinus,1,Cincinnati Nature Center--Rowe Woods,US-OH,16 Apr 2019,L322642,S55018291,,1
+399,7815,species,Turkey Vulture,Cathartes aura,1,Cincinnati Nature Center--Rowe Woods,US-OH,16 Apr 2019,L322642,S55018291,,1
+400,545,species,Mallard,Anas platyrhynchos,2,Cincinnati Nature Center--Rowe Woods,US-OH,16 Apr 2019,L322642,S55018291,,1
+401,34515,species,Northern Cardinal,Cardinalis cardinalis,3,Catalpa Creek,US-OH,13 Apr 2019,L9037370,S54922704,,1
+402,22160,species,Tufted Titmouse,Baeolophus bicolor,1,Catalpa Creek,US-OH,13 Apr 2019,L9037370,S54922704,,1
+403,22060,species,Carolina Chickadee,Poecile carolinensis,2,Catalpa Creek,US-OH,13 Apr 2019,L9037370,S54922704,,1
+404,8278,species,Cooper's Hawk,Astur cooperii,1,Catalpa Creek,US-OH,13 Apr 2019,L9037370,S54922704,,1
+405,2412,species,Mourning Dove,Zenaida macroura,2,Medpace,US-OH,04 Apr 2019,L8966142,S54542011,,1
+406,27813,species,European Starling,Sturnus vulgaris,1,Medpace,US-OH,03 Apr 2019,L8966142,S54514349,N,1
+407,33864,species,Great-tailed Grackle,Quiscalus mexicanus,3,Rice U. Campus,US-TX,28 Mar 2019,L438238,S54312170,,1
+408,21294,species,Blue Jay,Cyanocitta cristata,1,Rice U. Campus,US-TX,28 Mar 2019,L438238,S54312170,,1
+409,28633,species,American Robin,Turdus migratorius,3,Medpace,US-OH,22 Mar 2019,L8966142,S54102866,,1
+410,28114,species,Northern Mockingbird,Mimus polyglottos,1,Medpace,US-OH,22 Mar 2019,L8966142,S54102866,,1
+411,342,species,Canada Goose,Branta canadensis,2,Medpace,US-OH,22 Mar 2019,L8966142,S54102866,,1
+5,6062,slash,Short-billed/Long-billed Dowitcher,Limnodromus griseus/scolopaceus,8,Bombay Hook National Wildlife Refuge,US-DE,23 Nov 2025,L126637,S285852118,,0
+19,4106,slash,Common/Pallid Swift,Apus apus/pallidus,50,Sevilla--Catedral,ES-AN,29 Jun 2025,L5704353,S255399294,,0
+41,8279,slash,Sharp-shinned/Cooper's Hawk,Accipiter striatus/Astur cooperii,1,Mt. Bradford Preserve,US-PA,28 Nov 2024,L10804318,S204097548,,0
+65,33899,spuh,grackle sp.,Quiscalus sp.,2,Naples Pier,US-FL,09 Feb 2023,L760418,S127927115,,0
+120,5214,spuh,hummingbird sp.,Trochilidae sp.,1,Birabent Canyon,US-CA,29 May 2021,L2771988,S89203778,,0
+145,24305,spuh,swallow sp.,Hirundinidae sp.,25,Otto Armleder Memorial Park,US-OH,05 May 2021,L298164,S87163254,,0
+162,19306,spuh,vireo sp.,Vireo sp.,1,Audubon Corkscrew Swamp Sanctuary,US-FL,09 Jan 2021,L127407,S78929437,,0
+175,21620,spuh,crow sp.,Corvus sp. (crow sp.),7,Sandbridge Beach,US-VA,31 Jul 2020,L1405901,S71973831,,0
+184,7783,spuh,white egret sp.,Egretta/Ardea sp.,5,**Back Bay NWR,US-VA,26 Jul 2020,L718307,S71830971,,0
+185,6803,spuh,tern sp.,Sterninae sp.,1,**Back Bay NWR,US-VA,26 Jul 2020,L718307,S71830971,,0
+193,16997,spuh,Empidonax sp.,Empidonax sp.,1,Clark Street Beach Bird Sanctuary,US-IL,21 May 2020,L3615041,S69409168,,0
+212,8576,spuh,hawk sp.,Accipitridae sp. (hawk sp.),1,Glenwood Gardens,US-OH,19 Mar 2020,L324868,S65970123,,0
+215,363,slash,Cackling/Canada Goose,Branta hutchinsii/canadensis,1,Northwestern University (Main Campus and Lakefill),US-IL,08 Mar 2020,L152692,S65580107,,0
+264,28779,spuh,thrush sp.,Turdidae sp.,1,Northwestern University (Main Campus and Lakefill),US-IL,17 Oct 2019,L152692,S60685785,,0
+269,34397,spuh,new world warbler sp.,Parulidae sp.,1,"Montrose Point Bird Sanctuary, Lincoln Park",US-IL,26 Sep 2019,L161180,S60124858,,0
+281,654,spuh,teal sp.,Anatidae sp. (teal sp.),1,Northwestern University (Main Campus and Lakefill),US-IL,25 Sep 2019,L152692,S60101117,,0
+307,33520,spuh,new world sparrow sp.,Passerellidae sp.,1,Stages Pond State Nature Preserve,US-OH,10 Aug 2019,L284356,S58876736,,0
+309,6235,spuh,peep sp.,Calidris sp. (peep sp.),5,Battelle Darby Creek Metro Park--Darby Plains Wet Prairie Restoration,US-OH,09 Aug 2019,L1129017,S58850929,,0
+337,27646,spuh,wren sp.,Troglodytidae sp.,1,Summit Park (formerly Blue Ash Airport),US-OH,14 Jun 2019,L1064897,S57365796,,0
+354,792,spuh,duck sp.,Anatidae (duck sp.),3,Glenwood Gardens,US-OH,28 May 2019,L324868,S56831491,,0
+371,6619,spuh,gull sp.,Larinae sp.,2,Olympic NP--Rialto Beach,US-WA,19 May 2019,L864689,S56518345,,0
