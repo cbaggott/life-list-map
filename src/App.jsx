@@ -20,7 +20,7 @@ export default function App() {
 
   // Load birds.json
   useEffect(() => {
-    fetch("/birds.json")
+    fetch("/life-list-map/birds.json")
       .then(r => r.json())
       .then(data => {
         setBirds(data)

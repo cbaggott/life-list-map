@@ -626,8 +626,8 @@
     "year": 2022,
     "location": "Hyatt Zilara Rose Hall",
     "locId": "L21825909",
-    "lat": null,
-    "lng": null
+    "lat": 18.4955,
+    "lng": -77.8616
   },
   {
     "commonName": "Antillean Palm Swift",
@@ -636,8 +636,8 @@
     "year": 2022,
     "location": "Hyatt Zilara Rose Hall",
     "locId": "L21825909",
-    "lat": null,
-    "lng": null
+    "lat": 18.4955,
+    "lng": -77.8616
   },
   {
     "commonName": "Vervain Hummingbird",
@@ -646,8 +646,8 @@
     "year": 2022,
     "location": "Hyatt Zilara Rose Hall",
     "locId": "L21825909",
-    "lat": null,
-    "lng": null
+    "lat": 18.4955,
+    "lng": -77.8616
   },
   {
     "commonName": "Horned Lark",
@@ -1006,8 +1006,8 @@
     "year": 2022,
     "location": "Arboretum Circle",
     "locId": "L17975932",
-    "lat": null,
-    "lng": null
+    "lat": 26.0793,
+    "lng": -81.7457
   },
   {
     "commonName": "Forster's Tern",
@@ -1046,8 +1046,8 @@
     "year": 2021,
     "location": "Unnamed Road, Chillicothe, Ohio, US (39.446, -83.072)",
     "locId": "L9671891",
-    "lat": null,
-    "lng": null
+    "lat": 39.446,
+    "lng": -83.072
   },
   {
     "commonName": "Acadian Flycatcher",
@@ -1056,8 +1056,8 @@
     "year": 2021,
     "location": "Unnamed Road, Chillicothe, Ohio, US (39.446, -83.072)",
     "locId": "L9671891",
-    "lat": null,
-    "lng": null
+    "lat": 39.446,
+    "lng": -83.072
   },
   {
     "commonName": "California Gull",
@@ -1116,8 +1116,8 @@
     "year": 2021,
     "location": "Figueroa Mountain Road, Santa Ynez, California, US (34.701, -120.113)",
     "locId": "L15150128",
-    "lat": null,
-    "lng": null
+    "lat": 34.701,
+    "lng": -120.113
   },
   {
     "commonName": "California Towhee",
@@ -1326,8 +1326,8 @@
     "year": 2021,
     "location": "7750 Giusti Road, Forestville, California, US (38.486, -122.903)",
     "locId": "L15037017",
-    "lat": null,
-    "lng": null
+    "lat": 38.486,
+    "lng": -122.903
   },
   {
     "commonName": "Brant",
@@ -1356,8 +1356,8 @@
     "year": 2021,
     "location": "7750 Giusti Road, Forestville, California, US (38.486, -122.903)",
     "locId": "L15037017",
-    "lat": null,
-    "lng": null
+    "lat": 38.486,
+    "lng": -122.903
   },
   {
     "commonName": "Bewick's Wren",
@@ -1406,8 +1406,8 @@
     "year": 2021,
     "location": "42813-43133 Elm Island Road, Gibbon, Nebraska, US (40.664, -98.891)",
     "locId": "L14388386",
-    "lat": null,
-    "lng": null
+    "lat": 40.664,
+    "lng": -98.891
   },
   {
     "commonName": "Yellow-headed Blackbird",
@@ -1616,8 +1616,8 @@
     "year": 2020,
     "location": "Catalpa Creek",
     "locId": "L9037370",
-    "lat": null,
-    "lng": null
+    "lat": 39.232,
+    "lng": -84.3783
   },
   {
     "commonName": "Northern Pintail",
@@ -1906,8 +1906,8 @@
     "year": 2020,
     "location": "Catalpa Creek",
     "locId": "L9037370",
-    "lat": null,
-    "lng": null
+    "lat": 39.232,
+    "lng": -84.3783
   },
   {
     "commonName": "Blackburnian Warbler",
@@ -2096,8 +2096,8 @@
     "year": 2020,
     "location": "Wyndham Rio Mar",
     "locId": "L10386057",
-    "lat": null,
-    "lng": null
+    "lat": 18.388,
+    "lng": -65.77
   },
   {
     "commonName": "Bronze Mannikin",
@@ -2106,8 +2106,8 @@
     "year": 2020,
     "location": "Wyndham Rio Mar",
     "locId": "L10386057",
-    "lat": null,
-    "lng": null
+    "lat": 18.388,
+    "lng": -65.77
   },
   {
     "commonName": "Puerto Rican Mango",
@@ -2116,8 +2116,8 @@
     "year": 2020,
     "location": "Wyndham Rio Mar",
     "locId": "L10386057",
-    "lat": null,
-    "lng": null
+    "lat": 18.388,
+    "lng": -65.77
   },
   {
     "commonName": "Northern Parula",
@@ -2146,8 +2146,8 @@
     "year": 2020,
     "location": "Wyndham Rio Mar",
     "locId": "L10386057",
-    "lat": null,
-    "lng": null
+    "lat": 18.388,
+    "lng": -65.77
   },
   {
     "commonName": "Snowy Egret",
@@ -2156,8 +2156,8 @@
     "year": 2020,
     "location": "Wyndham Rio Mar",
     "locId": "L10386057",
-    "lat": null,
-    "lng": null
+    "lat": 18.388,
+    "lng": -65.77
   },
   {
     "commonName": "Tricolored Heron",
@@ -2166,8 +2166,8 @@
     "year": 2020,
     "location": "Wyndham Rio Mar",
     "locId": "L10386057",
-    "lat": null,
-    "lng": null
+    "lat": 18.388,
+    "lng": -65.77
   },
   {
     "commonName": "Little Blue Heron",
@@ -2176,8 +2176,8 @@
     "year": 2020,
     "location": "Wyndham Rio Mar",
     "locId": "L10386057",
-    "lat": null,
-    "lng": null
+    "lat": 18.388,
+    "lng": -65.77
   },
   {
     "commonName": "Black-necked Stilt",
@@ -2186,8 +2186,8 @@
     "year": 2020,
     "location": "Wyndham Rio Mar",
     "locId": "L10386057",
-    "lat": null,
-    "lng": null
+    "lat": 18.388,
+    "lng": -65.77
   },
   {
     "commonName": "Common Ground Dove",
@@ -2196,8 +2196,8 @@
     "year": 2020,
     "location": "Wyndham Rio Mar",
     "locId": "L10386057",
-    "lat": null,
-    "lng": null
+    "lat": 18.388,
+    "lng": -65.77
   },
   {
     "commonName": "Scaly-naped Pigeon",
@@ -2206,8 +2206,8 @@
     "year": 2020,
     "location": "Wyndham Rio Mar",
     "locId": "L10386057",
-    "lat": null,
-    "lng": null
+    "lat": 18.388,
+    "lng": -65.77
   },
   {
     "commonName": "Puerto Rican Spindalis",
@@ -2246,8 +2246,8 @@
     "year": 2019,
     "location": "Wyndham Rio Mar",
     "locId": "L10386057",
-    "lat": null,
-    "lng": null
+    "lat": 18.388,
+    "lng": -65.77
   },
   {
     "commonName": "Puerto Rican Woodpecker",
@@ -2256,8 +2256,8 @@
     "year": 2019,
     "location": "Wyndham Rio Mar",
     "locId": "L10386057",
-    "lat": null,
-    "lng": null
+    "lat": 18.388,
+    "lng": -65.77
   },
   {
     "commonName": "Bananaquit",
@@ -2966,8 +2966,8 @@
     "year": 2019,
     "location": "Unnamed Road, Chillicothe, Ohio, US (39.446, -83.072)",
     "locId": "L9671891",
-    "lat": null,
-    "lng": null
+    "lat": 39.446,
+    "lng": -83.072
   },
   {
     "commonName": "Summer Tanager",
@@ -3386,8 +3386,8 @@
     "year": 2019,
     "location": "133 Brooks Lane, Friday Harbor, Washington, US (48.624, -123.15)",
     "locId": "L9320151",
-    "lat": null,
-    "lng": null
+    "lat": 48.624,
+    "lng": -123.15
   },
   {
     "commonName": "Western Flycatcher",
@@ -3396,8 +3396,8 @@
     "year": 2019,
     "location": "133 Brooks Lane, Friday Harbor, Washington, US (48.624, -123.15)",
     "locId": "L9320151",
-    "lat": null,
-    "lng": null
+    "lat": 48.624,
+    "lng": -123.15
   },
   {
     "commonName": "Barn Swallow",
@@ -3556,8 +3556,8 @@
     "year": 2019,
     "location": "Catalpa Creek",
     "locId": "L9037370",
-    "lat": null,
-    "lng": null
+    "lat": 39.232,
+    "lng": -84.3783
   },
   {
     "commonName": "Common Grackle",
@@ -3566,8 +3566,8 @@
     "year": 2019,
     "location": "Catalpa Creek",
     "locId": "L9037370",
-    "lat": null,
-    "lng": null
+    "lat": 39.232,
+    "lng": -84.3783
   },
   {
     "commonName": "Hairy Woodpecker",
@@ -3576,8 +3576,8 @@
     "year": 2019,
     "location": "Catalpa Creek",
     "locId": "L9037370",
-    "lat": null,
-    "lng": null
+    "lat": 39.232,
+    "lng": -84.3783
   },
   {
     "commonName": "Chimney Swift",
@@ -3586,8 +3586,8 @@
     "year": 2019,
     "location": "Catalpa Creek",
     "locId": "L9037370",
-    "lat": null,
-    "lng": null
+    "lat": 39.232,
+    "lng": -84.3783
   },
   {
     "commonName": "Baltimore Oriole",
@@ -3796,8 +3796,8 @@
     "year": 2019,
     "location": "Catalpa Creek",
     "locId": "L9037370",
-    "lat": null,
-    "lng": null
+    "lat": 39.232,
+    "lng": -84.3783
   },
   {
     "commonName": "Tufted Titmouse",
@@ -3806,8 +3806,8 @@
     "year": 2019,
     "location": "Catalpa Creek",
     "locId": "L9037370",
-    "lat": null,
-    "lng": null
+    "lat": 39.232,
+    "lng": -84.3783
   },
   {
     "commonName": "Carolina Chickadee",
@@ -3816,8 +3816,8 @@
     "year": 2019,
     "location": "Catalpa Creek",
     "locId": "L9037370",
-    "lat": null,
-    "lng": null
+    "lat": 39.232,
+    "lng": -84.3783
   },
   {
     "commonName": "Cooper's Hawk",
@@ -3826,8 +3826,8 @@
     "year": 2019,
     "location": "Catalpa Creek",
     "locId": "L9037370",
-    "lat": null,
-    "lng": null
+    "lat": 39.232,
+    "lng": -84.3783
   },
   {
     "commonName": "Mourning Dove",
@@ -3836,8 +3836,8 @@
     "year": 2019,
     "location": "Medpace",
     "locId": "L8966142",
-    "lat": null,
-    "lng": null
+    "lat": 39.1454,
+    "lng": -84.3858
   },
   {
     "commonName": "European Starling",
@@ -3846,8 +3846,8 @@
     "year": 2019,
     "location": "Medpace",
     "locId": "L8966142",
-    "lat": null,
-    "lng": null
+    "lat": 39.1454,
+    "lng": -84.3858
   },
   {
     "commonName": "Great-tailed Grackle",
@@ -3876,8 +3876,8 @@
     "year": 2019,
     "location": "Medpace",
     "locId": "L8966142",
-    "lat": null,
-    "lng": null
+    "lat": 39.1454,
+    "lng": -84.3858
   },
   {
     "commonName": "Northern Mockingbird",
@@ -3886,8 +3886,8 @@
     "year": 2019,
     "location": "Medpace",
     "locId": "L8966142",
-    "lat": null,
-    "lng": null
+    "lat": 39.1454,
+    "lng": -84.3858
   },
   {
     "commonName": "Canada Goose",
@@ -3896,7 +3896,7 @@
     "year": 2019,
     "location": "Medpace",
     "locId": "L8966142",
-    "lat": null,
-    "lng": null
+    "lat": 39.1454,
+    "lng": -84.3858
   }
 ]
