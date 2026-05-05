@@ -37,8 +37,8 @@ export default function App() {
   useEffect(() => {
     if (mapInstanceRef.current) return
     mapInstanceRef.current = L.map(mapRef.current).setView([20, 0], 2)
-    L.tileLayer("https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png", {
-      attribution: "© OpenStreetMap contributors"
+    L.tileLayer("https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png", {
+      attribution: '© <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors © <a href="https://carto.com/attributions">CARTO</a>'
     }).addTo(mapInstanceRef.current)
   }, [])
 
@@ -76,6 +76,11 @@ export default function App() {
       })
       marker.addTo(mapInstanceRef.current)
       markersRef.current.push(marker)
+      // Fit map to show all markers
+      if (markersRef.current.length > 0) {
+        const group = L.featureGroup(markersRef.current)
+        mapInstanceRef.current.fitBounds(group.getBounds(), { padding: [40, 40] })
+      }
     }
   }, [birds, selectedYear])
 
