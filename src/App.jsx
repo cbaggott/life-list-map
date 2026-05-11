@@ -4,11 +4,14 @@ import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card"
 import { Separator } from "@/components/ui/separator"
 import L from "leaflet"
 import "leaflet/dist/leaflet.css"
+import "leaflet.markercluster/dist/MarkerCluster.css"
+import "leaflet.markercluster/dist/MarkerCluster.Default.css"
+import "leaflet.markercluster"
 
 export default function App() {
   const mapRef = useRef(null)
   const mapInstanceRef = useRef(null)
-  const markersRef = useRef([])
+  const clusterGroupRef = useRef(null)
   const [birds, setBirds] = useState([])
   const [selectedYear, setSelectedYear] = useState(2026)
   const [minYear, setMinYear] = useState(2000)
@@ -46,8 +49,13 @@ export default function App() {
   useEffect(() => {
     if (!mapInstanceRef.current || birds.length === 0) return
 
-    markersRef.current.forEach(m => mapInstanceRef.current.removeLayer(m))
-    markersRef.current = []
+    if (clusterGroupRef.current) {
+      mapInstanceRef.current.removeLayer(clusterGroupRef.current)
+    }
+
+    clusterGroupRef.current = L.markerClusterGroup({
+      showCoverageOnHover: false,
+    })
 
     const visible = birds.filter(b => b.year <= selectedYear && b.lat && b.lng)
     setVisibleCount(visible.length)
@@ -74,13 +82,13 @@ export default function App() {
         setBirdPhotos({})
         locationBirds.forEach(bird => fetchPhoto(bird.scientificName))
       })
-      marker.addTo(mapInstanceRef.current)
-      markersRef.current.push(marker)
-      // Fit map to show all markers
-      if (markersRef.current.length > 0) {
-        const group = L.featureGroup(markersRef.current)
-        mapInstanceRef.current.fitBounds(group.getBounds(), { padding: [40, 40] })
-      }
+      clusterGroupRef.current.addLayer(marker)
+    }
+
+    mapInstanceRef.current.addLayer(clusterGroupRef.current)
+
+    if (clusterGroupRef.current.getLayers().length > 0) {
+      mapInstanceRef.current.fitBounds(clusterGroupRef.current.getBounds(), { padding: [40, 40] })
     }
   }, [birds, selectedYear])
 
