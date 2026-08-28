@@ -1,0 +1,3902 @@
+[
+  {
+    "commonName": "Nanday Parakeet",
+    "scientificName": "Aratinga nenday",
+    "date": "29 Mar 2026",
+    "year": 2026,
+    "location": "The Celery Fields",
+    "locId": "L234146",
+    "lat": 27.3253186,
+    "lng": -82.4336821
+  },
+  {
+    "commonName": "Gray-headed Swamphen",
+    "scientificName": "Porphyrio poliocephalus",
+    "date": "29 Mar 2026",
+    "year": 2026,
+    "location": "The Celery Fields",
+    "locId": "L234146",
+    "lat": 27.3253186,
+    "lng": -82.4336821
+  },
+  {
+    "commonName": "Lesser Black-backed Gull",
+    "scientificName": "Larus fuscus",
+    "date": "04 Jan 2026",
+    "year": 2026,
+    "location": "Longboat Key--North Beach",
+    "locId": "L835878",
+    "lat": 27.3988225,
+    "lng": -82.6497066
+  },
+  {
+    "commonName": "Snowy Owl",
+    "scientificName": "Bubo scandiacus",
+    "date": "10 Dec 2025",
+    "year": 2025,
+    "location": "Montrose Point Bird Sanctuary, Lincoln Park",
+    "locId": "L161180",
+    "lat": 41.9633833,
+    "lng": -87.6344204
+  },
+  {
+    "commonName": "American Avocet",
+    "scientificName": "Recurvirostra americana",
+    "date": "23 Nov 2025",
+    "year": 2025,
+    "location": "Bombay Hook National Wildlife Refuge",
+    "locId": "L126637",
+    "lat": 39.2670818,
+    "lng": -75.4695511
+  },
+  {
+    "commonName": "Tundra Swan",
+    "scientificName": "Cygnus columbianus",
+    "date": "23 Nov 2025",
+    "year": 2025,
+    "location": "Bombay Hook National Wildlife Refuge",
+    "locId": "L126637",
+    "lat": 39.2670818,
+    "lng": -75.4695511
+  },
+  {
+    "commonName": "Black-bellied Whistling-Duck",
+    "scientificName": "Dendrocygna autumnalis",
+    "date": "23 Nov 2025",
+    "year": 2025,
+    "location": "Wheatley's Pond",
+    "locId": "L13978187",
+    "lat": 39.2830957,
+    "lng": -75.6325471
+  },
+  {
+    "commonName": "Goldcrest",
+    "scientificName": "Regulus regulus",
+    "date": "04 Nov 2025",
+    "year": 2025,
+    "location": "Hyde Park  and  Kensington Gardens",
+    "locId": "L12106788",
+    "lat": 51.5073169,
+    "lng": -0.1706133
+  },
+  {
+    "commonName": "Common Pochard",
+    "scientificName": "Aythya ferina",
+    "date": "04 Nov 2025",
+    "year": 2025,
+    "location": "Hyde Park  and  Kensington Gardens",
+    "locId": "L12106788",
+    "lat": 51.5073169,
+    "lng": -0.1706133
+  },
+  {
+    "commonName": "Carrion Crow",
+    "scientificName": "Corvus corone",
+    "date": "02 Nov 2025",
+    "year": 2025,
+    "location": "Stanley Park",
+    "locId": "L5484718",
+    "lat": 53.4354124,
+    "lng": -2.9632187
+  },
+  {
+    "commonName": "European Herring Gull",
+    "scientificName": "Larus argentatus",
+    "date": "02 Nov 2025",
+    "year": 2025,
+    "location": "Stanley Park",
+    "locId": "L5484718",
+    "lat": 53.4354124,
+    "lng": -2.9632187
+  },
+  {
+    "commonName": "Eurasian Coot",
+    "scientificName": "Fulica atra",
+    "date": "02 Nov 2025",
+    "year": 2025,
+    "location": "Stanley Park",
+    "locId": "L5484718",
+    "lat": 53.4354124,
+    "lng": -2.9632187
+  },
+  {
+    "commonName": "Eurasian Jay",
+    "scientificName": "Garrulus glandarius",
+    "date": "30 Oct 2025",
+    "year": 2025,
+    "location": "Windsor Promenade",
+    "locId": "L7684204",
+    "lat": 51.4851157,
+    "lng": -0.6097989
+  },
+  {
+    "commonName": "Red Kite",
+    "scientificName": "Milvus milvus",
+    "date": "30 Oct 2025",
+    "year": 2025,
+    "location": "Windsor Promenade",
+    "locId": "L7684204",
+    "lat": 51.4851157,
+    "lng": -0.6097989
+  },
+  {
+    "commonName": "Egyptian Goose",
+    "scientificName": "Alopochen aegyptiaca",
+    "date": "30 Oct 2025",
+    "year": 2025,
+    "location": "Windsor Promenade",
+    "locId": "L7684204",
+    "lat": 51.4851157,
+    "lng": -0.6097989
+  },
+  {
+    "commonName": "Mute Swan",
+    "scientificName": "Cygnus olor",
+    "date": "30 Oct 2025",
+    "year": 2025,
+    "location": "Windsor Promenade",
+    "locId": "L7684204",
+    "lat": 51.4851157,
+    "lng": -0.6097989
+  },
+  {
+    "commonName": "Greater White-fronted Goose",
+    "scientificName": "Anser albifrons",
+    "date": "16 Oct 2025",
+    "year": 2025,
+    "location": "Montrose Point Bird Sanctuary, Lincoln Park",
+    "locId": "L161180",
+    "lat": 41.9633833,
+    "lng": -87.6344204
+  },
+  {
+    "commonName": "Pallid Swift",
+    "scientificName": "Apus pallidus",
+    "date": "29 Jun 2025",
+    "year": 2025,
+    "location": "Sevilla--Catedral",
+    "locId": "L5704353",
+    "lat": 37.385546,
+    "lng": -5.993101
+  },
+  {
+    "commonName": "Eurasian Spoonbill",
+    "scientificName": "Platalea leucorodia",
+    "date": "28 Jun 2025",
+    "year": 2025,
+    "location": "La Barca de Vejer",
+    "locId": "L2748416",
+    "lat": 36.2536575,
+    "lng": -5.9564588
+  },
+  {
+    "commonName": "Short-toed Treecreeper",
+    "scientificName": "Certhia brachydactyla",
+    "date": "25 Jun 2025",
+    "year": 2025,
+    "location": "Barcelona--Castillo de Montjuïc",
+    "locId": "L11117290",
+    "lat": 41.3629599,
+    "lng": 2.1650362
+  },
+  {
+    "commonName": "Eurasian Blackcap",
+    "scientificName": "Sylvia atricapilla",
+    "date": "25 Jun 2025",
+    "year": 2025,
+    "location": "Barcelona--Castillo de Montjuïc",
+    "locId": "L11117290",
+    "lat": 41.3629599,
+    "lng": 2.1650362
+  },
+  {
+    "commonName": "Eurasian Collared-Dove",
+    "scientificName": "Streptopelia decaocto",
+    "date": "25 Jun 2025",
+    "year": 2025,
+    "location": "Barcelona--Castillo de Montjuïc",
+    "locId": "L11117290",
+    "lat": 41.3629599,
+    "lng": 2.1650362
+  },
+  {
+    "commonName": "Sardinian Warbler",
+    "scientificName": "Curruca melanocephala",
+    "date": "24 Jun 2025",
+    "year": 2025,
+    "location": "Barcelona--Parc Güell",
+    "locId": "L1930975",
+    "lat": 41.4141691,
+    "lng": 2.1521616
+  },
+  {
+    "commonName": "Crested Tit",
+    "scientificName": "Lophophanes cristatus",
+    "date": "24 Jun 2025",
+    "year": 2025,
+    "location": "Barcelona--Parc Güell",
+    "locId": "L1930975",
+    "lat": 41.4141691,
+    "lng": 2.1521616
+  },
+  {
+    "commonName": "Audouin's Gull",
+    "scientificName": "Ichthyaetus audouinii",
+    "date": "24 Jun 2025",
+    "year": 2025,
+    "location": "Barcelona--Plaça de Catalunya",
+    "locId": "L10402926",
+    "lat": 41.387016,
+    "lng": 2.1700466
+  },
+  {
+    "commonName": "European Robin",
+    "scientificName": "Erithacus rubecula",
+    "date": "23 Jun 2025",
+    "year": 2025,
+    "location": "Madrid--Parque El Retiro",
+    "locId": "L1139116",
+    "lat": 40.4165021,
+    "lng": -3.6835098
+  },
+  {
+    "commonName": "Spotless Starling",
+    "scientificName": "Sturnus unicolor",
+    "date": "23 Jun 2025",
+    "year": 2025,
+    "location": "Madrid--Parque El Retiro",
+    "locId": "L1139116",
+    "lat": 40.4165021,
+    "lng": -3.6835098
+  },
+  {
+    "commonName": "Coal Tit",
+    "scientificName": "Periparus ater",
+    "date": "23 Jun 2025",
+    "year": 2025,
+    "location": "Madrid--Parque El Retiro",
+    "locId": "L1139116",
+    "lat": 40.4165021,
+    "lng": -3.6835098
+  },
+  {
+    "commonName": "Iberian Green Woodpecker",
+    "scientificName": "Picus sharpei",
+    "date": "23 Jun 2025",
+    "year": 2025,
+    "location": "Madrid--Parque El Retiro",
+    "locId": "L1139116",
+    "lat": 40.4165021,
+    "lng": -3.6835098
+  },
+  {
+    "commonName": "Stock Dove",
+    "scientificName": "Columba oenas",
+    "date": "23 Jun 2025",
+    "year": 2025,
+    "location": "Madrid--Parque El Retiro",
+    "locId": "L1139116",
+    "lat": 40.4165021,
+    "lng": -3.6835098
+  },
+  {
+    "commonName": "Eurasian Linnet",
+    "scientificName": "Linaria cannabina",
+    "date": "22 Jun 2025",
+    "year": 2025,
+    "location": "Río Tajo--Toledo (área general)",
+    "locId": "L2371073",
+    "lat": 39.8516455,
+    "lng": -4.0259363
+  },
+  {
+    "commonName": "European Greenfinch",
+    "scientificName": "Chloris chloris",
+    "date": "22 Jun 2025",
+    "year": 2025,
+    "location": "Río Tajo--Toledo (área general)",
+    "locId": "L2371073",
+    "lat": 39.8516455,
+    "lng": -4.0259363
+  },
+  {
+    "commonName": "House Sparrow",
+    "scientificName": "Passer domesticus",
+    "date": "22 Jun 2025",
+    "year": 2025,
+    "location": "Río Tajo--Toledo (área general)",
+    "locId": "L2371073",
+    "lat": 39.8516455,
+    "lng": -4.0259363
+  },
+  {
+    "commonName": "Great Tit",
+    "scientificName": "Parus major",
+    "date": "22 Jun 2025",
+    "year": 2025,
+    "location": "Río Tajo--Toledo (área general)",
+    "locId": "L2371073",
+    "lat": 39.8516455,
+    "lng": -4.0259363
+  },
+  {
+    "commonName": "White Stork",
+    "scientificName": "Ciconia ciconia",
+    "date": "22 Jun 2025",
+    "year": 2025,
+    "location": "Río Tajo--Toledo (área general)",
+    "locId": "L2371073",
+    "lat": 39.8516455,
+    "lng": -4.0259363
+  },
+  {
+    "commonName": "Eastern Whip-poor-will",
+    "scientificName": "Antrostomus vociferus",
+    "date": "14 May 2025",
+    "year": 2025,
+    "location": "Montrose Point Bird Sanctuary, Lincoln Park",
+    "locId": "L161180",
+    "lat": 41.9633833,
+    "lng": -87.6344204
+  },
+  {
+    "commonName": "Sora",
+    "scientificName": "Porzana carolina",
+    "date": "02 May 2025",
+    "year": 2025,
+    "location": "Galien River County Park",
+    "locId": "L2355891",
+    "lat": 41.8066373,
+    "lng": -86.7198944
+  },
+  {
+    "commonName": "Least Bittern",
+    "scientificName": "Botaurus exilis",
+    "date": "28 Apr 2025",
+    "year": 2025,
+    "location": "Montrose Point Bird Sanctuary, Lincoln Park",
+    "locId": "L161180",
+    "lat": 41.9633833,
+    "lng": -87.6344204
+  },
+  {
+    "commonName": "MacGillivray's Warbler",
+    "scientificName": "Geothlypis tolmiei",
+    "date": "21 Jun 2024",
+    "year": 2024,
+    "location": "Yosemite NP--Mariposa Grove",
+    "locId": "L996128",
+    "lat": 37.51,
+    "lng": -119.603
+  },
+  {
+    "commonName": "Brewer's Blackbird",
+    "scientificName": "Euphagus cyanocephalus",
+    "date": "20 Jun 2024",
+    "year": 2024,
+    "location": "Yosemite Valley--Headquarters area",
+    "locId": "L747255",
+    "lat": 37.7454716,
+    "lng": -119.5903015
+  },
+  {
+    "commonName": "Bullock's Oriole",
+    "scientificName": "Icterus bullockii",
+    "date": "20 Jun 2024",
+    "year": 2024,
+    "location": "Yosemite Valley--Headquarters area",
+    "locId": "L747255",
+    "lat": 37.7454716,
+    "lng": -119.5903015
+  },
+  {
+    "commonName": "Black-throated Gray Warbler",
+    "scientificName": "Setophaga nigrescens",
+    "date": "20 Jun 2024",
+    "year": 2024,
+    "location": "Yosemite NP--Nevada Fall",
+    "locId": "L27966580",
+    "lat": 37.7248024,
+    "lng": -119.5333529
+  },
+  {
+    "commonName": "Black-headed Grosbeak",
+    "scientificName": "Pheucticus melanocephalus",
+    "date": "20 Jun 2024",
+    "year": 2024,
+    "location": "Yosemite NP--Glacier Pt.",
+    "locId": "L595393",
+    "lat": 37.7277555,
+    "lng": -119.5751953
+  },
+  {
+    "commonName": "Western Tanager",
+    "scientificName": "Piranga ludoviciana",
+    "date": "20 Jun 2024",
+    "year": 2024,
+    "location": "Yosemite NP--Glacier Pt.",
+    "locId": "L595393",
+    "lat": 37.7277555,
+    "lng": -119.5751953
+  },
+  {
+    "commonName": "Green-tailed Towhee",
+    "scientificName": "Pipilo chlorurus",
+    "date": "20 Jun 2024",
+    "year": 2024,
+    "location": "Yosemite NP--Glacier Pt.",
+    "locId": "L595393",
+    "lat": 37.7277555,
+    "lng": -119.5751953
+  },
+  {
+    "commonName": "White-headed Woodpecker",
+    "scientificName": "Leuconotopicus albolarvatus",
+    "date": "20 Jun 2024",
+    "year": 2024,
+    "location": "Yosemite NP--Glacier Pt.",
+    "locId": "L595393",
+    "lat": 37.7277555,
+    "lng": -119.5751953
+  },
+  {
+    "commonName": "Cerulean Warbler",
+    "scientificName": "Setophaga cerulea",
+    "date": "11 May 2024",
+    "year": 2024,
+    "location": "Montrose Point Bird Sanctuary, Lincoln Park",
+    "locId": "L161180",
+    "lat": 41.9633833,
+    "lng": -87.6344204
+  },
+  {
+    "commonName": "Green-winged Teal",
+    "scientificName": "Anas crecca",
+    "date": "21 Nov 2023",
+    "year": 2023,
+    "location": "Exton Park",
+    "locId": "L1306255",
+    "lat": 40.0405279,
+    "lng": -75.602181
+  },
+  {
+    "commonName": "Gadwall",
+    "scientificName": "Mareca strepera",
+    "date": "21 Nov 2023",
+    "year": 2023,
+    "location": "Exton Park",
+    "locId": "L1306255",
+    "lat": 40.0405279,
+    "lng": -75.602181
+  },
+  {
+    "commonName": "Short-eared Owl",
+    "scientificName": "Asio flammeus",
+    "date": "01 Apr 2023",
+    "year": 2023,
+    "location": "Montrose Point Bird Sanctuary, Lincoln Park",
+    "locId": "L161180",
+    "lat": 41.9633833,
+    "lng": -87.6344204
+  },
+  {
+    "commonName": "Mountain Chickadee",
+    "scientificName": "Poecile gambeli",
+    "date": "14 Mar 2023",
+    "year": 2023,
+    "location": "Devil's Bridge Trail",
+    "locId": "L3350741",
+    "lat": 34.8973712,
+    "lng": -111.8078184
+  },
+  {
+    "commonName": "Woodhouse's Scrub-Jay",
+    "scientificName": "Aphelocoma woodhouseii",
+    "date": "14 Mar 2023",
+    "year": 2023,
+    "location": "Soldier Pass Trailhead",
+    "locId": "L16651204",
+    "lat": 34.8840806,
+    "lng": -111.7837905
+  },
+  {
+    "commonName": "Rock Wren",
+    "scientificName": "Salpinctes obsoletus",
+    "date": "13 Mar 2023",
+    "year": 2023,
+    "location": "Camelback Mountain Recreation Area",
+    "locId": "L299206",
+    "lat": 33.5207371,
+    "lng": -111.9744161
+  },
+  {
+    "commonName": "Black-tailed Gnatcatcher",
+    "scientificName": "Polioptila melanura",
+    "date": "13 Mar 2023",
+    "year": 2023,
+    "location": "Camelback Mountain Recreation Area",
+    "locId": "L299206",
+    "lat": 33.5207371,
+    "lng": -111.9744161
+  },
+  {
+    "commonName": "Verdin",
+    "scientificName": "Auriparus flaviceps",
+    "date": "13 Mar 2023",
+    "year": 2023,
+    "location": "Camelback Mountain Recreation Area",
+    "locId": "L299206",
+    "lat": 33.5207371,
+    "lng": -111.9744161
+  },
+  {
+    "commonName": "Canyon Towhee",
+    "scientificName": "Melozone fusca",
+    "date": "11 Mar 2023",
+    "year": 2023,
+    "location": "McDowell Sonoran Preserve--Tom's Thumb Area",
+    "locId": "L3705390",
+    "lat": 33.6818137,
+    "lng": -111.8113992
+  },
+  {
+    "commonName": "Black-throated Sparrow",
+    "scientificName": "Amphispiza bilineata",
+    "date": "11 Mar 2023",
+    "year": 2023,
+    "location": "McDowell Sonoran Preserve--Tom's Thumb Area",
+    "locId": "L3705390",
+    "lat": 33.6818137,
+    "lng": -111.8113992
+  },
+  {
+    "commonName": "Curve-billed Thrasher",
+    "scientificName": "Toxostoma curvirostre",
+    "date": "11 Mar 2023",
+    "year": 2023,
+    "location": "McDowell Sonoran Preserve--Tom's Thumb Area",
+    "locId": "L3705390",
+    "lat": 33.6818137,
+    "lng": -111.8113992
+  },
+  {
+    "commonName": "Costa's Hummingbird",
+    "scientificName": "Calypte costae",
+    "date": "11 Mar 2023",
+    "year": 2023,
+    "location": "McDowell Sonoran Preserve--Tom's Thumb Area",
+    "locId": "L3705390",
+    "lat": 33.6818137,
+    "lng": -111.8113992
+  },
+  {
+    "commonName": "Greater Roadrunner",
+    "scientificName": "Geococcyx californianus",
+    "date": "11 Mar 2023",
+    "year": 2023,
+    "location": "McDowell Sonoran Preserve--Tom's Thumb Area",
+    "locId": "L3705390",
+    "lat": 33.6818137,
+    "lng": -111.8113992
+  },
+  {
+    "commonName": "Gambel's Quail",
+    "scientificName": "Callipepla gambelii",
+    "date": "11 Mar 2023",
+    "year": 2023,
+    "location": "McDowell Sonoran Preserve--Tom's Thumb Area",
+    "locId": "L3705390",
+    "lat": 33.6818137,
+    "lng": -111.8113992
+  },
+  {
+    "commonName": "Black Skimmer",
+    "scientificName": "Rynchops niger",
+    "date": "09 Feb 2023",
+    "year": 2023,
+    "location": "Naples Pier",
+    "locId": "L760418",
+    "lat": 26.1316826,
+    "lng": -81.8064576
+  },
+  {
+    "commonName": "Loggerhead Kingbird",
+    "scientificName": "Tyrannus caudifasciatus",
+    "date": "18 Dec 2022",
+    "year": 2022,
+    "location": "Hyatt Zilara Rose Hall",
+    "locId": "L21825909",
+    "lat": 18.4955,
+    "lng": -77.8616
+  },
+  {
+    "commonName": "Antillean Palm Swift",
+    "scientificName": "Tachornis phoenicobia",
+    "date": "18 Dec 2022",
+    "year": 2022,
+    "location": "Hyatt Zilara Rose Hall",
+    "locId": "L21825909",
+    "lat": 18.4955,
+    "lng": -77.8616
+  },
+  {
+    "commonName": "Vervain Hummingbird",
+    "scientificName": "Mellisuga minima",
+    "date": "17 Dec 2022",
+    "year": 2022,
+    "location": "Hyatt Zilara Rose Hall",
+    "locId": "L21825909",
+    "lat": 18.4955,
+    "lng": -77.8616
+  },
+  {
+    "commonName": "Horned Lark",
+    "scientificName": "Eremophila alpestris",
+    "date": "08 Oct 2022",
+    "year": 2022,
+    "location": "Montrose Point Bird Sanctuary, Lincoln Park",
+    "locId": "L161180",
+    "lat": 41.9633833,
+    "lng": -87.6344204
+  },
+  {
+    "commonName": "American Bittern",
+    "scientificName": "Botaurus lentiginosus",
+    "date": "08 Oct 2022",
+    "year": 2022,
+    "location": "Montrose Point Bird Sanctuary, Lincoln Park",
+    "locId": "L161180",
+    "lat": 41.9633833,
+    "lng": -87.6344204
+  },
+  {
+    "commonName": "Purple Sandpiper",
+    "scientificName": "Calidris maritima",
+    "date": "17 Sep 2022",
+    "year": 2022,
+    "location": "Montrose Point Bird Sanctuary, Lincoln Park",
+    "locId": "L161180",
+    "lat": 41.9633833,
+    "lng": -87.6344204
+  },
+  {
+    "commonName": "Black-headed Gull",
+    "scientificName": "Chroicocephalus ridibundus",
+    "date": "27 Jun 2022",
+    "year": 2022,
+    "location": "Venezia (area generale)",
+    "locId": "L1272698",
+    "lat": 45.4385139,
+    "lng": 12.3273897
+  },
+  {
+    "commonName": "European Goldfinch",
+    "scientificName": "Carduelis carduelis",
+    "date": "26 Jun 2022",
+    "year": 2022,
+    "location": "Giardino di Boboli",
+    "locId": "L1597413",
+    "lat": 43.7627299,
+    "lng": 11.2499652
+  },
+  {
+    "commonName": "White Wagtail",
+    "scientificName": "Motacilla alba",
+    "date": "26 Jun 2022",
+    "year": 2022,
+    "location": "Giardino di Boboli",
+    "locId": "L1597413",
+    "lat": 43.7627299,
+    "lng": 11.2499652
+  },
+  {
+    "commonName": "Eurasian Blue Tit",
+    "scientificName": "Cyanistes caeruleus",
+    "date": "26 Jun 2022",
+    "year": 2022,
+    "location": "Giardino di Boboli",
+    "locId": "L1597413",
+    "lat": 43.7627299,
+    "lng": 11.2499652
+  },
+  {
+    "commonName": "Eurasian Jackdaw",
+    "scientificName": "Coloeus monedula",
+    "date": "25 Jun 2022",
+    "year": 2022,
+    "location": "San Gimignano",
+    "locId": "L2418081",
+    "lat": 43.4682655,
+    "lng": 11.0425823
+  },
+  {
+    "commonName": "Cirl Bunting",
+    "scientificName": "Emberiza cirlus",
+    "date": "25 Jun 2022",
+    "year": 2022,
+    "location": "Siena",
+    "locId": "L4508379",
+    "lat": 43.3173971,
+    "lng": 11.3307928
+  },
+  {
+    "commonName": "Eurasian Magpie",
+    "scientificName": "Pica pica",
+    "date": "25 Jun 2022",
+    "year": 2022,
+    "location": "Siena",
+    "locId": "L4508379",
+    "lat": 43.3173971,
+    "lng": 11.3307928
+  },
+  {
+    "commonName": "Squacco Heron",
+    "scientificName": "Ardeola ralloides",
+    "date": "24 Jun 2022",
+    "year": 2022,
+    "location": "Firenze (area generale)",
+    "locId": "L2313664",
+    "lat": 43.7661818,
+    "lng": 11.2587118
+  },
+  {
+    "commonName": "Great Cormorant",
+    "scientificName": "Phalacrocorax carbo",
+    "date": "24 Jun 2022",
+    "year": 2022,
+    "location": "Firenze (area generale)",
+    "locId": "L2313664",
+    "lat": 43.7661818,
+    "lng": 11.2587118
+  },
+  {
+    "commonName": "Gray Heron",
+    "scientificName": "Ardea cinerea",
+    "date": "23 Jun 2022",
+    "year": 2022,
+    "location": "Lungarno (Arno river)",
+    "locId": "L1597407",
+    "lat": 43.7650785,
+    "lng": 11.266037
+  },
+  {
+    "commonName": "Little Egret",
+    "scientificName": "Egretta garzetta",
+    "date": "23 Jun 2022",
+    "year": 2022,
+    "location": "Lungarno (Arno river)",
+    "locId": "L1597407",
+    "lat": 43.7650785,
+    "lng": 11.266037
+  },
+  {
+    "commonName": "Common Wood-Pigeon",
+    "scientificName": "Columba palumbus",
+    "date": "23 Jun 2022",
+    "year": 2022,
+    "location": "Lungarno (Arno river)",
+    "locId": "L1597407",
+    "lat": 43.7650785,
+    "lng": 11.266037
+  },
+  {
+    "commonName": "European Serin",
+    "scientificName": "Serinus serinus",
+    "date": "21 Jun 2022",
+    "year": 2022,
+    "location": "Colosseo (Colosseum or Coliseum)",
+    "locId": "L1107525",
+    "lat": 41.8901909,
+    "lng": 12.4909744
+  },
+  {
+    "commonName": "Blue Rock-Thrush",
+    "scientificName": "Monticola solitarius",
+    "date": "21 Jun 2022",
+    "year": 2022,
+    "location": "Colosseo (Colosseum or Coliseum)",
+    "locId": "L1107525",
+    "lat": 41.8901909,
+    "lng": 12.4909744
+  },
+  {
+    "commonName": "Eurasian Blackbird",
+    "scientificName": "Turdus merula",
+    "date": "21 Jun 2022",
+    "year": 2022,
+    "location": "Colosseo (Colosseum or Coliseum)",
+    "locId": "L1107525",
+    "lat": 41.8901909,
+    "lng": 12.4909744
+  },
+  {
+    "commonName": "Eurasian Kestrel",
+    "scientificName": "Falco tinnunculus",
+    "date": "21 Jun 2022",
+    "year": 2022,
+    "location": "Colosseo (Colosseum or Coliseum)",
+    "locId": "L1107525",
+    "lat": 41.8901909,
+    "lng": 12.4909744
+  },
+  {
+    "commonName": "Rose-ringed Parakeet",
+    "scientificName": "Psittacula krameri",
+    "date": "20 Jun 2022",
+    "year": 2022,
+    "location": "Orto Botanico di Roma",
+    "locId": "L1157651",
+    "lat": 41.8921189,
+    "lng": 12.4643219
+  },
+  {
+    "commonName": "Eurasian Moorhen",
+    "scientificName": "Gallinula chloropus",
+    "date": "20 Jun 2022",
+    "year": 2022,
+    "location": "Orto Botanico di Roma",
+    "locId": "L1157651",
+    "lat": 41.8921189,
+    "lng": 12.4643219
+  },
+  {
+    "commonName": "Italian Sparrow",
+    "scientificName": "Passer italiae",
+    "date": "19 Jun 2022",
+    "year": 2022,
+    "location": "Ponte Sant'Angelo",
+    "locId": "L6482577",
+    "lat": 41.9018991,
+    "lng": 12.4664515
+  },
+  {
+    "commonName": "Western House-Martin",
+    "scientificName": "Delichon urbicum",
+    "date": "19 Jun 2022",
+    "year": 2022,
+    "location": "Ponte Sant'Angelo",
+    "locId": "L6482577",
+    "lat": 41.9018991,
+    "lng": 12.4664515
+  },
+  {
+    "commonName": "Hooded Crow",
+    "scientificName": "Corvus cornix",
+    "date": "19 Jun 2022",
+    "year": 2022,
+    "location": "Ponte Sant'Angelo",
+    "locId": "L6482577",
+    "lat": 41.9018991,
+    "lng": 12.4664515
+  },
+  {
+    "commonName": "Yellow-legged Gull",
+    "scientificName": "Larus michahellis",
+    "date": "19 Jun 2022",
+    "year": 2022,
+    "location": "Ponte Sant'Angelo",
+    "locId": "L6482577",
+    "lat": 41.9018991,
+    "lng": 12.4664515
+  },
+  {
+    "commonName": "Common Swift",
+    "scientificName": "Apus apus",
+    "date": "19 Jun 2022",
+    "year": 2022,
+    "location": "Ponte Sant'Angelo",
+    "locId": "L6482577",
+    "lat": 41.9018991,
+    "lng": 12.4664515
+  },
+  {
+    "commonName": "Least Tern",
+    "scientificName": "Sternula antillarum",
+    "date": "29 May 2022",
+    "year": 2022,
+    "location": "Castle Island and Pleasure Bay",
+    "locId": "L452353",
+    "lat": 42.3360561,
+    "lng": -71.0123205
+  },
+  {
+    "commonName": "Philadelphia Vireo",
+    "scientificName": "Vireo philadelphicus",
+    "date": "14 May 2022",
+    "year": 2022,
+    "location": "Montrose Point Bird Sanctuary, Lincoln Park",
+    "locId": "L161180",
+    "lat": 41.9633833,
+    "lng": -87.6344204
+  },
+  {
+    "commonName": "Blue-winged Warbler",
+    "scientificName": "Vermivora cyanoptera",
+    "date": "13 May 2022",
+    "year": 2022,
+    "location": "Montrose Point Bird Sanctuary, Lincoln Park",
+    "locId": "L161180",
+    "lat": 41.9633833,
+    "lng": -87.6344204
+  },
+  {
+    "commonName": "American Pipit",
+    "scientificName": "Anthus rubescens",
+    "date": "13 May 2022",
+    "year": 2022,
+    "location": "Montrose Point Bird Sanctuary, Lincoln Park",
+    "locId": "L161180",
+    "lat": 41.9633833,
+    "lng": -87.6344204
+  },
+  {
+    "commonName": "Bobolink",
+    "scientificName": "Dolichonyx oryzivorus",
+    "date": "08 May 2022",
+    "year": 2022,
+    "location": "Montrose Point Bird Sanctuary, Lincoln Park",
+    "locId": "L161180",
+    "lat": 41.9633833,
+    "lng": -87.6344204
+  },
+  {
+    "commonName": "Lark Sparrow",
+    "scientificName": "Chondestes grammacus",
+    "date": "07 May 2022",
+    "year": 2022,
+    "location": "Montrose Point Bird Sanctuary, Lincoln Park",
+    "locId": "L161180",
+    "lat": 41.9633833,
+    "lng": -87.6344204
+  },
+  {
+    "commonName": "Snowy Plover",
+    "scientificName": "Anarhynchus nivosus",
+    "date": "23 Apr 2022",
+    "year": 2022,
+    "location": "Montrose Point Bird Sanctuary, Lincoln Park",
+    "locId": "L161180",
+    "lat": 41.9633833,
+    "lng": -87.6344204
+  },
+  {
+    "commonName": "Painted Bunting",
+    "scientificName": "Passerina ciris",
+    "date": "05 Mar 2022",
+    "year": 2022,
+    "location": "Corkscrew Regional Ecosystem Watershed--Bird Rookery Swamp Trails",
+    "locId": "L1061691",
+    "lat": 26.3140166,
+    "lng": -81.6349089
+  },
+  {
+    "commonName": "Muscovy Duck",
+    "scientificName": "Cairina moschata",
+    "date": "04 Mar 2022",
+    "year": 2022,
+    "location": "Sugden Regional Park",
+    "locId": "L656190",
+    "lat": 26.1137509,
+    "lng": -81.7621422
+  },
+  {
+    "commonName": "Burrowing Owl",
+    "scientificName": "Athene cunicularia",
+    "date": "02 Mar 2022",
+    "year": 2022,
+    "location": "Arboretum Circle",
+    "locId": "L17975932",
+    "lat": 26.0793,
+    "lng": -81.7457
+  },
+  {
+    "commonName": "Forster's Tern",
+    "scientificName": "Sterna forsteri",
+    "date": "11 Aug 2021",
+    "year": 2021,
+    "location": "Montrose Point Bird Sanctuary, Lincoln Park",
+    "locId": "L161180",
+    "lat": 41.9633833,
+    "lng": -87.6344204
+  },
+  {
+    "commonName": "Piping Plover",
+    "scientificName": "Charadrius melodus",
+    "date": "19 Jul 2021",
+    "year": 2021,
+    "location": "Montrose Point Bird Sanctuary, Lincoln Park",
+    "locId": "L161180",
+    "lat": 41.9633833,
+    "lng": -87.6344204
+  },
+  {
+    "commonName": "Bank Swallow",
+    "scientificName": "Riparia riparia",
+    "date": "10 Jul 2021",
+    "year": 2021,
+    "location": "Montrose Point Bird Sanctuary, Lincoln Park",
+    "locId": "L161180",
+    "lat": 41.9633833,
+    "lng": -87.6344204
+  },
+  {
+    "commonName": "Kentucky Warbler",
+    "scientificName": "Geothlypis formosa",
+    "date": "13 Jun 2021",
+    "year": 2021,
+    "location": "Unnamed Road, Chillicothe, Ohio, US (39.446, -83.072)",
+    "locId": "L9671891",
+    "lat": 39.446,
+    "lng": -83.072
+  },
+  {
+    "commonName": "Acadian Flycatcher",
+    "scientificName": "Empidonax virescens",
+    "date": "13 Jun 2021",
+    "year": 2021,
+    "location": "Unnamed Road, Chillicothe, Ohio, US (39.446, -83.072)",
+    "locId": "L9671891",
+    "lat": 39.446,
+    "lng": -83.072
+  },
+  {
+    "commonName": "California Gull",
+    "scientificName": "Larus californicus",
+    "date": "30 May 2021",
+    "year": 2021,
+    "location": "Mother's Beach",
+    "locId": "L1336659",
+    "lat": 33.9805239,
+    "lng": -118.457612
+  },
+  {
+    "commonName": "Purple Finch",
+    "scientificName": "Haemorhous purpureus",
+    "date": "30 May 2021",
+    "year": 2021,
+    "location": "Gaviota State Park",
+    "locId": "L613644",
+    "lat": 34.4727321,
+    "lng": -120.228442
+  },
+  {
+    "commonName": "Phainopepla",
+    "scientificName": "Phainopepla nitens",
+    "date": "30 May 2021",
+    "year": 2021,
+    "location": "Gaviota State Park",
+    "locId": "L613644",
+    "lat": 34.4727321,
+    "lng": -120.228442
+  },
+  {
+    "commonName": "California Thrasher",
+    "scientificName": "Toxostoma redivivum",
+    "date": "30 May 2021",
+    "year": 2021,
+    "location": "Gaviota State Park",
+    "locId": "L613644",
+    "lat": 34.4727321,
+    "lng": -120.228442
+  },
+  {
+    "commonName": "White-throated Swift",
+    "scientificName": "Aeronautes saxatalis",
+    "date": "30 May 2021",
+    "year": 2021,
+    "location": "Gaviota State Park",
+    "locId": "L613644",
+    "lat": 34.4727321,
+    "lng": -120.228442
+  },
+  {
+    "commonName": "Yellow-billed Magpie",
+    "scientificName": "Pica nuttalli",
+    "date": "29 May 2021",
+    "year": 2021,
+    "location": "Figueroa Mountain Road, Santa Ynez, California, US (34.701, -120.113)",
+    "locId": "L15150128",
+    "lat": 34.701,
+    "lng": -120.113
+  },
+  {
+    "commonName": "California Towhee",
+    "scientificName": "Melozone crissalis",
+    "date": "29 May 2021",
+    "year": 2021,
+    "location": "Birabent Canyon",
+    "locId": "L2771988",
+    "lat": 34.7431289,
+    "lng": -120.0605679
+  },
+  {
+    "commonName": "Oak Titmouse",
+    "scientificName": "Baeolophus inornatus",
+    "date": "29 May 2021",
+    "year": 2021,
+    "location": "Birabent Canyon",
+    "locId": "L2771988",
+    "lat": 34.7431289,
+    "lng": -120.0605679
+  },
+  {
+    "commonName": "Nuttall's Woodpecker",
+    "scientificName": "Dryobates nuttallii",
+    "date": "29 May 2021",
+    "year": 2021,
+    "location": "Birabent Canyon",
+    "locId": "L2771988",
+    "lat": 34.7431289,
+    "lng": -120.0605679
+  },
+  {
+    "commonName": "Band-tailed Pigeon",
+    "scientificName": "Patagioenas fasciata",
+    "date": "27 May 2021",
+    "year": 2021,
+    "location": "Big Sur--Nepenthe",
+    "locId": "L1655498",
+    "lat": 36.2219957,
+    "lng": -121.7594681
+  },
+  {
+    "commonName": "Ash-throated Flycatcher",
+    "scientificName": "Myiarchus cinerascens",
+    "date": "27 May 2021",
+    "year": 2021,
+    "location": "Pfeiffer Big Sur SP",
+    "locId": "L317501",
+    "lat": 36.2496724,
+    "lng": -121.7794991
+  },
+  {
+    "commonName": "Olive-sided Flycatcher",
+    "scientificName": "Contopus cooperi",
+    "date": "27 May 2021",
+    "year": 2021,
+    "location": "Pfeiffer Big Sur SP",
+    "locId": "L317501",
+    "lat": 36.2496724,
+    "lng": -121.7794991
+  },
+  {
+    "commonName": "California Condor",
+    "scientificName": "Gymnogyps californianus",
+    "date": "27 May 2021",
+    "year": 2021,
+    "location": "Pfeiffer Big Sur SP",
+    "locId": "L317501",
+    "lat": 36.2496724,
+    "lng": -121.7794991
+  },
+  {
+    "commonName": "Pygmy Nuthatch",
+    "scientificName": "Sitta pygmaea",
+    "date": "26 May 2021",
+    "year": 2021,
+    "location": "Pt. Lobos State Reserve",
+    "locId": "L199245",
+    "lat": 36.5194581,
+    "lng": -121.9497013
+  },
+  {
+    "commonName": "Wrentit",
+    "scientificName": "Chamaea fasciata",
+    "date": "26 May 2021",
+    "year": 2021,
+    "location": "Pt. Lobos State Reserve",
+    "locId": "L199245",
+    "lat": 36.5194581,
+    "lng": -121.9497013
+  },
+  {
+    "commonName": "Bushtit",
+    "scientificName": "Psaltriparus minimus",
+    "date": "26 May 2021",
+    "year": 2021,
+    "location": "Pt. Lobos State Reserve",
+    "locId": "L199245",
+    "lat": 36.5194581,
+    "lng": -121.9497013
+  },
+  {
+    "commonName": "Black Phoebe",
+    "scientificName": "Sayornis nigricans",
+    "date": "26 May 2021",
+    "year": 2021,
+    "location": "Pt. Lobos State Reserve",
+    "locId": "L199245",
+    "lat": 36.5194581,
+    "lng": -121.9497013
+  },
+  {
+    "commonName": "Acorn Woodpecker",
+    "scientificName": "Melanerpes formicivorus",
+    "date": "26 May 2021",
+    "year": 2021,
+    "location": "Pt. Lobos State Reserve",
+    "locId": "L199245",
+    "lat": 36.5194581,
+    "lng": -121.9497013
+  },
+  {
+    "commonName": "Brandt's Cormorant",
+    "scientificName": "Urile penicillatus",
+    "date": "26 May 2021",
+    "year": 2021,
+    "location": "Pt. Lobos State Reserve",
+    "locId": "L199245",
+    "lat": 36.5194581,
+    "lng": -121.9497013
+  },
+  {
+    "commonName": "Black Oystercatcher",
+    "scientificName": "Haematopus bachmani",
+    "date": "26 May 2021",
+    "year": 2021,
+    "location": "Pt. Lobos State Reserve",
+    "locId": "L199245",
+    "lat": 36.5194581,
+    "lng": -121.9497013
+  },
+  {
+    "commonName": "Red-masked Parakeet",
+    "scientificName": "Psittacara erythrogenys",
+    "date": "25 May 2021",
+    "year": 2021,
+    "location": "RUSS BRIGHT PARK (formerly Ferry / Sue Bierman Park)",
+    "locId": "L1284799",
+    "lat": 37.79593,
+    "lng": -122.396468
+  },
+  {
+    "commonName": "Pacific Wren",
+    "scientificName": "Troglodytes pacificus",
+    "date": "25 May 2021",
+    "year": 2021,
+    "location": "Muir Woods NM--Main Trail",
+    "locId": "L2913605",
+    "lat": 37.8985409,
+    "lng": -122.5760078
+  },
+  {
+    "commonName": "California Scrub-Jay",
+    "scientificName": "Aphelocoma californica",
+    "date": "25 May 2021",
+    "year": 2021,
+    "location": "Palomarin Trail",
+    "locId": "L884109",
+    "lat": 37.9344939,
+    "lng": -122.747328
+  },
+  {
+    "commonName": "Steller's Jay",
+    "scientificName": "Cyanocitta stelleri",
+    "date": "25 May 2021",
+    "year": 2021,
+    "location": "Palomarin Trail",
+    "locId": "L884109",
+    "lat": 37.9344939,
+    "lng": -122.747328
+  },
+  {
+    "commonName": "Allen's Hummingbird",
+    "scientificName": "Selasphorus sasin",
+    "date": "25 May 2021",
+    "year": 2021,
+    "location": "Palomarin Trail",
+    "locId": "L884109",
+    "lat": 37.9344939,
+    "lng": -122.747328
+  },
+  {
+    "commonName": "California Quail",
+    "scientificName": "Callipepla californica",
+    "date": "25 May 2021",
+    "year": 2021,
+    "location": "Palomarin Trail",
+    "locId": "L884109",
+    "lat": 37.9344939,
+    "lng": -122.747328
+  },
+  {
+    "commonName": "Hooded Oriole",
+    "scientificName": "Icterus cucullatus",
+    "date": "22 May 2021",
+    "year": 2021,
+    "location": "7750 Giusti Road, Forestville, California, US (38.486, -122.903)",
+    "locId": "L15037017",
+    "lat": 38.486,
+    "lng": -122.903
+  },
+  {
+    "commonName": "Brant",
+    "scientificName": "Branta bernicla",
+    "date": "21 May 2021",
+    "year": 2021,
+    "location": "Bodega Bay--harbor and immediate vicinity",
+    "locId": "L109489",
+    "lat": 38.3238144,
+    "lng": -123.0488491
+  },
+  {
+    "commonName": "Marbled Godwit",
+    "scientificName": "Limosa fedoa",
+    "date": "21 May 2021",
+    "year": 2021,
+    "location": "Bodega Bay--harbor and immediate vicinity",
+    "locId": "L109489",
+    "lat": 38.3238144,
+    "lng": -123.0488491
+  },
+  {
+    "commonName": "Western Bluebird",
+    "scientificName": "Sialia mexicana",
+    "date": "21 May 2021",
+    "year": 2021,
+    "location": "7750 Giusti Road, Forestville, California, US (38.486, -122.903)",
+    "locId": "L15037017",
+    "lat": 38.486,
+    "lng": -122.903
+  },
+  {
+    "commonName": "Bewick's Wren",
+    "scientificName": "Thryomanes bewickii",
+    "date": "20 May 2021",
+    "year": 2021,
+    "location": "Kirby Cove",
+    "locId": "L1103976",
+    "lat": 37.8268692,
+    "lng": -122.4903696
+  },
+  {
+    "commonName": "Violet-green Swallow",
+    "scientificName": "Tachycineta thalassina",
+    "date": "20 May 2021",
+    "year": 2021,
+    "location": "Kirby Cove",
+    "locId": "L1103976",
+    "lat": 37.8268692,
+    "lng": -122.4903696
+  },
+  {
+    "commonName": "Chestnut-backed Chickadee",
+    "scientificName": "Poecile rufescens",
+    "date": "20 May 2021",
+    "year": 2021,
+    "location": "Kirby Cove",
+    "locId": "L1103976",
+    "lat": 37.8268692,
+    "lng": -122.4903696
+  },
+  {
+    "commonName": "Rusty Blackbird",
+    "scientificName": "Euphagus carolinus",
+    "date": "17 Apr 2021",
+    "year": 2021,
+    "location": "Theodore Roosevelt Island",
+    "locId": "L718768",
+    "lat": 38.8964407,
+    "lng": -77.0639175
+  },
+  {
+    "commonName": "Ring-necked Pheasant",
+    "scientificName": "Phasianus colchicus",
+    "date": "09 Apr 2021",
+    "year": 2021,
+    "location": "42813-43133 Elm Island Road, Gibbon, Nebraska, US (40.664, -98.891)",
+    "locId": "L14388386",
+    "lat": 40.664,
+    "lng": -98.891
+  },
+  {
+    "commonName": "Yellow-headed Blackbird",
+    "scientificName": "Xanthocephalus xanthocephalus",
+    "date": "09 Apr 2021",
+    "year": 2021,
+    "location": "Platte River--Lowell Rd crossing",
+    "locId": "L508636",
+    "lat": 40.6745518,
+    "lng": -98.8474274
+  },
+  {
+    "commonName": "Western Meadowlark",
+    "scientificName": "Sturnella neglecta",
+    "date": "08 Apr 2021",
+    "year": 2021,
+    "location": "Fort Kearny SRA--south Platte River bridge",
+    "locId": "L1111719",
+    "lat": 40.6604977,
+    "lng": -98.987385
+  },
+  {
+    "commonName": "Sharp-shinned Hawk",
+    "scientificName": "Accipiter striatus",
+    "date": "05 Apr 2021",
+    "year": 2021,
+    "location": "Indiana Dunes SP--Observation Tower",
+    "locId": "L2091564",
+    "lat": 41.6599159,
+    "lng": -87.0662802
+  },
+  {
+    "commonName": "Pine Warbler",
+    "scientificName": "Setophaga pinus",
+    "date": "15 Mar 2021",
+    "year": 2021,
+    "location": "Audubon Corkscrew Swamp Sanctuary",
+    "locId": "L127407",
+    "lat": 26.375442,
+    "lng": -81.6040206
+  },
+  {
+    "commonName": "White-eyed Vireo",
+    "scientificName": "Vireo griseus",
+    "date": "15 Mar 2021",
+    "year": 2021,
+    "location": "Audubon Corkscrew Swamp Sanctuary",
+    "locId": "L127407",
+    "lat": 26.375442,
+    "lng": -81.6040206
+  },
+  {
+    "commonName": "Purple Gallinule",
+    "scientificName": "Porphyrio martinica",
+    "date": "15 Mar 2021",
+    "year": 2021,
+    "location": "Audubon Corkscrew Swamp Sanctuary",
+    "locId": "L127407",
+    "lat": 26.375442,
+    "lng": -81.6040206
+  },
+  {
+    "commonName": "Swallow-tailed Kite",
+    "scientificName": "Elanoides forficatus",
+    "date": "11 Mar 2021",
+    "year": 2021,
+    "location": "Sanibel Island (please consider using a more precise location)",
+    "locId": "L481080",
+    "lat": 26.4361469,
+    "lng": -82.1159363
+  },
+  {
+    "commonName": "Loggerhead Shrike",
+    "scientificName": "Lanius ludovicianus",
+    "date": "13 Jan 2021",
+    "year": 2021,
+    "location": "Rookery Bay NERR--Briggs Boardwalk",
+    "locId": "L295606",
+    "lat": 26.0240674,
+    "lng": -81.7117082
+  },
+  {
+    "commonName": "Reddish Egret",
+    "scientificName": "Egretta rufescens",
+    "date": "10 Jan 2021",
+    "year": 2021,
+    "location": "J. N. Ding Darling NWR--Wildlife Drive",
+    "locId": "L823147",
+    "lat": 26.4540529,
+    "lng": -82.1155071
+  },
+  {
+    "commonName": "Blue-headed Vireo",
+    "scientificName": "Vireo solitarius",
+    "date": "10 Jan 2021",
+    "year": 2021,
+    "location": "J. N. Ding Darling NWR--Indigo Trail",
+    "locId": "L889504",
+    "lat": 26.4510559,
+    "lng": -82.1234035
+  },
+  {
+    "commonName": "Short-tailed Hawk",
+    "scientificName": "Buteo brachyurus",
+    "date": "10 Jan 2021",
+    "year": 2021,
+    "location": "J. N. Ding Darling NWR--Wildlife Drive",
+    "locId": "L823147",
+    "lat": 26.4540529,
+    "lng": -82.1155071
+  },
+  {
+    "commonName": "American White Pelican",
+    "scientificName": "Pelecanus erythrorhynchos",
+    "date": "10 Jan 2021",
+    "year": 2021,
+    "location": "J. N. Ding Darling NWR--Wildlife Drive",
+    "locId": "L823147",
+    "lat": 26.4540529,
+    "lng": -82.1155071
+  },
+  {
+    "commonName": "Roseate Spoonbill",
+    "scientificName": "Platalea ajaja",
+    "date": "10 Jan 2021",
+    "year": 2021,
+    "location": "J. N. Ding Darling NWR--Wildlife Drive",
+    "locId": "L823147",
+    "lat": 26.4540529,
+    "lng": -82.1155071
+  },
+  {
+    "commonName": "Mottled Duck",
+    "scientificName": "Anas fulvigula",
+    "date": "10 Jan 2021",
+    "year": 2021,
+    "location": "J. N. Ding Darling NWR--Wildlife Drive",
+    "locId": "L823147",
+    "lat": 26.4540529,
+    "lng": -82.1155071
+  },
+  {
+    "commonName": "Wood Stork",
+    "scientificName": "Mycteria americana",
+    "date": "09 Jan 2021",
+    "year": 2021,
+    "location": "Audubon Corkscrew Swamp Sanctuary",
+    "locId": "L127407",
+    "lat": 26.375442,
+    "lng": -81.6040206
+  },
+  {
+    "commonName": "Limpkin",
+    "scientificName": "Aramus guarauna",
+    "date": "09 Jan 2021",
+    "year": 2021,
+    "location": "Audubon Corkscrew Swamp Sanctuary",
+    "locId": "L127407",
+    "lat": 26.375442,
+    "lng": -81.6040206
+  },
+  {
+    "commonName": "Prairie Warbler",
+    "scientificName": "Setophaga discolor",
+    "date": "08 Jan 2021",
+    "year": 2021,
+    "location": "Delnor-Wiggins Pass SP",
+    "locId": "L833946",
+    "lat": 26.2816555,
+    "lng": -81.8292456
+  },
+  {
+    "commonName": "Anhinga",
+    "scientificName": "Anhinga anhinga",
+    "date": "07 Jan 2021",
+    "year": 2021,
+    "location": "Naples Zoo at Caribbean Gardens",
+    "locId": "L1434519",
+    "lat": 26.1691415,
+    "lng": -81.7888167
+  },
+  {
+    "commonName": "Ruddy Turnstone",
+    "scientificName": "Arenaria interpres",
+    "date": "06 Jan 2021",
+    "year": 2021,
+    "location": "Barefoot Beach County Preserve",
+    "locId": "L810737",
+    "lat": 26.2960121,
+    "lng": -81.8330705
+  },
+  {
+    "commonName": "Willet",
+    "scientificName": "Tringa semipalmata",
+    "date": "06 Jan 2021",
+    "year": 2021,
+    "location": "Barefoot Beach County Preserve",
+    "locId": "L810737",
+    "lat": 26.2960121,
+    "lng": -81.8330705
+  },
+  {
+    "commonName": "Barred Owl",
+    "scientificName": "Strix varia",
+    "date": "18 Dec 2020",
+    "year": 2020,
+    "location": "Catalpa Creek",
+    "locId": "L9037370",
+    "lat": 39.232,
+    "lng": -84.3783
+  },
+  {
+    "commonName": "Northern Pintail",
+    "scientificName": "Anas acuta",
+    "date": "07 Dec 2020",
+    "year": 2020,
+    "location": "Lincoln Park Zoo",
+    "locId": "L1573785",
+    "lat": 41.9207287,
+    "lng": -87.6327196
+  },
+  {
+    "commonName": "Snow Goose",
+    "scientificName": "Anser caerulescens",
+    "date": "08 Nov 2020",
+    "year": 2020,
+    "location": "Lincoln Park--North Pond",
+    "locId": "L152691",
+    "lat": 41.9283,
+    "lng": -87.637
+  },
+  {
+    "commonName": "Winter Wren",
+    "scientificName": "Troglodytes hiemalis",
+    "date": "17 Oct 2020",
+    "year": 2020,
+    "location": "Northwestern University (Main Campus and Lakefill)",
+    "locId": "L152692",
+    "lat": 42.0569,
+    "lng": -87.6711
+  },
+  {
+    "commonName": "Black-throated Green Warbler",
+    "scientificName": "Setophaga virens",
+    "date": "20 Sep 2020",
+    "year": 2020,
+    "location": "Northwestern University (Main Campus and Lakefill)",
+    "locId": "L152692",
+    "lat": 42.0569,
+    "lng": -87.6711
+  },
+  {
+    "commonName": "Red-breasted Nuthatch",
+    "scientificName": "Sitta canadensis",
+    "date": "16 Sep 2020",
+    "year": 2020,
+    "location": "Montrose Point Bird Sanctuary, Lincoln Park",
+    "locId": "L161180",
+    "lat": 41.9633833,
+    "lng": -87.6344204
+  },
+  {
+    "commonName": "Great Black-backed Gull",
+    "scientificName": "Larus marinus",
+    "date": "31 Jul 2020",
+    "year": 2020,
+    "location": "Sandbridge Beach",
+    "locId": "L1405901",
+    "lat": 36.746329,
+    "lng": -75.944546
+  },
+  {
+    "commonName": "Royal Tern",
+    "scientificName": "Thalasseus maximus",
+    "date": "30 Jul 2020",
+    "year": 2020,
+    "location": "Sandbridge Beach",
+    "locId": "L1405901",
+    "lat": 36.746329,
+    "lng": -75.944546
+  },
+  {
+    "commonName": "Common Tern",
+    "scientificName": "Sterna hirundo",
+    "date": "30 Jul 2020",
+    "year": 2020,
+    "location": "Sandbridge Beach",
+    "locId": "L1405901",
+    "lat": 36.746329,
+    "lng": -75.944546
+  },
+  {
+    "commonName": "Boat-tailed Grackle",
+    "scientificName": "Quiscalus major",
+    "date": "28 Jul 2020",
+    "year": 2020,
+    "location": "**Back Bay NWR",
+    "locId": "L718307",
+    "lat": 36.672127,
+    "lng": -75.915661
+  },
+  {
+    "commonName": "Glossy Ibis",
+    "scientificName": "Plegadis falcinellus",
+    "date": "28 Jul 2020",
+    "year": 2020,
+    "location": "**Back Bay NWR",
+    "locId": "L718307",
+    "lat": 36.672127,
+    "lng": -75.915661
+  },
+  {
+    "commonName": "White Ibis",
+    "scientificName": "Eudocimus albus",
+    "date": "28 Jul 2020",
+    "year": 2020,
+    "location": "**Back Bay NWR",
+    "locId": "L718307",
+    "lat": 36.672127,
+    "lng": -75.915661
+  },
+  {
+    "commonName": "Sandwich Tern",
+    "scientificName": "Thalasseus sandvicensis",
+    "date": "27 Jul 2020",
+    "year": 2020,
+    "location": "Sandbridge Beach",
+    "locId": "L1405901",
+    "lat": 36.746329,
+    "lng": -75.944546
+  },
+  {
+    "commonName": "Osprey",
+    "scientificName": "Pandion haliaetus",
+    "date": "26 Jul 2020",
+    "year": 2020,
+    "location": "**Back Bay NWR",
+    "locId": "L718307",
+    "lat": 36.672127,
+    "lng": -75.915661
+  },
+  {
+    "commonName": "Fish Crow",
+    "scientificName": "Corvus ossifragus",
+    "date": "25 Jul 2020",
+    "year": 2020,
+    "location": "Mount Trashmore Park",
+    "locId": "L4132095",
+    "lat": 36.8297259,
+    "lng": -76.1247611
+  },
+  {
+    "commonName": "Laughing Gull",
+    "scientificName": "Leucophaeus atricilla",
+    "date": "25 Jul 2020",
+    "year": 2020,
+    "location": "Mount Trashmore Park",
+    "locId": "L4132095",
+    "lat": 36.8297259,
+    "lng": -76.1247611
+  },
+  {
+    "commonName": "Trumpeter Swan",
+    "scientificName": "Cygnus buccinator",
+    "date": "13 Jun 2020",
+    "year": 2020,
+    "location": "Rollins Savanna Forest Preserve",
+    "locId": "L1568862",
+    "lat": 42.3702879,
+    "lng": -88.028536
+  },
+  {
+    "commonName": "Canada Warbler",
+    "scientificName": "Cardellina canadensis",
+    "date": "22 May 2020",
+    "year": 2020,
+    "location": "Northwestern University (Main Campus and Lakefill)",
+    "locId": "L152692",
+    "lat": 42.0569,
+    "lng": -87.6711
+  },
+  {
+    "commonName": "Bay-breasted Warbler",
+    "scientificName": "Setophaga castanea",
+    "date": "22 May 2020",
+    "year": 2020,
+    "location": "Northwestern University (Main Campus and Lakefill)",
+    "locId": "L152692",
+    "lat": 42.0569,
+    "lng": -87.6711
+  },
+  {
+    "commonName": "Tennessee Warbler",
+    "scientificName": "Leiothlypis peregrina",
+    "date": "21 May 2020",
+    "year": 2020,
+    "location": "Clark Street Beach Bird Sanctuary",
+    "locId": "L3615041",
+    "lat": 42.0498389,
+    "lng": -87.6736833
+  },
+  {
+    "commonName": "Clay-colored Sparrow",
+    "scientificName": "Spizella pallida",
+    "date": "21 May 2020",
+    "year": 2020,
+    "location": "Clark Street Beach Bird Sanctuary",
+    "locId": "L3615041",
+    "lat": 42.0498389,
+    "lng": -87.6736833
+  },
+  {
+    "commonName": "Mourning Warbler",
+    "scientificName": "Geothlypis philadelphia",
+    "date": "20 May 2020",
+    "year": 2020,
+    "location": "Northwestern University (Main Campus and Lakefill)",
+    "locId": "L152692",
+    "lat": 42.0569,
+    "lng": -87.6711
+  },
+  {
+    "commonName": "Blackpoll Warbler",
+    "scientificName": "Setophaga striata",
+    "date": "19 May 2020",
+    "year": 2020,
+    "location": "Northwestern University (Main Campus and Lakefill)",
+    "locId": "L152692",
+    "lat": 42.0569,
+    "lng": -87.6711
+  },
+  {
+    "commonName": "Lincoln's Sparrow",
+    "scientificName": "Melospiza lincolnii",
+    "date": "18 May 2020",
+    "year": 2020,
+    "location": "Northwestern University (Main Campus and Lakefill)",
+    "locId": "L152692",
+    "lat": 42.0569,
+    "lng": -87.6711
+  },
+  {
+    "commonName": "Veery",
+    "scientificName": "Catharus fuscescens",
+    "date": "18 May 2020",
+    "year": 2020,
+    "location": "Northwestern University (Main Campus and Lakefill)",
+    "locId": "L152692",
+    "lat": 42.0569,
+    "lng": -87.6711
+  },
+  {
+    "commonName": "Ruddy Duck",
+    "scientificName": "Oxyura jamaicensis",
+    "date": "18 May 2020",
+    "year": 2020,
+    "location": "Northwestern University (Main Campus and Lakefill)",
+    "locId": "L152692",
+    "lat": 42.0569,
+    "lng": -87.6711
+  },
+  {
+    "commonName": "Rose-breasted Grosbeak",
+    "scientificName": "Pheucticus ludovicianus",
+    "date": "13 May 2020",
+    "year": 2020,
+    "location": "Cincinnati Nature Center--Rowe Woods",
+    "locId": "L322642",
+    "lat": 39.1253997,
+    "lng": -84.2434222
+  },
+  {
+    "commonName": "Scarlet Tanager",
+    "scientificName": "Piranga olivacea",
+    "date": "13 May 2020",
+    "year": 2020,
+    "location": "Cincinnati Nature Center--Rowe Woods",
+    "locId": "L322642",
+    "lat": 39.1253997,
+    "lng": -84.2434222
+  },
+  {
+    "commonName": "Chestnut-sided Warbler",
+    "scientificName": "Setophaga pensylvanica",
+    "date": "13 May 2020",
+    "year": 2020,
+    "location": "Cincinnati Nature Center--Rowe Woods",
+    "locId": "L322642",
+    "lat": 39.1253997,
+    "lng": -84.2434222
+  },
+  {
+    "commonName": "Hooded Warbler",
+    "scientificName": "Setophaga citrina",
+    "date": "12 May 2020",
+    "year": 2020,
+    "location": "Catalpa Creek",
+    "locId": "L9037370",
+    "lat": 39.232,
+    "lng": -84.3783
+  },
+  {
+    "commonName": "Blackburnian Warbler",
+    "scientificName": "Setophaga fusca",
+    "date": "30 Apr 2020",
+    "year": 2020,
+    "location": "Sharon Woods Park, Sharonville",
+    "locId": "L592770",
+    "lat": 39.2828288,
+    "lng": -84.3914366
+  },
+  {
+    "commonName": "Yellow-throated Vireo",
+    "scientificName": "Vireo flavifrons",
+    "date": "30 Apr 2020",
+    "year": 2020,
+    "location": "Sharon Woods Park, Sharonville",
+    "locId": "L592770",
+    "lat": 39.2828288,
+    "lng": -84.3914366
+  },
+  {
+    "commonName": "Northern Yellow Warbler",
+    "scientificName": "Setophaga aestiva",
+    "date": "25 Apr 2020",
+    "year": 2020,
+    "location": "Miami Whitewater Forest--Shaker Trace Wetlands",
+    "locId": "L210242",
+    "lat": 39.2782583,
+    "lng": -84.7495461
+  },
+  {
+    "commonName": "Prothonotary Warbler",
+    "scientificName": "Protonotaria citrea",
+    "date": "20 Apr 2020",
+    "year": 2020,
+    "location": "Sharon Woods Park, Sharonville",
+    "locId": "L592770",
+    "lat": 39.2828288,
+    "lng": -84.3914366
+  },
+  {
+    "commonName": "Great Horned Owl",
+    "scientificName": "Bubo virginianus",
+    "date": "09 Apr 2020",
+    "year": 2020,
+    "location": "Otto Armleder Memorial Park",
+    "locId": "L298164",
+    "lat": 39.1231188,
+    "lng": -84.405935
+  },
+  {
+    "commonName": "Common Loon",
+    "scientificName": "Gavia immer",
+    "date": "05 Apr 2020",
+    "year": 2020,
+    "location": "Sharon Woods Park, Sharonville",
+    "locId": "L592770",
+    "lat": 39.2828288,
+    "lng": -84.3914366
+  },
+  {
+    "commonName": "Swamp Sparrow",
+    "scientificName": "Melospiza georgiana",
+    "date": "25 Mar 2020",
+    "year": 2020,
+    "location": "Miami Whitewater Forest--Shaker Trace Wetlands",
+    "locId": "L210242",
+    "lat": 39.2782583,
+    "lng": -84.7495461
+  },
+  {
+    "commonName": "American Black Duck",
+    "scientificName": "Anas rubripes",
+    "date": "25 Mar 2020",
+    "year": 2020,
+    "location": "Miami Whitewater Forest--Shaker Trace Wetlands",
+    "locId": "L210242",
+    "lat": 39.2782583,
+    "lng": -84.7495461
+  },
+  {
+    "commonName": "Black Vulture",
+    "scientificName": "Coragyps atratus",
+    "date": "24 Mar 2020",
+    "year": 2020,
+    "location": "Alms Park",
+    "locId": "L466097",
+    "lat": 39.1116817,
+    "lng": -84.4288051
+  },
+  {
+    "commonName": "Ring-necked Duck",
+    "scientificName": "Aythya collaris",
+    "date": "19 Mar 2020",
+    "year": 2020,
+    "location": "Glenwood Gardens",
+    "locId": "L324868",
+    "lat": 39.2576369,
+    "lng": -84.4712859
+  },
+  {
+    "commonName": "Long-eared Owl",
+    "scientificName": "Asio otus",
+    "date": "08 Mar 2020",
+    "year": 2020,
+    "location": "Northwestern University (Main Campus and Lakefill)",
+    "locId": "L152692",
+    "lat": 42.0569,
+    "lng": -87.6711
+  },
+  {
+    "commonName": "Long-tailed Duck",
+    "scientificName": "Clangula hyemalis",
+    "date": "07 Mar 2020",
+    "year": 2020,
+    "location": "Montrose Point Bird Sanctuary, Lincoln Park",
+    "locId": "L161180",
+    "lat": 41.9633833,
+    "lng": -87.6344204
+  },
+  {
+    "commonName": "Lesser Scaup",
+    "scientificName": "Aythya affinis",
+    "date": "07 Mar 2020",
+    "year": 2020,
+    "location": "Montrose Point Bird Sanctuary, Lincoln Park",
+    "locId": "L161180",
+    "lat": 41.9633833,
+    "lng": -87.6344204
+  },
+  {
+    "commonName": "Northern Shoveler",
+    "scientificName": "Spatula clypeata",
+    "date": "23 Feb 2020",
+    "year": 2020,
+    "location": "Northwestern University (Main Campus and Lakefill)",
+    "locId": "L152692",
+    "lat": 42.0569,
+    "lng": -87.6711
+  },
+  {
+    "commonName": "Greater Scaup",
+    "scientificName": "Aythya marila",
+    "date": "22 Feb 2020",
+    "year": 2020,
+    "location": "Millennium Park",
+    "locId": "L1521963",
+    "lat": 41.8826206,
+    "lng": -87.6227689
+  },
+  {
+    "commonName": "Pelagic Cormorant",
+    "scientificName": "Urile pelagicus",
+    "date": "12 Feb 2020",
+    "year": 2020,
+    "location": "San Francisco Ferry Building",
+    "locId": "L854587",
+    "lat": 37.7952236,
+    "lng": -122.3942045
+  },
+  {
+    "commonName": "Western Grebe",
+    "scientificName": "Aechmophorus occidentalis",
+    "date": "12 Feb 2020",
+    "year": 2020,
+    "location": "San Francisco Ferry Building",
+    "locId": "L854587",
+    "lat": 37.7952236,
+    "lng": -122.3942045
+  },
+  {
+    "commonName": "Western Gull",
+    "scientificName": "Larus occidentalis",
+    "date": "12 Feb 2020",
+    "year": 2020,
+    "location": "San Francisco Ferry Building",
+    "locId": "L854587",
+    "lat": 37.7952236,
+    "lng": -122.3942045
+  },
+  {
+    "commonName": "Orange-cheeked Waxbill",
+    "scientificName": "Estrilda melpoda",
+    "date": "03 Jan 2020",
+    "year": 2020,
+    "location": "Wyndham Rio Mar",
+    "locId": "L10386057",
+    "lat": 18.388,
+    "lng": -65.77
+  },
+  {
+    "commonName": "Bronze Mannikin",
+    "scientificName": "Spermestes cucullata",
+    "date": "03 Jan 2020",
+    "year": 2020,
+    "location": "Wyndham Rio Mar",
+    "locId": "L10386057",
+    "lat": 18.388,
+    "lng": -65.77
+  },
+  {
+    "commonName": "Puerto Rican Mango",
+    "scientificName": "Anthracothorax aurulentus",
+    "date": "03 Jan 2020",
+    "year": 2020,
+    "location": "Wyndham Rio Mar",
+    "locId": "L10386057",
+    "lat": 18.388,
+    "lng": -65.77
+  },
+  {
+    "commonName": "Northern Parula",
+    "scientificName": "Setophaga americana",
+    "date": "02 Jan 2020",
+    "year": 2020,
+    "location": "Sevens Seas Beach Trail - Northeast Ecological Cooridor",
+    "locId": "L3976962",
+    "lat": 18.3749868,
+    "lng": -65.641315
+  },
+  {
+    "commonName": "Mangrove Cuckoo",
+    "scientificName": "Coccyzus minor",
+    "date": "02 Jan 2020",
+    "year": 2020,
+    "location": "Sevens Seas Beach Trail - Northeast Ecological Cooridor",
+    "locId": "L3976962",
+    "lat": 18.3749868,
+    "lng": -65.641315
+  },
+  {
+    "commonName": "Western Cattle-Egret",
+    "scientificName": "Ardea ibis",
+    "date": "02 Jan 2020",
+    "year": 2020,
+    "location": "Wyndham Rio Mar",
+    "locId": "L10386057",
+    "lat": 18.388,
+    "lng": -65.77
+  },
+  {
+    "commonName": "Snowy Egret",
+    "scientificName": "Egretta thula",
+    "date": "02 Jan 2020",
+    "year": 2020,
+    "location": "Wyndham Rio Mar",
+    "locId": "L10386057",
+    "lat": 18.388,
+    "lng": -65.77
+  },
+  {
+    "commonName": "Tricolored Heron",
+    "scientificName": "Egretta tricolor",
+    "date": "02 Jan 2020",
+    "year": 2020,
+    "location": "Wyndham Rio Mar",
+    "locId": "L10386057",
+    "lat": 18.388,
+    "lng": -65.77
+  },
+  {
+    "commonName": "Little Blue Heron",
+    "scientificName": "Egretta caerulea",
+    "date": "02 Jan 2020",
+    "year": 2020,
+    "location": "Wyndham Rio Mar",
+    "locId": "L10386057",
+    "lat": 18.388,
+    "lng": -65.77
+  },
+  {
+    "commonName": "Black-necked Stilt",
+    "scientificName": "Himantopus mexicanus",
+    "date": "02 Jan 2020",
+    "year": 2020,
+    "location": "Wyndham Rio Mar",
+    "locId": "L10386057",
+    "lat": 18.388,
+    "lng": -65.77
+  },
+  {
+    "commonName": "Common Ground Dove",
+    "scientificName": "Columbina passerina",
+    "date": "02 Jan 2020",
+    "year": 2020,
+    "location": "Wyndham Rio Mar",
+    "locId": "L10386057",
+    "lat": 18.388,
+    "lng": -65.77
+  },
+  {
+    "commonName": "Scaly-naped Pigeon",
+    "scientificName": "Patagioenas squamosa",
+    "date": "02 Jan 2020",
+    "year": 2020,
+    "location": "Wyndham Rio Mar",
+    "locId": "L10386057",
+    "lat": 18.388,
+    "lng": -65.77
+  },
+  {
+    "commonName": "Puerto Rican Spindalis",
+    "scientificName": "Spindalis portoricensis",
+    "date": "01 Jan 2020",
+    "year": 2020,
+    "location": "Bosque Nacional El Yunque--Mt. Britton",
+    "locId": "L323803",
+    "lat": 18.30099,
+    "lng": -65.79312
+  },
+  {
+    "commonName": "Puerto Rican Tanager",
+    "scientificName": "Nesospingus speculiferus",
+    "date": "01 Jan 2020",
+    "year": 2020,
+    "location": "Bosque Nacional El Yunque--Mt. Britton",
+    "locId": "L323803",
+    "lat": 18.30099,
+    "lng": -65.79312
+  },
+  {
+    "commonName": "Puerto Rican Emerald",
+    "scientificName": "Riccordia maugaeus",
+    "date": "01 Jan 2020",
+    "year": 2020,
+    "location": "Bosque Nacional El Yunque--Mt. Britton",
+    "locId": "L323803",
+    "lat": 18.30099,
+    "lng": -65.79312
+  },
+  {
+    "commonName": "Pearly-eyed Thrasher",
+    "scientificName": "Margarops fuscatus",
+    "date": "31 Dec 2019",
+    "year": 2019,
+    "location": "Wyndham Rio Mar",
+    "locId": "L10386057",
+    "lat": 18.388,
+    "lng": -65.77
+  },
+  {
+    "commonName": "Puerto Rican Woodpecker",
+    "scientificName": "Melanerpes portoricensis",
+    "date": "31 Dec 2019",
+    "year": 2019,
+    "location": "Wyndham Rio Mar",
+    "locId": "L10386057",
+    "lat": 18.388,
+    "lng": -65.77
+  },
+  {
+    "commonName": "Bananaquit",
+    "scientificName": "Coereba flaveola",
+    "date": "30 Dec 2019",
+    "year": 2019,
+    "location": "Viejo San Juan",
+    "locId": "L294049",
+    "lat": 18.467376,
+    "lng": -66.1169114
+  },
+  {
+    "commonName": "Eastern Red-legged Thrush",
+    "scientificName": "Turdus ardosiaceus",
+    "date": "30 Dec 2019",
+    "year": 2019,
+    "location": "Viejo San Juan",
+    "locId": "L294049",
+    "lat": 18.467376,
+    "lng": -66.1169114
+  },
+  {
+    "commonName": "Gray Kingbird",
+    "scientificName": "Tyrannus dominicensis",
+    "date": "30 Dec 2019",
+    "year": 2019,
+    "location": "Viejo San Juan",
+    "locId": "L294049",
+    "lat": 18.467376,
+    "lng": -66.1169114
+  },
+  {
+    "commonName": "Monk Parakeet",
+    "scientificName": "Myiopsitta monachus",
+    "date": "30 Dec 2019",
+    "year": 2019,
+    "location": "Viejo San Juan",
+    "locId": "L294049",
+    "lat": 18.467376,
+    "lng": -66.1169114
+  },
+  {
+    "commonName": "Brown Booby",
+    "scientificName": "Sula leucogaster",
+    "date": "30 Dec 2019",
+    "year": 2019,
+    "location": "Viejo San Juan",
+    "locId": "L294049",
+    "lat": 18.467376,
+    "lng": -66.1169114
+  },
+  {
+    "commonName": "Greater Antillean Grackle",
+    "scientificName": "Quiscalus niger",
+    "date": "30 Dec 2019",
+    "year": 2019,
+    "location": "Viejo San Juan",
+    "locId": "L294049",
+    "lat": 18.467376,
+    "lng": -66.1169114
+  },
+  {
+    "commonName": "Brown Pelican",
+    "scientificName": "Pelecanus occidentalis",
+    "date": "30 Dec 2019",
+    "year": 2019,
+    "location": "Viejo San Juan",
+    "locId": "L294049",
+    "lat": 18.467376,
+    "lng": -66.1169114
+  },
+  {
+    "commonName": "Magnificent Frigatebird",
+    "scientificName": "Fregata magnificens",
+    "date": "30 Dec 2019",
+    "year": 2019,
+    "location": "Viejo San Juan",
+    "locId": "L294049",
+    "lat": 18.467376,
+    "lng": -66.1169114
+  },
+  {
+    "commonName": "Zenaida Dove",
+    "scientificName": "Zenaida aurita",
+    "date": "30 Dec 2019",
+    "year": 2019,
+    "location": "Viejo San Juan",
+    "locId": "L294049",
+    "lat": 18.467376,
+    "lng": -66.1169114
+  },
+  {
+    "commonName": "Red-breasted Merganser",
+    "scientificName": "Mergus serrator",
+    "date": "23 Nov 2019",
+    "year": 2019,
+    "location": "Northwestern University (Main Campus and Lakefill)",
+    "locId": "L152692",
+    "lat": 42.0569,
+    "lng": -87.6711
+  },
+  {
+    "commonName": "Cackling Goose",
+    "scientificName": "Branta hutchinsii",
+    "date": "23 Nov 2019",
+    "year": 2019,
+    "location": "Northwestern University (Main Campus and Lakefill)",
+    "locId": "L152692",
+    "lat": 42.0569,
+    "lng": -87.6711
+  },
+  {
+    "commonName": "Horned Grebe",
+    "scientificName": "Podiceps auritus",
+    "date": "17 Nov 2019",
+    "year": 2019,
+    "location": "Northwestern University (Main Campus and Lakefill)",
+    "locId": "L152692",
+    "lat": 42.0569,
+    "lng": -87.6711
+  },
+  {
+    "commonName": "Hooded Merganser",
+    "scientificName": "Lophodytes cucullatus",
+    "date": "17 Nov 2019",
+    "year": 2019,
+    "location": "Northwestern University (Main Campus and Lakefill)",
+    "locId": "L152692",
+    "lat": 42.0569,
+    "lng": -87.6711
+  },
+  {
+    "commonName": "Common Goldeneye",
+    "scientificName": "Bucephala clangula",
+    "date": "17 Nov 2019",
+    "year": 2019,
+    "location": "Northwestern University (Main Campus and Lakefill)",
+    "locId": "L152692",
+    "lat": 42.0569,
+    "lng": -87.6711
+  },
+  {
+    "commonName": "Canvasback",
+    "scientificName": "Aythya valisineria",
+    "date": "17 Nov 2019",
+    "year": 2019,
+    "location": "Northwestern University (Main Campus and Lakefill)",
+    "locId": "L152692",
+    "lat": 42.0569,
+    "lng": -87.6711
+  },
+  {
+    "commonName": "Fox Sparrow",
+    "scientificName": "Passerella iliaca",
+    "date": "03 Nov 2019",
+    "year": 2019,
+    "location": "Montrose Point Bird Sanctuary, Lincoln Park",
+    "locId": "L161180",
+    "lat": 41.9633833,
+    "lng": -87.6344204
+  },
+  {
+    "commonName": "American Tree Sparrow",
+    "scientificName": "Spizelloides arborea",
+    "date": "03 Nov 2019",
+    "year": 2019,
+    "location": "Montrose Point Bird Sanctuary, Lincoln Park",
+    "locId": "L161180",
+    "lat": 41.9633833,
+    "lng": -87.6344204
+  },
+  {
+    "commonName": "Snow Bunting",
+    "scientificName": "Plectrophenax nivalis",
+    "date": "03 Nov 2019",
+    "year": 2019,
+    "location": "Montrose Point Bird Sanctuary, Lincoln Park",
+    "locId": "L161180",
+    "lat": 41.9633833,
+    "lng": -87.6344204
+  },
+  {
+    "commonName": "Northern Harrier",
+    "scientificName": "Circus hudsonius",
+    "date": "03 Nov 2019",
+    "year": 2019,
+    "location": "Montrose Point Bird Sanctuary, Lincoln Park",
+    "locId": "L161180",
+    "lat": 41.9633833,
+    "lng": -87.6344204
+  },
+  {
+    "commonName": "Dunlin",
+    "scientificName": "Calidris alpina",
+    "date": "03 Nov 2019",
+    "year": 2019,
+    "location": "Montrose Point Bird Sanctuary, Lincoln Park",
+    "locId": "L161180",
+    "lat": 41.9633833,
+    "lng": -87.6344204
+  },
+  {
+    "commonName": "Greater Yellowlegs",
+    "scientificName": "Tringa melanoleuca",
+    "date": "03 Nov 2019",
+    "year": 2019,
+    "location": "Montrose Point Bird Sanctuary, Lincoln Park",
+    "locId": "L161180",
+    "lat": 41.9633833,
+    "lng": -87.6344204
+  },
+  {
+    "commonName": "Common Merganser",
+    "scientificName": "Mergus merganser",
+    "date": "03 Nov 2019",
+    "year": 2019,
+    "location": "Montrose Point Bird Sanctuary, Lincoln Park",
+    "locId": "L161180",
+    "lat": 41.9633833,
+    "lng": -87.6344204
+  },
+  {
+    "commonName": "Bufflehead",
+    "scientificName": "Bucephala albeola",
+    "date": "03 Nov 2019",
+    "year": 2019,
+    "location": "Montrose Point Bird Sanctuary, Lincoln Park",
+    "locId": "L161180",
+    "lat": 41.9633833,
+    "lng": -87.6344204
+  },
+  {
+    "commonName": "Hermit Thrush",
+    "scientificName": "Catharus guttatus",
+    "date": "23 Oct 2019",
+    "year": 2019,
+    "location": "Northwestern University (Main Campus and Lakefill)",
+    "locId": "L152692",
+    "lat": 42.0569,
+    "lng": -87.6711
+  },
+  {
+    "commonName": "Brown Creeper",
+    "scientificName": "Certhia americana",
+    "date": "17 Oct 2019",
+    "year": 2019,
+    "location": "Northwestern University (Main Campus and Lakefill)",
+    "locId": "L152692",
+    "lat": 42.0569,
+    "lng": -87.6711
+  },
+  {
+    "commonName": "Golden-crowned Kinglet",
+    "scientificName": "Regulus satrapa",
+    "date": "17 Oct 2019",
+    "year": 2019,
+    "location": "Northwestern University (Main Campus and Lakefill)",
+    "locId": "L152692",
+    "lat": 42.0569,
+    "lng": -87.6711
+  },
+  {
+    "commonName": "White-throated Sparrow",
+    "scientificName": "Zonotrichia albicollis",
+    "date": "30 Sep 2019",
+    "year": 2019,
+    "location": "Northwestern University (Main Campus and Lakefill)",
+    "locId": "L152692",
+    "lat": 42.0569,
+    "lng": -87.6711
+  },
+  {
+    "commonName": "White-crowned Sparrow",
+    "scientificName": "Zonotrichia leucophrys",
+    "date": "30 Sep 2019",
+    "year": 2019,
+    "location": "Northwestern University (Main Campus and Lakefill)",
+    "locId": "L152692",
+    "lat": 42.0569,
+    "lng": -87.6711
+  },
+  {
+    "commonName": "Yellow-rumped Warbler",
+    "scientificName": "Setophaga coronata",
+    "date": "26 Sep 2019",
+    "year": 2019,
+    "location": "Montrose Point Bird Sanctuary, Lincoln Park",
+    "locId": "L161180",
+    "lat": 41.9633833,
+    "lng": -87.6344204
+  },
+  {
+    "commonName": "Cape May Warbler",
+    "scientificName": "Setophaga tigrina",
+    "date": "26 Sep 2019",
+    "year": 2019,
+    "location": "Montrose Point Bird Sanctuary, Lincoln Park",
+    "locId": "L161180",
+    "lat": 41.9633833,
+    "lng": -87.6344204
+  },
+  {
+    "commonName": "Nashville Warbler",
+    "scientificName": "Leiothlypis ruficapilla",
+    "date": "26 Sep 2019",
+    "year": 2019,
+    "location": "Montrose Point Bird Sanctuary, Lincoln Park",
+    "locId": "L161180",
+    "lat": 41.9633833,
+    "lng": -87.6344204
+  },
+  {
+    "commonName": "Golden-winged Warbler",
+    "scientificName": "Vermivora chrysoptera",
+    "date": "26 Sep 2019",
+    "year": 2019,
+    "location": "Montrose Point Bird Sanctuary, Lincoln Park",
+    "locId": "L161180",
+    "lat": 41.9633833,
+    "lng": -87.6344204
+  },
+  {
+    "commonName": "Northern Waterthrush",
+    "scientificName": "Parkesia noveboracensis",
+    "date": "26 Sep 2019",
+    "year": 2019,
+    "location": "Montrose Point Bird Sanctuary, Lincoln Park",
+    "locId": "L161180",
+    "lat": 41.9633833,
+    "lng": -87.6344204
+  },
+  {
+    "commonName": "Ovenbird",
+    "scientificName": "Seiurus aurocapilla",
+    "date": "26 Sep 2019",
+    "year": 2019,
+    "location": "Montrose Point Bird Sanctuary, Lincoln Park",
+    "locId": "L161180",
+    "lat": 41.9633833,
+    "lng": -87.6344204
+  },
+  {
+    "commonName": "Marsh Wren",
+    "scientificName": "Cistothorus palustris",
+    "date": "26 Sep 2019",
+    "year": 2019,
+    "location": "Montrose Point Bird Sanctuary, Lincoln Park",
+    "locId": "L161180",
+    "lat": 41.9633833,
+    "lng": -87.6344204
+  },
+  {
+    "commonName": "Ruby-crowned Kinglet",
+    "scientificName": "Corthylio calendula",
+    "date": "26 Sep 2019",
+    "year": 2019,
+    "location": "Montrose Point Bird Sanctuary, Lincoln Park",
+    "locId": "L161180",
+    "lat": 41.9633833,
+    "lng": -87.6344204
+  },
+  {
+    "commonName": "Merlin",
+    "scientificName": "Falco columbarius",
+    "date": "26 Sep 2019",
+    "year": 2019,
+    "location": "Montrose Point Bird Sanctuary, Lincoln Park",
+    "locId": "L161180",
+    "lat": 41.9633833,
+    "lng": -87.6344204
+  },
+  {
+    "commonName": "Franklin's Gull",
+    "scientificName": "Leucophaeus pipixcan",
+    "date": "26 Sep 2019",
+    "year": 2019,
+    "location": "Montrose Point Bird Sanctuary, Lincoln Park",
+    "locId": "L161180",
+    "lat": 41.9633833,
+    "lng": -87.6344204
+  },
+  {
+    "commonName": "Black-bellied Plover",
+    "scientificName": "Pluvialis squatarola",
+    "date": "26 Sep 2019",
+    "year": 2019,
+    "location": "Montrose Point Bird Sanctuary, Lincoln Park",
+    "locId": "L161180",
+    "lat": 41.9633833,
+    "lng": -87.6344204
+  },
+  {
+    "commonName": "Yellow-bellied Sapsucker",
+    "scientificName": "Sphyrapicus varius",
+    "date": "24 Sep 2019",
+    "year": 2019,
+    "location": "Northwestern University (Main Campus and Lakefill)",
+    "locId": "L152692",
+    "lat": 42.0569,
+    "lng": -87.6711
+  },
+  {
+    "commonName": "Black-throated Blue Warbler",
+    "scientificName": "Setophaga caerulescens",
+    "date": "14 Sep 2019",
+    "year": 2019,
+    "location": "Montrose Point Bird Sanctuary, Lincoln Park",
+    "locId": "L161180",
+    "lat": 41.9633833,
+    "lng": -87.6344204
+  },
+  {
+    "commonName": "Swainson's Thrush",
+    "scientificName": "Catharus ustulatus",
+    "date": "14 Sep 2019",
+    "year": 2019,
+    "location": "Montrose Point Bird Sanctuary, Lincoln Park",
+    "locId": "L161180",
+    "lat": 41.9633833,
+    "lng": -87.6344204
+  },
+  {
+    "commonName": "Gray-cheeked Thrush",
+    "scientificName": "Catharus minimus",
+    "date": "14 Sep 2019",
+    "year": 2019,
+    "location": "Montrose Point Bird Sanctuary, Lincoln Park",
+    "locId": "L161180",
+    "lat": 41.9633833,
+    "lng": -87.6344204
+  },
+  {
+    "commonName": "Yellow-bellied Flycatcher",
+    "scientificName": "Empidonax flaviventris",
+    "date": "14 Sep 2019",
+    "year": 2019,
+    "location": "Montrose Point Bird Sanctuary, Lincoln Park",
+    "locId": "L161180",
+    "lat": 41.9633833,
+    "lng": -87.6344204
+  },
+  {
+    "commonName": "Peregrine Falcon",
+    "scientificName": "Falco peregrinus",
+    "date": "14 Sep 2019",
+    "year": 2019,
+    "location": "Montrose Point Bird Sanctuary, Lincoln Park",
+    "locId": "L161180",
+    "lat": 41.9633833,
+    "lng": -87.6344204
+  },
+  {
+    "commonName": "American Kestrel",
+    "scientificName": "Falco sparverius",
+    "date": "14 Sep 2019",
+    "year": 2019,
+    "location": "Montrose Point Bird Sanctuary, Lincoln Park",
+    "locId": "L161180",
+    "lat": 41.9633833,
+    "lng": -87.6344204
+  },
+  {
+    "commonName": "Bonaparte's Gull",
+    "scientificName": "Chroicocephalus philadelphia",
+    "date": "14 Sep 2019",
+    "year": 2019,
+    "location": "Montrose Point Bird Sanctuary, Lincoln Park",
+    "locId": "L161180",
+    "lat": 41.9633833,
+    "lng": -87.6344204
+  },
+  {
+    "commonName": "Sanderling",
+    "scientificName": "Calidris alba",
+    "date": "14 Sep 2019",
+    "year": 2019,
+    "location": "Montrose Point Bird Sanctuary, Lincoln Park",
+    "locId": "L161180",
+    "lat": 41.9633833,
+    "lng": -87.6344204
+  },
+  {
+    "commonName": "Semipalmated Plover",
+    "scientificName": "Charadrius semipalmatus",
+    "date": "14 Sep 2019",
+    "year": 2019,
+    "location": "Montrose Point Bird Sanctuary, Lincoln Park",
+    "locId": "L161180",
+    "lat": 41.9633833,
+    "lng": -87.6344204
+  },
+  {
+    "commonName": "Palm Warbler",
+    "scientificName": "Setophaga palmarum",
+    "date": "08 Sep 2019",
+    "year": 2019,
+    "location": "Northwestern University (Main Campus and Lakefill)",
+    "locId": "L152692",
+    "lat": 42.0569,
+    "lng": -87.6711
+  },
+  {
+    "commonName": "American Herring Gull",
+    "scientificName": "Larus smithsonianus",
+    "date": "08 Sep 2019",
+    "year": 2019,
+    "location": "Northwestern University (Main Campus and Lakefill)",
+    "locId": "L152692",
+    "lat": 42.0569,
+    "lng": -87.6711
+  },
+  {
+    "commonName": "Wilson's Warbler",
+    "scientificName": "Cardellina pusilla",
+    "date": "07 Sep 2019",
+    "year": 2019,
+    "location": "Montrose Point Bird Sanctuary, Lincoln Park",
+    "locId": "L161180",
+    "lat": 41.9633833,
+    "lng": -87.6344204
+  },
+  {
+    "commonName": "Magnolia Warbler",
+    "scientificName": "Setophaga magnolia",
+    "date": "07 Sep 2019",
+    "year": 2019,
+    "location": "Montrose Point Bird Sanctuary, Lincoln Park",
+    "locId": "L161180",
+    "lat": 41.9633833,
+    "lng": -87.6344204
+  },
+  {
+    "commonName": "Black-and-white Warbler",
+    "scientificName": "Mniotilta varia",
+    "date": "07 Sep 2019",
+    "year": 2019,
+    "location": "Montrose Point Bird Sanctuary, Lincoln Park",
+    "locId": "L161180",
+    "lat": 41.9633833,
+    "lng": -87.6344204
+  },
+  {
+    "commonName": "Black-capped Chickadee",
+    "scientificName": "Poecile atricapillus",
+    "date": "07 Sep 2019",
+    "year": 2019,
+    "location": "Montrose Point Bird Sanctuary, Lincoln Park",
+    "locId": "L161180",
+    "lat": 41.9633833,
+    "lng": -87.6344204
+  },
+  {
+    "commonName": "Red-eyed Vireo",
+    "scientificName": "Vireo olivaceus",
+    "date": "07 Sep 2019",
+    "year": 2019,
+    "location": "Montrose Point Bird Sanctuary, Lincoln Park",
+    "locId": "L161180",
+    "lat": 41.9633833,
+    "lng": -87.6344204
+  },
+  {
+    "commonName": "Least Flycatcher",
+    "scientificName": "Empidonax minimus",
+    "date": "07 Sep 2019",
+    "year": 2019,
+    "location": "Montrose Point Bird Sanctuary, Lincoln Park",
+    "locId": "L161180",
+    "lat": 41.9633833,
+    "lng": -87.6344204
+  },
+  {
+    "commonName": "Black-crowned Night Heron",
+    "scientificName": "Nycticorax nycticorax",
+    "date": "28 Aug 2019",
+    "year": 2019,
+    "location": "Battelle Darby Creek Metro Park--Darby Plains Wet Prairie Restoration",
+    "locId": "L1129017",
+    "lat": 39.9156745,
+    "lng": -83.2021666
+  },
+  {
+    "commonName": "Semipalmated Sandpiper",
+    "scientificName": "Calidris pusilla",
+    "date": "28 Aug 2019",
+    "year": 2019,
+    "location": "Battelle Darby Creek Metro Park--Darby Plains Wet Prairie Restoration",
+    "locId": "L1129017",
+    "lat": 39.9156745,
+    "lng": -83.2021666
+  },
+  {
+    "commonName": "Pectoral Sandpiper",
+    "scientificName": "Calidris melanotos",
+    "date": "28 Aug 2019",
+    "year": 2019,
+    "location": "Battelle Darby Creek Metro Park--Darby Plains Wet Prairie Restoration",
+    "locId": "L1129017",
+    "lat": 39.9156745,
+    "lng": -83.2021666
+  },
+  {
+    "commonName": "Lesser Yellowlegs",
+    "scientificName": "Tringa flavipes",
+    "date": "28 Aug 2019",
+    "year": 2019,
+    "location": "Battelle Darby Creek Metro Park--Darby Plains Wet Prairie Restoration",
+    "locId": "L1129017",
+    "lat": 39.9156745,
+    "lng": -83.2021666
+  },
+  {
+    "commonName": "Common Gallinule",
+    "scientificName": "Gallinula galeata",
+    "date": "28 Aug 2019",
+    "year": 2019,
+    "location": "Battelle Darby Creek Metro Park--Darby Plains Wet Prairie Restoration",
+    "locId": "L1129017",
+    "lat": 39.9156745,
+    "lng": -83.2021666
+  },
+  {
+    "commonName": "Great Crested Flycatcher",
+    "scientificName": "Myiarchus crinitus",
+    "date": "16 Aug 2019",
+    "year": 2019,
+    "location": "Conrey Rd. Bird and Butterfly Sanctuary",
+    "locId": "L6603494",
+    "lat": 39.2876685,
+    "lng": -84.3615031
+  },
+  {
+    "commonName": "Least Sandpiper",
+    "scientificName": "Calidris minutilla",
+    "date": "11 Aug 2019",
+    "year": 2019,
+    "location": "Battelle Darby Creek Metro Park--Darby Plains Wet Prairie Restoration",
+    "locId": "L1129017",
+    "lat": 39.9156745,
+    "lng": -83.2021666
+  },
+  {
+    "commonName": "Pied-billed Grebe",
+    "scientificName": "Podilymbus podiceps",
+    "date": "09 Aug 2019",
+    "year": 2019,
+    "location": "Battelle Darby Creek Metro Park--Darby Plains Wet Prairie Restoration",
+    "locId": "L1129017",
+    "lat": 39.9156745,
+    "lng": -83.2021666
+  },
+  {
+    "commonName": "Solitary Sandpiper",
+    "scientificName": "Tringa solitaria",
+    "date": "09 Aug 2019",
+    "year": 2019,
+    "location": "Battelle Darby Creek Metro Park--Darby Plains Wet Prairie Restoration",
+    "locId": "L1129017",
+    "lat": 39.9156745,
+    "lng": -83.2021666
+  },
+  {
+    "commonName": "Sandhill Crane",
+    "scientificName": "Antigone canadensis",
+    "date": "09 Aug 2019",
+    "year": 2019,
+    "location": "Battelle Darby Creek Metro Park--Darby Plains Wet Prairie Restoration",
+    "locId": "L1129017",
+    "lat": 39.9156745,
+    "lng": -83.2021666
+  },
+  {
+    "commonName": "American Coot",
+    "scientificName": "Fulica americana",
+    "date": "09 Aug 2019",
+    "year": 2019,
+    "location": "Battelle Darby Creek Metro Park--Darby Plains Wet Prairie Restoration",
+    "locId": "L1129017",
+    "lat": 39.9156745,
+    "lng": -83.2021666
+  },
+  {
+    "commonName": "Blue-winged Teal",
+    "scientificName": "Spatula discors",
+    "date": "09 Aug 2019",
+    "year": 2019,
+    "location": "Battelle Darby Creek Metro Park--Darby Plains Wet Prairie Restoration",
+    "locId": "L1129017",
+    "lat": 39.9156745,
+    "lng": -83.2021666
+  },
+  {
+    "commonName": "Spotted Sandpiper",
+    "scientificName": "Actitis macularius",
+    "date": "06 Aug 2019",
+    "year": 2019,
+    "location": "Summit Park (formerly Blue Ash Airport)",
+    "locId": "L1064897",
+    "lat": 39.2480611,
+    "lng": -84.3911362
+  },
+  {
+    "commonName": "Yellow-throated Warbler",
+    "scientificName": "Setophaga dominica",
+    "date": "20 Jul 2019",
+    "year": 2019,
+    "location": "Unnamed Road, Chillicothe, Ohio, US (39.446, -83.072)",
+    "locId": "L9671891",
+    "lat": 39.446,
+    "lng": -83.072
+  },
+  {
+    "commonName": "Summer Tanager",
+    "scientificName": "Piranga rubra",
+    "date": "20 Jul 2019",
+    "year": 2019,
+    "location": "Cincinnati Nature Center--Rowe Woods",
+    "locId": "L322642",
+    "lat": 39.1253997,
+    "lng": -84.2434222
+  },
+  {
+    "commonName": "Wood Thrush",
+    "scientificName": "Hylocichla mustelina",
+    "date": "18 Jul 2019",
+    "year": 2019,
+    "location": "Cincinnati Nature Center--Rowe Woods",
+    "locId": "L322642",
+    "lat": 39.1253997,
+    "lng": -84.2434222
+  },
+  {
+    "commonName": "Red-shouldered Hawk",
+    "scientificName": "Buteo lineatus",
+    "date": "17 Jul 2019",
+    "year": 2019,
+    "location": "Glenwood Gardens",
+    "locId": "L324868",
+    "lat": 39.2576369,
+    "lng": -84.4712859
+  },
+  {
+    "commonName": "Caspian Tern",
+    "scientificName": "Hydroprogne caspia",
+    "date": "08 Jul 2019",
+    "year": 2019,
+    "location": "Northwestern University (Main Campus and Lakefill)",
+    "locId": "L152692",
+    "lat": 42.0569,
+    "lng": -87.6711
+  },
+  {
+    "commonName": "Ring-billed Gull",
+    "scientificName": "Larus delawarensis",
+    "date": "08 Jul 2019",
+    "year": 2019,
+    "location": "Northwestern University (Main Campus and Lakefill)",
+    "locId": "L152692",
+    "lat": 42.0569,
+    "lng": -87.6711
+  },
+  {
+    "commonName": "Redhead",
+    "scientificName": "Aythya americana",
+    "date": "08 Jul 2019",
+    "year": 2019,
+    "location": "Northwestern University (Main Campus and Lakefill)",
+    "locId": "L152692",
+    "lat": 42.0569,
+    "lng": -87.6711
+  },
+  {
+    "commonName": "Western Kingbird",
+    "scientificName": "Tyrannus verticalis",
+    "date": "05 Jul 2019",
+    "year": 2019,
+    "location": "Lady Bird Lake--Peninsula Trail",
+    "locId": "L2211187",
+    "lat": 30.2464761,
+    "lng": -97.7206448
+  },
+  {
+    "commonName": "Yellow-crowned Night Heron",
+    "scientificName": "Nyctanassa violacea",
+    "date": "05 Jul 2019",
+    "year": 2019,
+    "location": "Lady Bird Lake--Peninsula Trail",
+    "locId": "L2211187",
+    "lat": 30.2464761,
+    "lng": -97.7206448
+  },
+  {
+    "commonName": "Yellow-billed Cuckoo",
+    "scientificName": "Coccyzus americanus",
+    "date": "05 Jul 2019",
+    "year": 2019,
+    "location": "Lady Bird Lake--Peninsula Trail",
+    "locId": "L2211187",
+    "lat": 30.2464761,
+    "lng": -97.7206448
+  },
+  {
+    "commonName": "House Finch",
+    "scientificName": "Haemorhous mexicanus",
+    "date": "04 Jul 2019",
+    "year": 2019,
+    "location": "Zilker Park (HOTE 043)",
+    "locId": "L129127",
+    "lat": 30.2670002,
+    "lng": -97.7699966
+  },
+  {
+    "commonName": "Purple Martin",
+    "scientificName": "Progne subis",
+    "date": "04 Jul 2019",
+    "year": 2019,
+    "location": "Zilker Park (HOTE 043)",
+    "locId": "L129127",
+    "lat": 30.2670002,
+    "lng": -97.7699966
+  },
+  {
+    "commonName": "White-winged Dove",
+    "scientificName": "Zenaida asiatica",
+    "date": "03 Jul 2019",
+    "year": 2019,
+    "location": "Zilker Park (HOTE 043)",
+    "locId": "L129127",
+    "lat": 30.2670002,
+    "lng": -97.7699966
+  },
+  {
+    "commonName": "Eastern Warbling Vireo",
+    "scientificName": "Vireo gilvus",
+    "date": "25 Jun 2019",
+    "year": 2019,
+    "location": "Prairie Oaks Metro Park--Darby Bend Lakes (Franklin Co.)",
+    "locId": "L629294",
+    "lat": 40.0011885,
+    "lng": -83.2548237
+  },
+  {
+    "commonName": "Willow Flycatcher",
+    "scientificName": "Empidonax traillii",
+    "date": "25 Jun 2019",
+    "year": 2019,
+    "location": "Prairie Oaks Metro Park--Darby Bend Lakes (Franklin Co.)",
+    "locId": "L629294",
+    "lat": 40.0011885,
+    "lng": -83.2548237
+  },
+  {
+    "commonName": "Eastern Meadowlark",
+    "scientificName": "Sturnella magna",
+    "date": "24 Jun 2019",
+    "year": 2019,
+    "location": "Battelle Darby Creek Metro Park--Darby Plains Wet Prairie Restoration",
+    "locId": "L1129017",
+    "lat": 39.9156745,
+    "lng": -83.2021666
+  },
+  {
+    "commonName": "Field Sparrow",
+    "scientificName": "Spizella pusilla",
+    "date": "24 Jun 2019",
+    "year": 2019,
+    "location": "Battelle Darby Creek Metro Park--Darby Plains Wet Prairie Restoration",
+    "locId": "L1129017",
+    "lat": 39.9156745,
+    "lng": -83.2021666
+  },
+  {
+    "commonName": "Eastern Wood-Pewee",
+    "scientificName": "Contopus virens",
+    "date": "24 Jun 2019",
+    "year": 2019,
+    "location": "Battelle Darby Creek Metro Park--Darby Plains Wet Prairie Restoration",
+    "locId": "L1129017",
+    "lat": 39.9156745,
+    "lng": -83.2021666
+  },
+  {
+    "commonName": "Great Egret",
+    "scientificName": "Ardea alba",
+    "date": "24 Jun 2019",
+    "year": 2019,
+    "location": "Battelle Darby Creek Metro Park--Darby Plains Wet Prairie Restoration",
+    "locId": "L1129017",
+    "lat": 39.9156745,
+    "lng": -83.2021666
+  },
+  {
+    "commonName": "Northern House Wren",
+    "scientificName": "Troglodytes aedon",
+    "date": "21 Jun 2019",
+    "year": 2019,
+    "location": "Kiwanis Riverway Park",
+    "locId": "L323166",
+    "lat": 40.096543,
+    "lng": -83.1095188
+  },
+  {
+    "commonName": "Wild Turkey",
+    "scientificName": "Meleagris gallopavo",
+    "date": "18 Jun 2019",
+    "year": 2019,
+    "location": "Glenwood Gardens",
+    "locId": "L324868",
+    "lat": 39.2576369,
+    "lng": -84.4712859
+  },
+  {
+    "commonName": "Northern Flicker",
+    "scientificName": "Colaptes auratus",
+    "date": "14 Jun 2019",
+    "year": 2019,
+    "location": "Withrow Nature Preserve",
+    "locId": "L812604",
+    "lat": 39.0499854,
+    "lng": -84.3737984
+  },
+  {
+    "commonName": "Eastern Kingbird",
+    "scientificName": "Tyrannus tyrannus",
+    "date": "14 Jun 2019",
+    "year": 2019,
+    "location": "Summit Park (formerly Blue Ash Airport)",
+    "locId": "L1064897",
+    "lat": 39.2480611,
+    "lng": -84.3911362
+  },
+  {
+    "commonName": "Dickcissel",
+    "scientificName": "Spiza americana",
+    "date": "12 Jun 2019",
+    "year": 2019,
+    "location": "Otto Armleder Memorial Park",
+    "locId": "L298164",
+    "lat": 39.1231188,
+    "lng": -84.405935
+  },
+  {
+    "commonName": "Common Yellowthroat",
+    "scientificName": "Geothlypis trichas",
+    "date": "12 Jun 2019",
+    "year": 2019,
+    "location": "Otto Armleder Memorial Park",
+    "locId": "L298164",
+    "lat": 39.1231188,
+    "lng": -84.405935
+  },
+  {
+    "commonName": "Yellow-breasted Chat",
+    "scientificName": "Icteria virens",
+    "date": "12 Jun 2019",
+    "year": 2019,
+    "location": "Otto Armleder Memorial Park",
+    "locId": "L298164",
+    "lat": 39.1231188,
+    "lng": -84.405935
+  },
+  {
+    "commonName": "Savannah Sparrow",
+    "scientificName": "Passerculus sandwichensis",
+    "date": "12 Jun 2019",
+    "year": 2019,
+    "location": "Otto Armleder Memorial Park",
+    "locId": "L298164",
+    "lat": 39.1231188,
+    "lng": -84.405935
+  },
+  {
+    "commonName": "Brown Thrasher",
+    "scientificName": "Toxostoma rufum",
+    "date": "11 Jun 2019",
+    "year": 2019,
+    "location": "Summit Park (formerly Blue Ash Airport)",
+    "locId": "L1064897",
+    "lat": 39.2480611,
+    "lng": -84.3911362
+  },
+  {
+    "commonName": "Cliff Swallow",
+    "scientificName": "Petrochelidon pyrrhonota",
+    "date": "08 Jun 2019",
+    "year": 2019,
+    "location": "Theodore Roosevelt Island",
+    "locId": "L718768",
+    "lat": 38.8964407,
+    "lng": -77.0639175
+  },
+  {
+    "commonName": "American Redstart",
+    "scientificName": "Setophaga ruticilla",
+    "date": "04 Jun 2019",
+    "year": 2019,
+    "location": "Shenandoah NP--Compton Gap",
+    "locId": "L5772190",
+    "lat": 38.8240992,
+    "lng": -78.1704766
+  },
+  {
+    "commonName": "Broad-winged Hawk",
+    "scientificName": "Buteo platypterus",
+    "date": "04 Jun 2019",
+    "year": 2019,
+    "location": "Shenandoah NP--Compton Gap",
+    "locId": "L5772190",
+    "lat": 38.8240992,
+    "lng": -78.1704766
+  },
+  {
+    "commonName": "Downy Woodpecker",
+    "scientificName": "Dryobates pubescens",
+    "date": "02 Jun 2019",
+    "year": 2019,
+    "location": "Cincinnati Nature Center--Rowe Woods",
+    "locId": "L322642",
+    "lat": 39.1253997,
+    "lng": -84.2434222
+  },
+  {
+    "commonName": "Red-headed Woodpecker",
+    "scientificName": "Melanerpes erythrocephalus",
+    "date": "02 Jun 2019",
+    "year": 2019,
+    "location": "Cincinnati Nature Center--Rowe Woods",
+    "locId": "L322642",
+    "lat": 39.1253997,
+    "lng": -84.2434222
+  },
+  {
+    "commonName": "Gray Catbird",
+    "scientificName": "Dumetella carolinensis",
+    "date": "01 Jun 2019",
+    "year": 2019,
+    "location": "Summit Park (formerly Blue Ash Airport)",
+    "locId": "L1064897",
+    "lat": 39.2480611,
+    "lng": -84.3911362
+  },
+  {
+    "commonName": "Blue Grosbeak",
+    "scientificName": "Passerina caerulea",
+    "date": "28 May 2019",
+    "year": 2019,
+    "location": "Glenwood Gardens",
+    "locId": "L324868",
+    "lat": 39.2576369,
+    "lng": -84.4712859
+  },
+  {
+    "commonName": "Orchard Oriole",
+    "scientificName": "Icterus spurius",
+    "date": "28 May 2019",
+    "year": 2019,
+    "location": "Glenwood Gardens",
+    "locId": "L324868",
+    "lat": 39.2576369,
+    "lng": -84.4712859
+  },
+  {
+    "commonName": "Eastern Towhee",
+    "scientificName": "Pipilo erythrophthalmus",
+    "date": "28 May 2019",
+    "year": 2019,
+    "location": "Glenwood Gardens",
+    "locId": "L324868",
+    "lat": 39.2576369,
+    "lng": -84.4712859
+  },
+  {
+    "commonName": "Cedar Waxwing",
+    "scientificName": "Bombycilla cedrorum",
+    "date": "28 May 2019",
+    "year": 2019,
+    "location": "Glenwood Gardens",
+    "locId": "L324868",
+    "lat": 39.2576369,
+    "lng": -84.4712859
+  },
+  {
+    "commonName": "Rock Pigeon",
+    "scientificName": "Columba livia",
+    "date": "26 May 2019",
+    "year": 2019,
+    "location": "Myrtle Edwards Park / Centennial Park",
+    "locId": "L7497115",
+    "lat": 47.6226242,
+    "lng": -122.3664308
+  },
+  {
+    "commonName": "Spotted Towhee",
+    "scientificName": "Pipilo maculatus",
+    "date": "23 May 2019",
+    "year": 2019,
+    "location": "Washington Park--Green Point",
+    "locId": "L1252571",
+    "lat": 48.498746,
+    "lng": -122.701145
+  },
+  {
+    "commonName": "Rhinoceros Auklet",
+    "scientificName": "Cerorhinca monocerata",
+    "date": "22 May 2019",
+    "year": 2019,
+    "location": "Pear Point, San Juan Island",
+    "locId": "L6362567",
+    "lat": 48.5221644,
+    "lng": -122.9695415
+  },
+  {
+    "commonName": "Pigeon Guillemot",
+    "scientificName": "Cepphus columba",
+    "date": "22 May 2019",
+    "year": 2019,
+    "location": "Deception Pass SP -- North Beach",
+    "locId": "L962710",
+    "lat": 48.4042492,
+    "lng": -122.646904
+  },
+  {
+    "commonName": "Dark-eyed Junco",
+    "scientificName": "Junco hyemalis",
+    "date": "22 May 2019",
+    "year": 2019,
+    "location": "133 Brooks Lane, Friday Harbor, Washington, US (48.624, -123.15)",
+    "locId": "L9320151",
+    "lat": 48.624,
+    "lng": -123.15
+  },
+  {
+    "commonName": "Western Flycatcher",
+    "scientificName": "Empidonax difficilis",
+    "date": "22 May 2019",
+    "year": 2019,
+    "location": "133 Brooks Lane, Friday Harbor, Washington, US (48.624, -123.15)",
+    "locId": "L9320151",
+    "lat": 48.624,
+    "lng": -123.15
+  },
+  {
+    "commonName": "Barn Swallow",
+    "scientificName": "Hirundo rustica",
+    "date": "21 May 2019",
+    "year": 2019,
+    "location": "Cattle Point",
+    "locId": "L294563",
+    "lat": 48.4544295,
+    "lng": -122.9619995
+  },
+  {
+    "commonName": "Pacific Loon",
+    "scientificName": "Gavia pacifica",
+    "date": "21 May 2019",
+    "year": 2019,
+    "location": "Cattle Point",
+    "locId": "L294563",
+    "lat": 48.4544295,
+    "lng": -122.9619995
+  },
+  {
+    "commonName": "Northern Rough-winged Swallow",
+    "scientificName": "Stelgidopteryx serripennis",
+    "date": "21 May 2019",
+    "year": 2019,
+    "location": "Jakle's Lagoon Trail",
+    "locId": "L501928",
+    "lat": 48.4619946,
+    "lng": -122.97791
+  },
+  {
+    "commonName": "Belted Kingfisher",
+    "scientificName": "Megaceryle alcyon",
+    "date": "21 May 2019",
+    "year": 2019,
+    "location": "Jakle's Lagoon Trail",
+    "locId": "L501928",
+    "lat": 48.4619946,
+    "lng": -122.97791
+  },
+  {
+    "commonName": "Killdeer",
+    "scientificName": "Charadrius vociferus",
+    "date": "21 May 2019",
+    "year": 2019,
+    "location": "Jakle's Lagoon Trail",
+    "locId": "L501928",
+    "lat": 48.4619946,
+    "lng": -122.97791
+  },
+  {
+    "commonName": "Double-crested Cormorant",
+    "scientificName": "Nannopterum auritum",
+    "date": "21 May 2019",
+    "year": 2019,
+    "location": "Tulista Park",
+    "locId": "L4770991",
+    "lat": 48.6425082,
+    "lng": -123.3987004
+  },
+  {
+    "commonName": "Glaucous-winged Gull",
+    "scientificName": "Larus glaucescens",
+    "date": "21 May 2019",
+    "year": 2019,
+    "location": "Tulista Park",
+    "locId": "L4770991",
+    "lat": 48.6425082,
+    "lng": -123.3987004
+  },
+  {
+    "commonName": "Anna's Hummingbird",
+    "scientificName": "Calypte anna",
+    "date": "21 May 2019",
+    "year": 2019,
+    "location": "Tulista Park",
+    "locId": "L4770991",
+    "lat": 48.6425082,
+    "lng": -123.3987004
+  },
+  {
+    "commonName": "American Crow",
+    "scientificName": "Corvus brachyrhynchos",
+    "date": "19 May 2019",
+    "year": 2019,
+    "location": "Olympic NP--Rialto Beach",
+    "locId": "L864689",
+    "lat": 47.9196209,
+    "lng": -124.6385193
+  },
+  {
+    "commonName": "Bald Eagle",
+    "scientificName": "Haliaeetus leucocephalus",
+    "date": "19 May 2019",
+    "year": 2019,
+    "location": "Olympic NP--Rialto Beach",
+    "locId": "L864689",
+    "lat": 47.9196209,
+    "lng": -124.6385193
+  },
+  {
+    "commonName": "Common Raven",
+    "scientificName": "Corvus corax",
+    "date": "18 May 2019",
+    "year": 2019,
+    "location": "Olympic NP--Meadow Loop Trail, Hurricane Ridge",
+    "locId": "L1777266",
+    "lat": 47.9707773,
+    "lng": -123.4978502
+  },
+  {
+    "commonName": "Sooty Grouse",
+    "scientificName": "Dendragapus fuliginosus",
+    "date": "18 May 2019",
+    "year": 2019,
+    "location": "Olympic NP--Meadow Loop Trail, Hurricane Ridge",
+    "locId": "L1777266",
+    "lat": 47.9707773,
+    "lng": -123.4978502
+  },
+  {
+    "commonName": "Townsend's Warbler",
+    "scientificName": "Setophaga townsendi",
+    "date": "18 May 2019",
+    "year": 2019,
+    "location": "Storm King Ranger station",
+    "locId": "L4140987",
+    "lat": 48.0581943,
+    "lng": -123.7868321
+  },
+  {
+    "commonName": "Canada Jay",
+    "scientificName": "Perisoreus canadensis",
+    "date": "18 May 2019",
+    "year": 2019,
+    "location": "Storm King Ranger station",
+    "locId": "L4140987",
+    "lat": 48.0581943,
+    "lng": -123.7868321
+  },
+  {
+    "commonName": "Eastern Bluebird",
+    "scientificName": "Sialia sialis",
+    "date": "16 May 2019",
+    "year": 2019,
+    "location": "Cincinnati Nature Center--Rowe Woods",
+    "locId": "L322642",
+    "lat": 39.1253997,
+    "lng": -84.2434222
+  },
+  {
+    "commonName": "Song Sparrow",
+    "scientificName": "Melospiza melodia",
+    "date": "10 May 2019",
+    "year": 2019,
+    "location": "Catalpa Creek",
+    "locId": "L9037370",
+    "lat": 39.232,
+    "lng": -84.3783
+  },
+  {
+    "commonName": "Common Grackle",
+    "scientificName": "Quiscalus quiscula",
+    "date": "08 May 2019",
+    "year": 2019,
+    "location": "Catalpa Creek",
+    "locId": "L9037370",
+    "lat": 39.232,
+    "lng": -84.3783
+  },
+  {
+    "commonName": "Hairy Woodpecker",
+    "scientificName": "Leuconotopicus villosus",
+    "date": "08 May 2019",
+    "year": 2019,
+    "location": "Catalpa Creek",
+    "locId": "L9037370",
+    "lat": 39.232,
+    "lng": -84.3783
+  },
+  {
+    "commonName": "Chimney Swift",
+    "scientificName": "Chaetura pelagica",
+    "date": "08 May 2019",
+    "year": 2019,
+    "location": "Catalpa Creek",
+    "locId": "L9037370",
+    "lat": 39.232,
+    "lng": -84.3783
+  },
+  {
+    "commonName": "Baltimore Oriole",
+    "scientificName": "Icterus galbula",
+    "date": "06 May 2019",
+    "year": 2019,
+    "location": "Sharon Woods Park, Sharonville",
+    "locId": "L592770",
+    "lat": 39.2828288,
+    "lng": -84.3914366
+  },
+  {
+    "commonName": "Carolina Wren",
+    "scientificName": "Thryothorus ludovicianus",
+    "date": "06 May 2019",
+    "year": 2019,
+    "location": "Sharon Woods Park, Sharonville",
+    "locId": "L592770",
+    "lat": 39.2828288,
+    "lng": -84.3914366
+  },
+  {
+    "commonName": "Blue-gray Gnatcatcher",
+    "scientificName": "Polioptila caerulea",
+    "date": "06 May 2019",
+    "year": 2019,
+    "location": "Sharon Woods Park, Sharonville",
+    "locId": "L592770",
+    "lat": 39.2828288,
+    "lng": -84.3914366
+  },
+  {
+    "commonName": "Tree Swallow",
+    "scientificName": "Tachycineta bicolor",
+    "date": "06 May 2019",
+    "year": 2019,
+    "location": "Sharon Woods Park, Sharonville",
+    "locId": "L592770",
+    "lat": 39.2828288,
+    "lng": -84.3914366
+  },
+  {
+    "commonName": "Pileated Woodpecker",
+    "scientificName": "Dryocopus pileatus",
+    "date": "06 May 2019",
+    "year": 2019,
+    "location": "Sharon Woods Park, Sharonville",
+    "locId": "L592770",
+    "lat": 39.2828288,
+    "lng": -84.3914366
+  },
+  {
+    "commonName": "Great Blue Heron",
+    "scientificName": "Ardea herodias",
+    "date": "06 May 2019",
+    "year": 2019,
+    "location": "Sharon Woods Park, Sharonville",
+    "locId": "L592770",
+    "lat": 39.2828288,
+    "lng": -84.3914366
+  },
+  {
+    "commonName": "Green Heron",
+    "scientificName": "Butorides virescens",
+    "date": "06 May 2019",
+    "year": 2019,
+    "location": "Sharon Woods Park, Sharonville",
+    "locId": "L592770",
+    "lat": 39.2828288,
+    "lng": -84.3914366
+  },
+  {
+    "commonName": "Ruby-throated Hummingbird",
+    "scientificName": "Archilochus colubris",
+    "date": "06 May 2019",
+    "year": 2019,
+    "location": "Sharon Woods Park, Sharonville",
+    "locId": "L592770",
+    "lat": 39.2828288,
+    "lng": -84.3914366
+  },
+  {
+    "commonName": "Wood Duck",
+    "scientificName": "Aix sponsa",
+    "date": "06 May 2019",
+    "year": 2019,
+    "location": "Sharon Woods Park, Sharonville",
+    "locId": "L592770",
+    "lat": 39.2828288,
+    "lng": -84.3914366
+  },
+  {
+    "commonName": "Indigo Bunting",
+    "scientificName": "Passerina cyanea",
+    "date": "04 May 2019",
+    "year": 2019,
+    "location": "Glenwood Gardens",
+    "locId": "L324868",
+    "lat": 39.2576369,
+    "lng": -84.4712859
+  },
+  {
+    "commonName": "Brown-headed Cowbird",
+    "scientificName": "Molothrus ater",
+    "date": "04 May 2019",
+    "year": 2019,
+    "location": "Glenwood Gardens",
+    "locId": "L324868",
+    "lat": 39.2576369,
+    "lng": -84.4712859
+  },
+  {
+    "commonName": "Red-winged Blackbird",
+    "scientificName": "Agelaius phoeniceus",
+    "date": "04 May 2019",
+    "year": 2019,
+    "location": "Glenwood Gardens",
+    "locId": "L324868",
+    "lat": 39.2576369,
+    "lng": -84.4712859
+  },
+  {
+    "commonName": "Chipping Sparrow",
+    "scientificName": "Spizella passerina",
+    "date": "04 May 2019",
+    "year": 2019,
+    "location": "Glenwood Gardens",
+    "locId": "L324868",
+    "lat": 39.2576369,
+    "lng": -84.4712859
+  },
+  {
+    "commonName": "Red-tailed Hawk",
+    "scientificName": "Buteo jamaicensis",
+    "date": "04 May 2019",
+    "year": 2019,
+    "location": "Glenwood Gardens",
+    "locId": "L324868",
+    "lat": 39.2576369,
+    "lng": -84.4712859
+  },
+  {
+    "commonName": "American Goldfinch",
+    "scientificName": "Spinus tristis",
+    "date": "16 Apr 2019",
+    "year": 2019,
+    "location": "Cincinnati Nature Center--Rowe Woods",
+    "locId": "L322642",
+    "lat": 39.1253997,
+    "lng": -84.2434222
+  },
+  {
+    "commonName": "White-breasted Nuthatch",
+    "scientificName": "Sitta carolinensis",
+    "date": "16 Apr 2019",
+    "year": 2019,
+    "location": "Cincinnati Nature Center--Rowe Woods",
+    "locId": "L322642",
+    "lat": 39.1253997,
+    "lng": -84.2434222
+  },
+  {
+    "commonName": "Eastern Phoebe",
+    "scientificName": "Sayornis phoebe",
+    "date": "16 Apr 2019",
+    "year": 2019,
+    "location": "Cincinnati Nature Center--Rowe Woods",
+    "locId": "L322642",
+    "lat": 39.1253997,
+    "lng": -84.2434222
+  },
+  {
+    "commonName": "Red-bellied Woodpecker",
+    "scientificName": "Melanerpes carolinus",
+    "date": "16 Apr 2019",
+    "year": 2019,
+    "location": "Cincinnati Nature Center--Rowe Woods",
+    "locId": "L322642",
+    "lat": 39.1253997,
+    "lng": -84.2434222
+  },
+  {
+    "commonName": "Turkey Vulture",
+    "scientificName": "Cathartes aura",
+    "date": "16 Apr 2019",
+    "year": 2019,
+    "location": "Cincinnati Nature Center--Rowe Woods",
+    "locId": "L322642",
+    "lat": 39.1253997,
+    "lng": -84.2434222
+  },
+  {
+    "commonName": "Mallard",
+    "scientificName": "Anas platyrhynchos",
+    "date": "16 Apr 2019",
+    "year": 2019,
+    "location": "Cincinnati Nature Center--Rowe Woods",
+    "locId": "L322642",
+    "lat": 39.1253997,
+    "lng": -84.2434222
+  },
+  {
+    "commonName": "Northern Cardinal",
+    "scientificName": "Cardinalis cardinalis",
+    "date": "13 Apr 2019",
+    "year": 2019,
+    "location": "Catalpa Creek",
+    "locId": "L9037370",
+    "lat": 39.232,
+    "lng": -84.3783
+  },
+  {
+    "commonName": "Tufted Titmouse",
+    "scientificName": "Baeolophus bicolor",
+    "date": "13 Apr 2019",
+    "year": 2019,
+    "location": "Catalpa Creek",
+    "locId": "L9037370",
+    "lat": 39.232,
+    "lng": -84.3783
+  },
+  {
+    "commonName": "Carolina Chickadee",
+    "scientificName": "Poecile carolinensis",
+    "date": "13 Apr 2019",
+    "year": 2019,
+    "location": "Catalpa Creek",
+    "locId": "L9037370",
+    "lat": 39.232,
+    "lng": -84.3783
+  },
+  {
+    "commonName": "Cooper's Hawk",
+    "scientificName": "Astur cooperii",
+    "date": "13 Apr 2019",
+    "year": 2019,
+    "location": "Catalpa Creek",
+    "locId": "L9037370",
+    "lat": 39.232,
+    "lng": -84.3783
+  },
+  {
+    "commonName": "Mourning Dove",
+    "scientificName": "Zenaida macroura",
+    "date": "04 Apr 2019",
+    "year": 2019,
+    "location": "Medpace",
+    "locId": "L8966142",
+    "lat": 39.1454,
+    "lng": -84.3858
+  },
+  {
+    "commonName": "European Starling",
+    "scientificName": "Sturnus vulgaris",
+    "date": "03 Apr 2019",
+    "year": 2019,
+    "location": "Medpace",
+    "locId": "L8966142",
+    "lat": 39.1454,
+    "lng": -84.3858
+  },
+  {
+    "commonName": "Great-tailed Grackle",
+    "scientificName": "Quiscalus mexicanus",
+    "date": "28 Mar 2019",
+    "year": 2019,
+    "location": "Rice U. Campus",
+    "locId": "L438238",
+    "lat": 29.714489,
+    "lng": -95.401809
+  },
+  {
+    "commonName": "Blue Jay",
+    "scientificName": "Cyanocitta cristata",
+    "date": "28 Mar 2019",
+    "year": 2019,
+    "location": "Rice U. Campus",
+    "locId": "L438238",
+    "lat": 29.714489,
+    "lng": -95.401809
+  },
+  {
+    "commonName": "American Robin",
+    "scientificName": "Turdus migratorius",
+    "date": "22 Mar 2019",
+    "year": 2019,
+    "location": "Medpace",
+    "locId": "L8966142",
+    "lat": 39.1454,
+    "lng": -84.3858
+  },
+  {
+    "commonName": "Northern Mockingbird",
+    "scientificName": "Mimus polyglottos",
+    "date": "22 Mar 2019",
+    "year": 2019,
+    "location": "Medpace",
+    "locId": "L8966142",
+    "lat": 39.1454,
+    "lng": -84.3858
+  },
+  {
+    "commonName": "Canada Goose",
+    "scientificName": "Branta canadensis",
+    "date": "22 Mar 2019",
+    "year": 2019,
+    "location": "Medpace",
+    "locId": "L8966142",
+    "lat": 39.1454,
+    "lng": -84.3858
+  }
+]
